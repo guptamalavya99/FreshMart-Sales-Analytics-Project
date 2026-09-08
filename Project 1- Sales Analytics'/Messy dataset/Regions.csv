@@ -1,0 +1,110 @@
+region_id,sales_district,sales_region
+1,New York NY,Northeast
+2,Boston MA,Northeast
+3,Philadelphia PA,Northeast
+4,Pittsburgh PA,Northeast
+5,Buffalo NY,Northeast
+6,Newark NJ,Northeast
+7,Hartford CT,Northeast
+8,Providence RI,Northeast
+9,pORTLAND me,Northeast
+10,  Albany NY,Northeast
+11,Rochester NY,Northeast
+12,Syracuse NY,Northeast
+13,Atlanta GA,South East
+14,Miami FL,Southeast
+15,Orlando FL,Southeast
+16,Charlotte NC,Southeast
+17,  Raleigh NC  ,SOUTHEAST
+18,Nashville TN,Southeast
+19,Memphis TN,Southeast
+20,New Orleans LA,South East
+21,Jacksonville FL,Southeast
+22,Tampa FL,Southeast
+23,Richmond VA,Southeast
+24,Charleston SC,Southeast
+25,Chicago IL,Midwest
+26,Detroit MI,Midwest
+27,Cleveland OH,Midwest
+28,Columbus OH,Midwest
+29,Indianapolis IN,Midwest
+30,  Milwaukee WI  ,Midwest
+31,Minneapolis MN,Midwest
+32,St Louis MO,Midwest
+33,Kansas City MO,Midwest
+34,Cincinnati OH,Midwest
+35,Des Moines IA,Midwest
+36,Omaha NE,Mid West
+37,Dallas TX,Southwest
+38,Houston TX,Southwest
+39,San Antonio TX  ,South West
+40,Austin TX,southwest
+41,Phoenix AZ,southwest
+42,Tucson AZ,Southwest
+43,Albuquerque NM,Southwest
+44,El Paso TX,southwest
+45,Oklahoma City OK,South West
+46,Tulsa OK,Southwest
+47,Las Vegas NV,Southwest
+48,Santa Fe NM,Southwest
+49,Los Angeles CA,West
+50,San Diego CA  ,WEST
+51,San Jose CA,West
+52,Sacramento CA,West
+53,Fresno CA,West
+54,Bakersfield CA,WEST
+55,Long Beach CA,West
+56,Oakland CA,West
+57,Anaheim CA,West
+58,Riverside CA,West
+59,Seattle WA,PACIFIC
+60,portland or,Pacific
+61,Spokane WA,Pacific
+62,Eugene OR,Pacific
+63,Tacoma WA,PACIFIC
+64,Boise ID,pacific
+65,Anchorage AK,PACIFIC
+66,Honolulu HI,pacific
+67,Denver CO,MOUNTAIN
+68,Salt Lake City UT,Mountain
+69,Colorado Springs CO,mountain
+70,Boulder CO,Mountain
+71,Billings MT,Mountain
+72,Cheyenne WY,mountain
+73,  Reno NV,mountain
+74,  Bozeman MT  ,Mountain
+75,Toronto ON,canada
+76,Vancouver BC,Canada
+77,Montreal QC,Canada
+78,Calgary AB,Canada
+79,Ottawa ON,Canada
+80,Edmonton AB,Canada
+81,Winnipeg MB,Canada
+82,Quebec City QC,Canada
+83,Mexico City DF,Mexico
+84,Guadalajara JAL,Mexico
+85,Monterrey NL,mexico
+86,Puebla PUE,Mexico
+87,Tijuana BC,mexico
+88,Cancun QR,Mexico
+89,New York NY Metro 2,Northeast
+90,Miami FL Metro 2,Southeast
+91,Cleveland OH Metro 2,Midwest
+92,  aUSTIN tx mETRO 2  ,South West
+93,Fresno CA Metro 2,West
+94,Boise ID Metro 2,Pacific
+95,Reno NV Metro 2,Mountain
+96,Quebec City QC Metro 2,Canada
+97,Monterrey NL Metro 2,Mexico
+98,Albany NY Metro 3,Northeast
+99,Richmond VA Metro 3,southeast
+100,Omaha NE Metro 3,Midwest
+101,Dallas TX Metro 3,Southwest
+102,Sacramento CA Metro 3,West
+103,Anchorage AK Metro 3,PACIFIC
+104,Bozeman MT Metro 3,Mountain
+105,Toronto ON Metro 3,canada
+106,Cancun QR Metro 3,MEXICO
+107,Hartford CT Metro 4,Northeast
+108,New Orleans LA Metro 4,Southeast
+109,Kansas City MO Metro 4,Midwest

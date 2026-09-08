@@ -1,0 +1,25 @@
+store_id,region_id,store_type,store_name,store_street_address,store_city,store_state,store_country,store_phone,first_opened_date,last_remodel_date,total_sqft,grocery_sqft
+1,80,Mid-Size Grocery,ValueGrocer #001 - Edmonton,2885 Hill St,Edmonton,AB,Canada,434.547.6956,1993/02/18,,20931,12981
+2,17,Gourmet Supermarket,GroceryWorld #002 - Raleigh,8157 Maple Dr,Raleigh,NC,United States,333-467-1204,09/01/1986,11/14/1996,26060,19526
+3,39,Deluxe Supermarket,ValueGrocer #003 - San Antonio,9015 2nd Ave,San Antonio,TX,USA,(949) 321-5475,05/21/1987,,60431,41610
+4,4,Supermarket,SuperSave #004 - Pittsburgh,6339 Broadway,Pittsburgh,PA,United States,489-966-1788,1985-02-02,,39837,26463
+5,13,Deluxe Supermarket,FreshMart #005 - Atlanta,2731 Sunset Rd,Atlanta,GA,USA,9744108007,18 May 1994,04/04/1999,51778,42591
+6,55,Midsize Grocery,FreshMart #006 - Long Beach,4525 Hill St,long beach,CA,usa,301.564.7335,1992/12/03,,19890,12563
+7,69,supermarket,FreshMart #007 - Colorado Springs,8579 Main St,Colorado Springs,CO,U.S.A.,(806) 593-7474,1993-05-27,,31440,22755
+8,100,SUPERMARKET,SuperSave #008 - Omaha,935 Sunset Rd,Omaha,NE,USA,,04/21/1994,11/17/1997,33247,24111
+9,26,Supermarket,GroceryWorld #009 - Detroit,1834 2nd Ave,dETROIT,mi,USA,8333363699,21 Jun 1990,,31199,18512
+10,29,Gourmet Supermarket,Foodmart #010 - Indianapolis,1599 Hill St,Indianapolis,in,US,5345855203,10/12/1991,25 Sep 1994,31101,20341
+11,36,Deluxe Supermarket,PantryPlus #011 - Omaha,1693 2nd Ave,Omaha,NE,USA,(633) 578-8267,01 Sep 1986,1992/11/05,60654,42215
+12,15,SUPERMARKET,Foodmart #012 - Orlando,3700 Lakeview Dr,Orlando,FL,USA,(207) 916-5884,1986/05/14,10/17/1990,32538,22978
+13,10,Gourmet Supermarket,MarketPlace #013 - Albany,2514 Broadway,Albany,NY,UNITED STATES,(783) 780-9447,18 Dec 1992,1994/08/11,21682,12631
+14,35,Deluxe Supermarket,MarketPlace #014 - Des Moines,470 Elm St,Des Moines,IA,USA,6436364337,08/13/1990,,60372,
+15,17,Mid-Size Grocery,SuperSave #015 - Raleigh,2979 Broadway,Raleigh,NC,USA,611-923-3303,26 Sep 1991,17 Feb 1998,16600,10709
+16,49,small grocery,PantryPlus #016 - Los Angeles,9923 Elm St,Los Angeles,CA,US,912-272-7736,18 Feb 1997,05/05/1998,7264,
+17,31,Mid-Size Grocery,PantryPlus #017 - Minneapolis,318 Sunset Rd,Minneapolis,MN,USA,468.728.4691,04-06-1997,,14234,10044
+18,76,Deluxe Supermarket,Foodmart #018 - Vancouver,9373 Hill St,Vancouver,BC,Canada,3922252104,26-07-1997,,52473,40616
+19,52,Mid-Size Grocery,ValueGrocer #019 - Sacramento,8757 Main St,Sacramento,CA,United States,3564243792,1997-09-24,01 Nov 1998,20919,12630
+20,22,Mid-Size Grocery,PantryPlus #020 - Tampa,9349 Main St,Tampa,FL,USA,339.383.3513,1997-10-10,,15204,10646
+21,73,Gourmet Supermarket,SuperSave #021 - Reno,7684 2nd Ave,Reno,NV,USA,533-359-8777,17-12-1997,19-05-1999,21581,
+22,70,Mid-Size Grocery,FreshMart #022 - Boulder,1325 2nd Ave,Boulder,CO,USA,941.264.4577,1997/12/20,,20041,15465
+23,26,SUPERMARKET,FreshMart #023 - Detroit,2935 Hill St,Detroit,MI,USA,(938) 598-1223,1998/02/02,31 Mar 1999,30247,22650
+24,19,Gourmet Supermarket,SuperSave #024 - Memphis,7512 Washington Blvd,mEMPHIS,TN,usa,205.972.2493,04/18/1998,,21778,12669

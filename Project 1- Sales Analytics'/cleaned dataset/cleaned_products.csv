@@ -1,0 +1,1561 @@
+product_id,product_brand,product_name,product_sku,product_retail_price,product_cost,product_weight,recyclable,low_fat
+1,Ecoharvest,Ecoharvest Extra Crunchy Lotion,E-00001-X,10.53,4.52,1.07,No,No
+2,Bluepeak,Bluepeak Fresh Bread,B-00002-M,2.71,2.42,0.83,Yes,No
+3,Crystal Springs,Crystal Springs Jumbo Sausage,CS-00003-V,10.13,5.75,1.38,Yes,No
+4,Natures Best,Natures Best Organic Yogurt,NB-00004-N,3.56,2.39,1.53,Yes,No
+5,Silver Creek,Silver Creek Reduced Fat Shampoo,SC-00005-Q,9.61,4.04,0.2,Yes,No
+6,Crystal Springs,Crystal Springs Classic Trash Bags,CS-00006-W,6.59,4.26,3.17,Yes,No
+7,Truetaste,Truetaste Extra Crunchy Coffee,T-00007-R,7.1,3.38,0.65,Yes,No
+8,Coastal Fresh,Coastal Fresh Family Size Crackers,CF-00008-V,2.83,1.96,0.68,No,No
+9,Heritage Foods,Heritage Foods Original Shampoo,HF-00009-Y,4.64,2.28,1.17,No,No
+10,Truetaste,Truetaste Classic Soda,T-00010-W,5.64,2.23,2.86,No,No
+11,Natures Best,Natures Best Classic Lotion,NB-00011-J,4.12,2.78,0.38,No,No
+12,Golden Valley,Golden Valley Original Trash Bags,GV-00012-J,5.7,2.47,3.6,Yes,No
+13,Farmhouse Select,Farmhouse Select Jumbo Waffles,FS-00013-X,7.26,2.61,0.87,No,No
+14,Golden Valley,Golden Valley Mini Cream,GV-00014-N,5.8,2.73,1.34,Yes,No
+15,Ecoharvest,Ecoharvest Fresh Ham,E-00015-Q,4.36,5.4,2.99,No,No
+16,Prime Select,Prime Select Organic Sour Cream,PS-00016-Q,5.36,2.84,1.34,Yes,Yes
+17,Farmhouse Select,Farmhouse Select Deluxe Cheese,FS-00017-C,6.21,3.42,1.04,No,No
+18,Meadowbrook,Meadowbrook Jumbo Shampoo,M-00018-N,11.86,7.23,0.63,No,No
+19,Meadowbrook,Meadowbrook Extra Crunchy Pretzels,M-00019-T,1.74,0.87,0.96,No,No
+20,Natures Best,Natures Best Extra Crunchy Juice,NB-00020-Q,7.8,3.64,1.01,Yes,No
+21,Ecoharvest,Ecoharvest Classic Bananas,E-00021-E,3.44,1.34,1.7,No,No
+22,Natures Best,Natures Best Classic Bacon,NB-00022-Y,7.19,4.1,1.3,Yes,Yes
+23,American Classic,American Classic Extra Crunchy Donuts,AC-00023-T,4.42,1.72,1.26,Yes,No
+24,Premium Choice,Premium Choice Gourmet Napkins,PC-00024-B,2.27,0.81,1.6,Yes,No
+25,Hilltop Farms,Hilltop Farms Value Pack Lotion,HF-00025-L,8.49,3.46,0.22,No,No
+26,Urban Pantry,Urban Pantry Original Tortilla Chips,UP-00026-V,3.8,2.42,0.66,No,Yes
+27,Prime Select,Prime Select Gourmet Onions,PS-00027-H,0.68,0.32,0.78,No,No
+28,Urban Pantry,Urban Pantry Classic Shrimp,UP-00028-W,13.57,5.36,1.34,Yes,No
+29,Northern Mills,Northern Mills Deluxe Sausage,NM-00029-X,8.48,3.25,2.51,Yes,No
+30,Premium Choice,Premium Choice Extra Crunchy Paper Towels,PC-00030-W,10.04,4.08,2.88,Yes,No
+31,Meadowbrook,Meadowbrook Low Sodium Butter,M-00031-P,3.09,1.35,1.81,Yes,No
+32,Wholesome Co,Wholesome Co Low Sodium Cheese,WC-00032-V,3.07,1.47,0.93,Yes,Yes
+33,Bluepeak,Bluepeak Original Laundry Detergent,B-00033-F,8.77,4.85,1.05,Yes,No
+34,Prime Select,Prime Select Reduced Fat Waffles,PS-00034-D,2.57,1.71,1.47,No,No
+35,Sunrise Organics,Sunrise Organics Organic Dish Soap,SO-00035-R,9.96,4.79,1.11,No,No
+36,Prime Select,Prime Select Traditional Waffles,PS-00036-R,4.6,1.71,2.47,Yes,Yes
+37,Pure Origins,Pure Origins Value Pack Waffles,PO-00037-L,8.28,3.26,2.56,No,No
+38,Family Choice,Family Choice Lite Cod,FC-00038-V,13.33,6.51,0.87,No,No
+39,Pure Origins,Pure Origins Classic Ham,PO-00039-I,7.0,3.38,0.89,Yes,No
+40,Hilltop Farms,Hilltop Farms Original Aluminum Foil,HF-00040-S,5.43,3.48,2.04,Yes,No
+41,Crystal Springs,Crystal Springs Gourmet Donuts,cs-00041-g,2.09,1.25,1.4,Yes,No
+42,Bluepeak,Bluepeak Lite Cream,B-00042-D,1.97,1.09,2.0,Yes,Yes
+43,Family Choice,Family Choice Traditional Frozen Pizza,FC-00043-K,2.47,1.27,1.49,Yes,No
+44,Meadowbrook,Meadowbrook Organic Cookies,M-00044-Z,4.61,3.09,0.52,Yes,Yes
+45,Truetaste,Truetaste Lite Apples,T-00045-Y,0.93,0.38,1.71,No,No
+46,Value Plus,Value Plus Value Pack Sour Cream,VP-00046-N,2.56,1.36,1.57,No,No
+47,Silver Creek,Silver Creek Deluxe Sour Cream,SC-00047-G,1.75,0.68,1.34,Yes,No
+48,Heritage Foods,Heritage Foods Jumbo Tea,HF-00048-M,7.4,2.69,2.0,Yes,No
+49,Heritage Foods,Heritage Foods Gourmet Ground Beef,HF-00049-V,10.93,6.74,2.85,Yes,No
+50,Farmhouse Select,Farmhouse Select Fresh Frozen Fries,FS-00050-H,3.17,1.95,2.82,Yes,No
+51,Natures Best,Natures Best Original Aluminum Foil,NB-00051-L,6.63,2.53,2.64,Yes,No
+52,Heritage Foods,Heritage Foods Traditional Trash Bags,HF-00052-S,7.79,5.32,2.13,No,No
+53,Farmhouse Select,Farmhouse Select Extra Crunchy Sports Drink,FS-00053-D,5.69,2.41,2.42,No,No
+54,Urban Pantry,Urban Pantry Organic Donuts,UP-00054-Y,3.37,1.66,0.93,No,No
+55,Greenleaf,Greenleaf Lite Shampoo,G-00055-D,8.14,5.5,0.65,No,No
+56,Family Choice,Family Choice Reduced Fat Crab Legs,FC-00056-P,6.67,2.79,0.9,Yes,No
+57,Wholesome Co,Wholesome Co Gourmet Napkins,WC-00057-A,6.98,4.41,2.79,No,No
+58,Sunrise Organics,Sunrise Organics Low Sodium Trash Bags,SO-00058-K,7.02,3.43,2.02,Yes,No
+59,Truetaste,Truetaste Gourmet Donuts,T-00059-C,2.85,1.82,1.31,Yes,No
+60,Ecoharvest,Ecoharvest Extra Crunchy Tv Dinner,E-00060-A,4.73,3.08,2.03,No,No
+61,Sunrise Organics,Sunrise Organics Deluxe Coffee,SO-00061-O,2.28,1.03,1.58,Yes,No
+62,Meadowbrook,Meadowbrook Mini Toothpaste,M-00062-J,8.4,5.73,0.58,Yes,No
+63,Truetaste,Truetaste Classic Tortilla Chips,T-00063-O,3.9,1.47,0.45,Yes,Yes
+64,Heritage Foods,Heritage Foods Traditional Bananas,HF-00064-V,2.16,1.34,1.43,Yes,No
+65,Premium Choice,Premium Choice Jumbo Crackers,PC-00065-P,3.97,2.46,0.79,Yes,No
+66,Greenleaf,Greenleaf Extra Crunchy Paper Towels,G-00066-G,7.79,3.75,1.63,Yes,No
+67,Northern Mills,Northern Mills Gourmet Butter,NM-00067-G,2.12,1.46,1.11,Yes,Yes
+68,Coastal Fresh,Coastal Fresh Fresh Sports Drink,CF-00068-S,2.37,0.94,2.42,Yes,No
+69,Urban Pantry,Urban Pantry Classic Frozen Fries,UP-00069-F,6.35,3.93,1.56,Yes,No
+70,Coastal Fresh,Coastal Fresh Family Size Soda,CF-00070-L,5.48,2.18,0.93,Yes,No
+71,Hilltop Farms,Hilltop Farms Value Pack Aluminum Foil,HF-00071-D,3.65,1.49,0.85,Yes,No
+72,Family Choice,Family Choice Classic Apples,FC-00072-U,1.14,0.65,1.54,No,No
+73,Meadowbrook,Meadowbrook Low Sodium Salmon Fillet,M-00073-Z,14.72,8.6,1.34,No,No
+74,Bluepeak,Bluepeak Value Pack Tilapia,B-00074-Y,14.63,5.71,1.34,No,No
+75,Crystal Springs,Crystal Springs Lite Tilapia,CS-00075-F,11.34,6.61,1.64,No,No
+76,Coastal Fresh,Coastal Fresh Deluxe Vitamins,CF-00076-N,2.21,1.33,0.62,No,No
+77,Farmhouse Select,Farmhouse Select Reduced Fat Vitamins,FS-00077-Z,2.85,1.13,0.5,No,No
+78,Sunrise Organics,Sunrise Organics Classic Apples,SO-00078-X,2.88,1.87,0.51,No,No
+79,Natures Best,Natures Best Reduced Fat Toothpaste,NB-00079-T,10.79,6.37,0.47,Yes,No
+80,Sunrise Organics,Sunrise Organics Extra Crunchy Vitamins,SO-00080-D,10.97,4.29,0.24,No,No
+81,Bluepeak,Bluepeak Jumbo Sour Cream,B-00081-P,2.51,1.55,1.13,No,No
+82,Wholesome Co,Wholesome Co Classic Tilapia,WC-00082-T,11.63,7.08,1.95,No,No
+83,Hilltop Farms,Hilltop Farms Reduced Fat Yogurt,HF-00083-M,6.3,3.78,1.96,No,No
+84,Coastal Fresh,Coastal Fresh Mini Bottled Water,CF-00084-H,3.14,1.18,1.18,Yes,No
+85,Heritage Foods,Heritage Foods Fresh Ice Cream,HF-00085-C,3.5,2.13,1.4,Yes,No
+86,Prime Select,Prime Select Reduced Fat Bacon,PS-00086-X,7.27,4.59,2.41,No,No
+87,Everyday Basics,Everyday Basics Jumbo Bread,EB-00087-H,2.98,1.84,0.62,Yes,No
+88,Pure Origins,Pure Origins Mini Aluminum Foil,PO-00088-Z,4.88,1.78,1.29,Yes,No
+89,Meadowbrook,Meadowbrook Value Pack Croissants,M-00089-R,3.82,2.2,0.99,No,No
+90,Crystal Springs,Crystal Springs Traditional Ice Cream,CS-00090-O,3.39,1.88,1.17,No,No
+91,Everyday Basics,Everyday Basics Traditional Chicken Breast,EB-00091-S,9.6,4.71,1.81,No,No
+92,American Classic,American Classic Reduced Fat Chicken Breast,AC-00092-V,11.31,4.36,1.27,No,No
+93,Farmhouse Select,Farmhouse Select Original Ice Cream,FS-00093-U,3.35,1.72,0.95,Yes,No
+94,Heritage Foods,Heritage Foods Fresh Butter,HF-00094-L,1.78,0.84,2.0,No,Yes
+95,Family Choice,Family Choice Gourmet Juice,FC-00095-P,1.09,2.42,1.64,Yes,No
+96,Truetaste,Truetaste Family Size Tuna,T-00096-D,7.41,2.73,1.34,Yes,No
+97,Greenleaf,Greenleaf Mini Bottled Water,G-00097-U,2.97,1.07,2.39,Yes,No
+98,Prime Select,Prime Select Fresh Bottled Water,PS-00098-K,7.21,4.84,2.34,Yes,No
+99,Sunrise Organics,Sunrise Organics Lite Apples,SO-00099-V,2.61,1.77,2.28,Yes,No
+100,Silver Creek,Silver Creek Lite Carrots,SC-00100-S,0.95,0.63,0.73,Yes,No
+101,Hilltop Farms,Hilltop Farms Gourmet Rolls,HF-00101-Y,5.17,2.92,0.98,No,No
+102,Prime Select,Prime Select Fresh Carrots,PS-00102-R,3.99,1.62,1.53,No,No
+103,Crystal Springs,Crystal Springs Reduced Fat Frozen Fries,CS-00103-R,3.86,1.96,2.88,Yes,No
+104,Golden Harvest,Golden Harvest Deluxe Cookies,GH-00104-T,3.15,1.6,0.55,Yes,Yes
+105,Greenleaf,Greenleaf Organic Napkins,G-00105-N,8.05,5.08,1.55,Yes,No
+106,Wholesome Co,Wholesome Co Fresh Coffee,WC-00106-J,3.26,1.87,0.77,No,No
+107,Premium Choice,Premium Choice Classic Cream,PC-00107-Y,4.5,1.63,1.66,No,No
+108,Family Choice,Family Choice Original Tea,FC-00108-E,5.95,2.25,1.01,Yes,No
+109,Crystal Springs,Crystal Springs Family Size Frozen Pizza,CS-00109-U,4.01,2.25,2.89,No,No
+110,Premium Choice,Premium Choice Extra Crunchy Bagels,PC-00110-I,2.81,0.99,0.96,Yes,No
+111,Farmhouse Select,Farmhouse Select Traditional Frozen Pizza,FS-00111-X,2.49,0.9,1.76,Yes,No
+112,Coastal Fresh,Coastal Fresh Value Pack Coffee,CF-00112-Y,7.28,4.17,1.3,Yes,No
+113,Hilltop Farms,Hilltop Farms Lite Dish Soap,HF-00113-S,3.14,1.79,1.3,Yes,No
+114,Silver Creek,Silver Creek Classic Lotion,SC-00114-C,10.76,6.31,0.82,Yes,No
+115,Greenleaf,Greenleaf Value Pack Toothpaste,G-00115-F,12.47,7.93,0.72,No,No
+116,Natures Best,Natures Best Reduced Fat Bagels,NB-00116-D,4.27,2.71,0.84,Yes,No
+117,Prime Select,Prime Select Value Pack Salmon Fillet,PS-00117-X,15.73,6.85,1.31,Yes,No
+118,Wholesome Co,Wholesome Co Organic Pretzels,WC-00118-L,2.2,1.32,0.9,Yes,No
+119,Meadowbrook,Meadowbrook Gourmet Frozen Pizza,M-00119-S,5.53,2.12,2.98,Yes,Yes
+120,Urban Pantry,Urban Pantry Jumbo Chicken Breast,UP-00120-L,11.56,7.88,1.21,No,No
+121,Pure Origins,Pure Origins Lite Trash Bags,PO-00121-L,7.18,3.04,0.84,Yes,No
+122,Truetaste,Truetaste Jumbo Shrimp,T-00122-Z,10.47,3.87,1.82,Yes,No
+123,Hilltop Farms,Hilltop Farms Extra Crunchy Ground Beef,HF-00123-W,7.86,3.8,1.6,No,Yes
+124,Crystal Springs,Crystal Springs Lite Shrimp,CS-00124-M,9.58,6.24,2.11,Yes,No
+125,Farmhouse Select,Farmhouse Select Low Sodium Tv Dinner,FS-00125-S,6.22,4.19,2.58,Yes,No
+126,Everyday Basics,Everyday Basics Reduced Fat Ham,EB-00126-G,8.61,3.31,3.4,No,No
+127,Silver Creek,Silver Creek Traditional Crab Legs,SC-00127-B,15.64,6.58,2.26,Yes,No
+128,Golden Valley,Golden Valley Value Pack Cod,GV-00128-N,7.49,2.95,2.1,No,No
+129,Hilltop Farms,Hilltop Farms Gourmet Ice Cream,HF-00129-G,3.85,1.53,2.08,Yes,No
+130,Coastal Fresh,Coastal Fresh Low Sodium Onions,CF-00130-H,1.9,0.97,1.12,No,No
+131,Ecoharvest,Ecoharvest Low Sodium Bananas,E-00131-V,1.88,0.99,2.18,Yes,No
+132,Value Plus,Value Plus Lite Bread,VP-00132-A,2.7,1.85,0.49,Yes,No
+133,Heritage Foods,Heritage Foods Original Shampoo,HF-00133-N,8.52,3.93,1.01,No,No
+134,Silver Creek,Silver Creek Family Size Laundry Detergent,sc-00134-o,7.67,3.83,2.05,Yes,No
+135,Greenleaf,Greenleaf Extra Crunchy Ice Cream,G-00135-N,7.37,4.47,2.98,Yes,No
+136,Everyday Basics,Everyday Basics Fresh Frozen Fries,EB-00136-E,6.48,3.9,2.72,Yes,No
+137,Ecoharvest,Ecoharvest Lite Toothpaste,E-00137-X,5.48,3.25,1.14,Yes,No
+138,Sunrise Organics,Sunrise Organics Lite Shampoo,SO-00138-P,2.81,1.47,0.75,Yes,No
+139,Premium Choice,Premium Choice Low Sodium Bacon,PC-00139-S,8.42,5.37,1.69,Yes,Yes
+140,Sunrise Organics,Sunrise Organics Lite Chicken Breast,SO-00140-D,10.83,6.26,2.9,No,No
+141,Bluepeak,Bluepeak Value Pack Shampoo,B-00141-A,10.25,5.2,0.71,Yes,No
+142,Bluepeak,Bluepeak Fresh Tea,B-00142-W,1.41,0.79,1.65,No,No
+143,Prime Select,Prime Select Classic Ice Cream,PS-00143-L,6.07,4.01,2.71,Yes,No
+144,Ecoharvest,Ecoharvest Value Pack Bagels,E-00144-I,3.87,2.2,0.32,Yes,No
+145,American Classic,American Classic Gourmet Carrots,AC-00145-U,2.42,1.28,2.14,Yes,No
+146,Sunrise Organics,Sunrise Organics Mini Soda,SO-00146-W,5.19,1.91,1.46,No,No
+147,Meadowbrook,Meadowbrook Reduced Fat Popcorn,M-00147-E,2.68,1.32,0.91,No,No
+148,Hilltop Farms,Hilltop Farms Jumbo Ice Cream,HF-00148-Z,3.98,1.57,1.45,No,No
+149,Bluepeak,Bluepeak Traditional Sausage,B-00149-H,10.08,3.76,3.17,No,Yes
+150,Heritage Foods,Heritage Foods Jumbo Cookies,HF-00150-D,3.24,1.41,0.71,No,No
+151,Heritage Foods,Heritage Foods Low Sodium Soda,HF-00151-J,4.44,3.09,1.78,Yes,No
+152,Meadowbrook,Meadowbrook Value Pack Vitamins,M-00152-O,5.52,3.72,0.41,Yes,No
+153,Premium Choice,Premium Choice Organic Cream,PC-00153-R,5.95,3.94,1.01,No,No
+154,Everyday Basics,Everyday Basics Fresh Muffins,EB-00154-B,4.31,2.89,1.16,Yes,No
+155,Farmhouse Select,Farmhouse Select Lite Deodorant,FS-00155-U,3.09,1.87,0.58,No,No
+156,Prime Select,Prime Select Jumbo Shampoo,PS-00156-Y,5.12,3.58,0.56,Yes,No
+157,Ecoharvest,Ecoharvest Organic Ice Cream,E-00157-J,3.3,1.17,2.12,Yes,No
+158,Truetaste,Truetaste Reduced Fat Tilapia,T-00158-M,4.6,2.42,1.81,No,No
+159,Golden Harvest,Golden Harvest Original Salmon Fillet,GH-00159-W,14.77,5.81,0.6,Yes,No
+160,Coastal Fresh,Coastal Fresh Mini Lotion,CF-00160-O,9.91,6.72,0.55,Yes,No
+161,Crystal Springs,Crystal Springs Fresh Tea,CS-00161-L,1.12,0.7,1.65,No,No
+162,Truetaste,Truetaste Lite Bacon,T-00162-R,6.53,3.92,1.92,Yes,No
+163,Value Plus,Value Plus Classic Toothpaste,VP-00163-L,3.63,1.83,1.04,Yes,No
+164,Silver Creek,Silver Creek Low Sodium Aluminum Foil,SC-00164-X,5.23,2.85,2.88,No,No
+165,Crystal Springs,Crystal Springs Organic Ice Cream,CS-00165-R,6.66,4.19,2.71,Yes,No
+166,Value Plus,Value Plus Jumbo Pretzels,VP-00166-R,2.2,0.82,0.85,Yes,No
+167,Bluepeak,Bluepeak Original Croissants,B-00167-M,4.15,2.29,0.84,No,No
+168,Bluepeak,Bluepeak Mini Soda,B-00168-T,3.55,1.35,2.06,No,No
+169,Golden Valley,Golden Valley Organic Tilapia,GV-00169-K,13.26,5.85,1.26,Yes,No
+170,Urban Pantry,Urban Pantry Jumbo Crackers,UP-00170-S,3.73,2.19,1.34,No,No
+171,Greenleaf,Greenleaf Deluxe Muffins,G-00171-G,1.57,0.82,0.76,No,No
+172,Northern Mills,Northern Mills Gourmet Donuts,NM-00172-J,1.92,1.09,1.37,Yes,No
+173,Truetaste,Truetaste Jumbo Bottled Water,T-00173-I,1.83,2.42,2.28,Yes,No
+174,Urban Pantry,Urban Pantry Fresh Vitamins,UP-00174-D,8.38,4.2,1.02,No,No
+175,Premium Choice,Premium Choice Gourmet Shampoo,PC-00175-S,11.01,7.68,1.07,No,No
+176,Golden Harvest,Golden Harvest Low Sodium Deodorant,GH-00176-F,6.07,3.45,0.5,Yes,No
+177,Wholesome Co,Wholesome Co Family Size Paper Towels,WC-00177-L,5.99,3.77,2.91,Yes,No
+178,Golden Harvest,Golden Harvest Family Size Tuna,GH-00178-K,12.94,5.39,1.43,Yes,No
+179,American Classic,American Classic Original Cream,AC-00179-X,6.2,3.99,0.87,No,No
+180,Greenleaf,Greenleaf Extra Crunchy Laundry Detergent,G-00180-V,4.68,2.74,1.88,Yes,No
+181,Truetaste,Truetaste Deluxe Paper Towels,T-00181-J,5.32,2.65,2.98,No,No
+182,Natures Best,Natures Best Value Pack Tuna,NB-00182-N,5.11,2.49,0.67,No,No
+183,Truetaste,Truetaste Extra Crunchy Frozen Fries,T-00183-T,7.58,3.82,1.91,Yes,No
+184,Coastal Fresh,Coastal Fresh Lite Cheese,CF-00184-I,2.26,1.53,2.43,No,No
+185,Silver Creek,Silver Creek Traditional Frozen Vegetables,SC-00185-D,2.74,1.06,1.7,No,No
+186,Heritage Foods,Heritage Foods Extra Crunchy Shampoo,HF-00186-D,8.09,3.28,1.34,Yes,No
+187,Bluepeak,Bluepeak Traditional Shrimp,B-00187-R,11.83,6.05,1.93,No,No
+188,Prime Select,Prime Select Jumbo Tea,PS-00188-N,4.2,2.46,2.49,Yes,No
+189,Golden Harvest,Golden Harvest Mini Carrots,GH-00189-N,0.86,0.36,2.9,No,No
+190,Golden Harvest,Golden Harvest Extra Crunchy Ice Cream,GH-00190-I,4.74,2.39,1.73,Yes,No
+191,Heritage Foods,Heritage Foods Deluxe Toothpaste,HF-00191-D,9.44,5.44,0.31,Yes,No
+192,Ecoharvest,Ecoharvest Classic Cream,E-00192-T,6.46,3.81,1.1,No,No
+193,Farmhouse Select,Farmhouse Select Mini Popcorn,FS-00193-X,2.74,1.57,0.47,Yes,Yes
+194,Prime Select,Prime Select Traditional Butter,PS-00194-Q,6.45,2.42,2.09,Yes,No
+195,Northern Mills,Northern Mills Value Pack Laundry Detergent,NM-00195-O,8.19,4.16,3.89,No,No
+196,Value Plus,Value Plus Original Lettuce,VP-00196-C,1.33,0.49,1.0,Yes,No
+197,Coastal Fresh,Coastal Fresh Deluxe Ground Beef,CF-00197-F,10.35,3.7,2.98,Yes,No
+198,Prime Select,Prime Select Original Sausage,PS-00198-F,10.73,6.85,0.87,Yes,No
+199,Prime Select,Prime Select Value Pack Lotion,PS-00199-A,10.78,7.03,1.04,Yes,No
+200,Greenleaf,Greenleaf Jumbo Lettuce,G-00200-I,3.19,2.05,0.91,Yes,No
+201,Meadowbrook,Meadowbrook Original Frozen Vegetables,M-00201-W,8.59,5.91,2.29,Yes,No
+202,Sunrise Organics,Sunrise Organics Traditional Bottled Water,SO-00202-H,1.55,0.71,2.31,Yes,No
+203,Ecoharvest,Ecoharvest Reduced Fat Juice,E-00203-C,6.98,3.98,1.06,No,No
+204,Prime Select,Prime Select Jumbo Trash Bags,PS-00204-E,3.94,1.9,1.0,Yes,No
+205,Premium Choice,Premium Choice Reduced Fat Bar Soap,PC-00205-T,6.23,2.91,0.82,Yes,No
+206,Family Choice,Family Choice Fresh Apples,FC-00206-N,2.1,1.26,1.34,No,No
+207,Pure Origins,Pure Origins Fresh Tea,PO-00207-P,2.1,1.25,1.14,Yes,No
+208,Coastal Fresh,Coastal Fresh Organic Cream,CF-00208-R,5.11,3.18,1.78,Yes,No
+209,Value Plus,Value Plus Lite Frozen Pizza,VP-00209-H,5.23,2.15,1.56,No,No
+210,Everyday Basics,Everyday Basics Value Pack Crab Legs,EB-00210-S,12.82,7.73,2.39,No,No
+211,Sunrise Organics,Sunrise Organics Deluxe Frozen Pizza,SO-00211-O,5.62,2.42,1.38,Yes,No
+212,Sunrise Organics,Sunrise Organics Organic Popcorn,SO-00212-L,2.2,0.78,0.43,Yes,No
+213,Ecoharvest,Ecoharvest Gourmet Apples,E-00213-T,3.77,1.57,1.43,No,No
+214,Sunrise Organics,Sunrise Organics Fresh Cheese,SO-00214-T,4.71,1.68,1.53,Yes,No
+215,Prime Select,Prime Select Original Tuna,PS-00215-X,4.28,1.9,2.49,Yes,No
+216,Hilltop Farms,Hilltop Farms Mini Juice,hf-00216-q,2.07,1.33,2.26,Yes,No
+217,Golden Harvest,Golden Harvest Original Onions,GH-00217-I,3.06,1.97,0.73,Yes,No
+218,Value Plus,Value Plus Jumbo Sausage,VP-00218-U,7.17,3.76,2.03,Yes,No
+219,Value Plus,Value Plus Gourmet Cheese,VP-00219-P,2.36,1.47,0.91,Yes,No
+220,Prime Select,Prime Select Deluxe Ham,PS-00220-N,9.07,6.26,1.96,Yes,No
+221,Meadowbrook,Meadowbrook Low Sodium Bananas,M-00221-D,0.74,0.31,1.97,No,No
+222,Prime Select,Prime Select Mini Sports Drink,PS-00222-P,1.64,1.09,1.49,No,No
+223,Ecoharvest,Ecoharvest Family Size Pork Chops,e-00223-h,10.45,4.51,2.02,Yes,No
+224,Silver Creek,Silver Creek Classic Bagels,SC-00224-F,1.55,0.81,1.38,No,No
+225,Prime Select,Prime Select Classic Yogurt,PS-00225-D,5.38,2.5,2.36,No,No
+226,American Classic,American Classic Lite Crab Legs,AC-00226-J,5.04,3.29,0.96,No,No
+227,Ecoharvest,Ecoharvest Reduced Fat Frozen Pizza,E-00227-I,4.39,1.84,1.55,Yes,Yes
+228,Golden Harvest,Golden Harvest Lite Bar Soap,GH-00228-A,5.25,3.35,1.13,No,No
+229,Greenleaf,Greenleaf Fresh Milk,G-00229-B,4.06,2.41,1.27,Yes,No
+230,Greenleaf,Greenleaf Gourmet Soda,G-00230-X,3.52,2.09,1.2,Yes,No
+231,Farmhouse Select,Farmhouse Select Family Size Pork Chops,FS-00231-B,8.21,5.59,2.98,No,No
+232,Hilltop Farms,Hilltop Farms Traditional Cheese,HF-00232-Z,4.91,3.4,1.54,Yes,Yes
+233,Wholesome Co,Wholesome Co Low Sodium Bacon,WC-00233-O,10.01,3.56,1.47,No,No
+234,Family Choice,Family Choice Fresh Tea,FC-00234-I,4.24,2.72,2.51,No,No
+235,Ecoharvest,Ecoharvest Fresh Bottled Water,E-00235-B,3.69,2.26,1.33,No,No
+236,Prime Select,Prime Select Original Sausage,PS-00236-C,11.92,8.2,1.34,Yes,No
+237,Sunrise Organics,Sunrise Organics Organic Napkins,SO-00237-Y,8.42,2.42,0.96,No,No
+238,Bluepeak,Bluepeak Gourmet Laundry Detergent,B-00238-H,9.07,5.95,2.11,Yes,No
+239,Golden Harvest,Golden Harvest Original Apples,GH-00239-W,1.66,0.64,1.57,Yes,No
+240,Silver Creek,Silver Creek Deluxe Ham,SC-00240-T,7.23,4.04,2.3,Yes,No
+241,Wholesome Co,Wholesome Co Reduced Fat Coffee,WC-00241-I,1.61,1.11,1.11,No,No
+242,Farmhouse Select,Farmhouse Select Low Sodium Ice Cream,FS-00242-X,2.62,1.4,1.34,No,No
+243,Greenleaf,Greenleaf Mini Yogurt,G-00243-Z,4.05,2.7,1.97,No,Yes
+244,Truetaste,Truetaste Mini Toothpaste,T-00244-T,5.26,2.7,0.24,Yes,No
+245,Prime Select,Prime Select Gourmet Bottled Water,PS-00245-R,2.89,1.84,1.26,No,No
+246,Premium Choice,Premium Choice Gourmet Sausage,PC-00246-W,5.25,3.21,1.84,No,No
+247,Ecoharvest,Ecoharvest Classic Yogurt,E-00247-T,1.7,0.69,1.11,Yes,No
+248,Value Plus,Value Plus Fresh Chicken Breast,VP-00248-T,4.31,1.9,3.26,Yes,No
+249,Heritage Foods,Heritage Foods Low Sodium Carrots,HF-00249-U,1.12,0.59,0.9,Yes,No
+250,Prime Select,Prime Select Jumbo Cookies,PS-00250-S,3.78,2.61,0.71,Yes,No
+251,Premium Choice,Premium Choice Family Size Tomatoes,PC-00251-L,2.34,1.62,1.77,Yes,No
+252,Family Choice,Family Choice Traditional Ice Cream,fc-00252-a,3.67,1.51,2.88,Yes,Yes
+253,Wholesome Co,Wholesome Co Gourmet Waffles,WC-00253-L,7.42,3.59,2.68,Yes,Yes
+254,Sunrise Organics,Sunrise Organics Jumbo Sour Cream,SO-00254-Y,5.01,2.74,1.89,Yes,No
+255,Golden Harvest,Golden Harvest Original Milk,GH-00255-M,5.3,3.03,0.59,No,No
+256,Sunrise Organics,Sunrise Organics Original Toothpaste,SO-00256-O,11.0,6.26,0.36,Yes,No
+257,Golden Valley,Golden Valley Fresh Laundry Detergent,GV-00257-L,3.2,1.66,3.25,Yes,No
+258,Sunrise Organics,Sunrise Organics Lite Sour Cream,SO-00258-I,3.8,1.61,1.3,Yes,No
+259,Crystal Springs,Crystal Springs Classic Deodorant,CS-00259-Z,8.15,3.88,0.38,No,No
+260,Value Plus,Value Plus Organic Popcorn,VP-00260-U,3.84,1.37,0.79,Yes,No
+261,Golden Harvest,Golden Harvest Classic Tilapia,GH-00261-F,9.12,3.56,0.67,No,No
+262,Family Choice,Family Choice Jumbo Cheese,FC-00262-R,5.04,2.83,1.9,Yes,Yes
+263,Bluepeak,Bluepeak Extra Crunchy Carrots,B-00263-V,0.87,0.5,1.43,Yes,No
+264,Value Plus,Value Plus Jumbo Popcorn,VP-00264-P,4.77,1.74,0.99,No,No
+265,Urban Pantry,Urban Pantry Family Size Napkins,UP-00265-Q,4.6,2.61,1.34,Yes,No
+266,Wholesome Co,Wholesome Co Traditional Bananas,WC-00266-U,0.66,0.4,0.82,Yes,No
+267,Farmhouse Select,Farmhouse Select Value Pack Cookies,FS-00267-X,3.26,2.25,0.6,No,Yes
+268,Premium Choice,Premium Choice Fresh Muffins,PC-00268-V,3.81,2.1,1.18,Yes,No
+269,Heritage Foods,Heritage Foods Organic Muffins,HF-00269-J,4.15,1.77,0.41,No,No
+270,Everyday Basics,Everyday Basics Extra Crunchy Butter,EB-00270-T,3.44,1.33,2.23,No,No
+271,Natures Best,Natures Best Family Size Laundry Detergent,NB-00271-Z,7.64,3.97,1.63,Yes,No
+272,Crystal Springs,Crystal Springs Original Shrimp,CS-00272-G,13.04,6.28,2.36,No,No
+273,Farmhouse Select,Farmhouse Select Deluxe Ham,FS-00273-J,10.56,5.12,3.22,Yes,No
+274,Truetaste,Truetaste Extra Crunchy Tuna,T-00274-D,15.86,9.99,0.99,No,No
+275,Natures Best,Natures Best Lite Donuts,NB-00275-H,5.34,2.52,1.2,Yes,No
+276,Natures Best,Natures Best Reduced Fat Onions,NB-00276-C,2.7,2.42,1.41,No,No
+277,Meadowbrook,Meadowbrook Value Pack Dish Soap,M-00277-A,10.27,4.15,3.05,No,No
+278,Natures Best,Natures Best Original Waffles,NB-00278-N,4.57,2.98,1.15,Yes,No
+279,Silver Creek,Silver Creek Fresh Juice,SC-00279-D,5.01,2.24,0.75,No,No
+280,Ecoharvest,Ecoharvest Organic Pretzels,E-00280-M,3.61,1.33,0.93,No,No
+281,Family Choice,Family Choice Value Pack Toothpaste,FC-00281-D,6.96,2.85,1.12,Yes,No
+282,Coastal Fresh,Coastal Fresh Organic Laundry Detergent,CF-00282-X,10.88,5.76,1.34,No,No
+283,Farmhouse Select,Farmhouse Select Gourmet Bacon,fs-00283-z,5.23,2.37,1.49,No,Yes
+284,Bluepeak,Bluepeak Fresh Bar Soap,B-00284-K,8.55,3.65,0.91,No,No
+285,Crystal Springs,Crystal Springs Deluxe Bacon,CS-00285-I,10.8,2.42,1.54,No,No
+286,Golden Valley,Golden Valley Classic Bar Soap,GV-00286-Z,3.16,1.69,0.39,No,No
+287,Coastal Fresh,Coastal Fresh Extra Crunchy Apples,CF-00287-Q,1.17,0.76,1.34,No,No
+288,Meadowbrook,Meadowbrook Extra Crunchy Aluminum Foil,M-00288-Z,2.21,1.29,3.19,No,No
+289,Bluepeak,Bluepeak Organic Salmon Fillet,B-00289-D,13.27,7.49,0.52,Yes,No
+290,Natures Best,Natures Best Fresh Ham,nb-00290-i,10.27,3.94,1.07,No,No
+291,Crystal Springs,Crystal Springs Low Sodium Shrimp,CS-00291-Z,12.18,5.7,1.26,Yes,No
+292,Hilltop Farms,Hilltop Farms Lite Toothpaste,HF-00292-B,10.08,4.56,0.84,Yes,No
+293,Bluepeak,Bluepeak Lite Juice,B-00293-U,6.18,2.64,1.32,No,No
+294,Everyday Basics,Everyday Basics Jumbo Coffee,EB-00294-Q,5.93,3.78,0.7,Yes,No
+295,Hilltop Farms,Hilltop Farms Lite Frozen Pizza,HF-00295-S,8.44,4.8,1.1,Yes,No
+296,Family Choice,Family Choice Lite Waffles,FC-00296-Y,8.49,5.43,1.46,Yes,No
+297,Golden Valley,Golden Valley Low Sodium Sausage,GV-00297-F,3.12,1.87,2.68,No,No
+298,Pure Origins,Pure Origins Traditional Ice Cream,PO-00298-R,8.49,5.64,1.39,Yes,No
+299,Prime Select,Prime Select Value Pack Dish Soap,PS-00299-S,2.23,0.92,1.51,No,No
+300,Natures Best,Natures Best Fresh Tea,NB-00300-L,1.95,0.87,2.48,Yes,No
+301,Coastal Fresh,Coastal Fresh Family Size Cream,CF-00301-D,4.96,2.25,0.54,No,No
+302,Golden Harvest,Golden Harvest Extra Crunchy Tea,GH-00302-T,2.36,1.12,2.97,Yes,No
+303,Meadowbrook,Meadowbrook Deluxe Cream,M-00303-H,6.48,2.94,1.28,Yes,No
+304,Ecoharvest,Ecoharvest Organic Carrots,E-00304-T,2.94,1.89,1.09,No,No
+305,Heritage Foods,Heritage Foods Traditional Deodorant,HF-00305-T,4.21,2.35,1.07,Yes,No
+306,Coastal Fresh,Coastal Fresh Value Pack Trash Bags,cf-00306-w,9.09,5.89,1.72,Yes,No
+307,Ecoharvest,Ecoharvest Classic Onions,E-00307-I,1.79,1.17,1.62,Yes,No
+308,Bluepeak,Bluepeak Classic Bacon,B-00308-G,5.34,2.83,2.91,Yes,Yes
+309,Natures Best,Natures Best Extra Crunchy Butter,NB-00309-X,3.25,1.78,2.29,No,Yes
+310,Urban Pantry,Urban Pantry Original Waffles,UP-00310-R,3.12,1.61,2.55,Yes,No
+311,Greenleaf,Greenleaf Reduced Fat Vitamins,g-00311-y,9.36,6.07,1.12,No,No
+312,Greenleaf,Greenleaf Deluxe Dish Soap,G-00312-N,3.56,2.19,1.31,No,No
+313,Hilltop Farms,Hilltop Farms Fresh Cookies,hf-00313-f,4.71,2.44,0.22,Yes,No
+314,Farmhouse Select,Farmhouse Select Family Size Frozen Vegetables,FS-00314-P,4.78,3.02,2.39,Yes,No
+315,Meadowbrook,Meadowbrook Traditional Tortilla Chips,M-00315-V,3.75,2.52,0.68,Yes,No
+316,Everyday Basics,Everyday Basics Value Pack Tomatoes,EB-00316-L,2.28,0.82,1.21,No,No
+317,Northern Mills,Northern Mills Extra Crunchy Tea,NM-00317-U,5.65,3.19,1.44,No,No
+318,Premium Choice,Premium Choice Family Size Laundry Detergent,PC-00318-A,10.65,6.93,3.41,No,No
+319,Value Plus,Value Plus Deluxe Deodorant,VP-00319-C,6.89,4.03,0.91,No,No
+320,Prime Select,Prime Select Traditional Juice,PS-00320-L,7.93,4.53,0.55,Yes,No
+321,Meadowbrook,Meadowbrook Classic Vitamins,M-00321-K,8.91,5.97,1.09,No,No
+322,Everyday Basics,Everyday Basics Mini Paper Towels,EB-00322-S,4.2,2.45,2.53,Yes,No
+323,Silver Creek,Silver Creek Family Size Ice Cream,SC-00323-U,7.84,3.33,1.34,No,No
+324,Prime Select,Prime Select Traditional Pork Chops,PS-00324-Z,10.96,5.56,3.38,No,Yes
+325,American Classic,American Classic Reduced Fat Cheese,AC-00325-A,2.1,1.04,2.22,Yes,No
+326,Pure Origins,Pure Origins Family Size Cod,PO-00326-W,13.18,8.0,1.62,Yes,No
+327,Premium Choice,Premium Choice Reduced Fat Popcorn,PC-00327-O,3.3,1.69,0.94,No,No
+328,Natures Best,Natures Best Traditional Paper Towels,NB-00328-U,6.96,4.63,1.14,Yes,No
+329,Coastal Fresh,Coastal Fresh Family Size Lotion,CF-00329-R,6.65,3.26,0.29,No,No
+330,Truetaste,Truetaste Classic Donuts,T-00330-L,5.24,2.98,1.21,No,No
+331,Coastal Fresh,Coastal Fresh Jumbo Potato Chips,CF-00331-C,4.82,2.42,1.34,Yes,No
+332,Coastal Fresh,Coastal Fresh Jumbo Rolls,CF-00332-Y,2.38,1.64,0.6,Yes,No
+333,Heritage Foods,Heritage Foods Low Sodium Trash Bags,HF-00333-V,9.97,3.67,1.29,No,No
+334,Silver Creek,Silver Creek Jumbo Shrimp,SC-00334-P,11.71,4.18,2.5,Yes,No
+335,Truetaste,Truetaste Classic Aluminum Foil,T-00335-G,4.0,1.4,1.83,Yes,No
+336,Pure Origins,Pure Origins Original Tomatoes,PO-00336-M,0.62,0.27,0.57,No,No
+337,Wholesome Co,Wholesome Co Fresh Laundry Detergent,WC-00337-W,4.99,2.39,3.71,Yes,No
+338,Heritage Foods,Heritage Foods Organic Cookies,HF-00338-W,2.6,1.02,0.88,Yes,No
+339,Value Plus,Value Plus Deluxe Tuna,VP-00339-O,4.2,2.89,0.77,No,No
+340,Truetaste,Truetaste Traditional Dish Soap,T-00340-G,3.71,1.98,3.61,No,No
+341,Farmhouse Select,Farmhouse Select Classic Deodorant,FS-00341-L,8.44,3.32,0.27,Yes,No
+342,Sunrise Organics,Sunrise Organics Classic Sour Cream,SO-00342-I,4.88,1.84,1.81,No,No
+343,Urban Pantry,Urban Pantry Mini Napkins,UP-00343-T,6.97,4.25,1.48,Yes,No
+344,Wholesome Co,Wholesome Co Jumbo Frozen Vegetables,WC-00344-G,5.02,3.22,1.78,No,No
+345,Sunrise Organics,Sunrise Organics Original Croissants,SO-00345-Z,4.98,2.95,1.1,No,No
+346,Natures Best,Natures Best Extra Crunchy Dish Soap,NB-00346-V,2.81,1.45,0.98,No,No
+347,Meadowbrook,Meadowbrook Traditional Donuts,M-00347-B,2.99,1.54,0.79,Yes,No
+348,Ecoharvest,Ecoharvest Deluxe Paper Towels,E-00348-H,3.92,2.42,3.45,No,No
+349,Golden Valley,Golden Valley Deluxe Ice Cream,GV-00349-T,2.03,1.37,2.3,Yes,Yes
+350,Natures Best,Natures Best Extra Crunchy Crackers,NB-00350-A,4.53,2.49,0.37,No,No
+351,Farmhouse Select,Farmhouse Select Family Size Crackers,FS-00351-I,3.12,2.09,0.87,Yes,No
+352,Northern Mills,Northern Mills Extra Crunchy Tilapia,NM-00352-M,12.71,5.26,2.25,Yes,No
+353,Meadowbrook,Meadowbrook Classic Pork Chops,M-00353-R,8.21,3.17,2.6,Yes,No
+354,Wholesome Co,Wholesome Co Organic Sports Drink,WC-00354-B,2.6,1.46,0.75,Yes,No
+355,Sunrise Organics,Sunrise Organics Extra Crunchy Coffee,SO-00355-I,4.09,2.61,2.92,Yes,No
+356,Greenleaf,Greenleaf Family Size Ice Cream,G-00356-P,8.69,3.29,1.67,Yes,No
+357,Golden Harvest,Golden Harvest Family Size Crackers,GH-00357-M,1.86,1.01,0.77,Yes,No
+358,Hilltop Farms,Hilltop Farms Gourmet Salmon Fillet,HF-00358-K,11.93,7.54,1.39,No,No
+359,Everyday Basics,Everyday Basics Family Size Potato Chips,EB-00359-D,1.83,0.78,0.98,Yes,No
+360,American Classic,American Classic Jumbo Lotion,AC-00360-L,6.17,3.82,0.76,No,No
+361,Urban Pantry,Urban Pantry Original Waffles,UP-00361-A,8.49,5.78,2.69,No,No
+362,Value Plus,Value Plus Classic Sour Cream,vp-00362-p,1.3,0.55,0.64,Yes,No
+363,Premium Choice,Premium Choice Fresh Aluminum Foil,PC-00363-F,5.43,3.42,0.96,No,No
+364,Pure Origins,Pure Origins Family Size Tea,PO-00364-G,5.36,2.8,1.9,No,No
+365,Value Plus,Value Plus Traditional Ice Cream,VP-00365-A,4.15,2.73,1.56,No,No
+366,Pure Origins,Pure Origins Organic Milk,PO-00366-W,4.83,2.06,1.34,Yes,No
+367,Truetaste,Truetaste Extra Crunchy Bacon,T-00367-B,11.07,7.12,0.94,No,No
+368,Pure Origins,Pure Origins Extra Crunchy Apples,PO-00368-K,1.78,1.1,2.54,No,No
+369,Wholesome Co,Wholesome Co Organic Muffins,WC-00369-V,3.09,1.24,0.36,Yes,No
+370,Bluepeak,Bluepeak Traditional Donuts,B-00370-F,3.5,2.42,1.38,No,No
+371,Greenleaf,Greenleaf Family Size Popcorn,G-00371-J,3.6,1.85,0.39,No,No
+372,American Classic,American Classic Original Croissants,AC-00372-E,4.76,1.74,1.08,No,No
+373,American Classic,American Classic Fresh Pretzels,AC-00373-D,1.52,0.54,0.44,Yes,No
+374,Golden Valley,Golden Valley Lite Onions,GV-00374-R,0.85,2.42,2.22,No,No
+375,Bluepeak,Bluepeak Value Pack Rolls,B-00375-P,5.48,2.83,0.75,No,No
+376,Crystal Springs,Crystal Springs Jumbo Cookies,CS-00376-B,4.0,2.1,0.24,No,No
+377,Heritage Foods,Heritage Foods Traditional Chicken Breast,HF-00377-X,4.09,2.19,3.2,No,No
+378,Meadowbrook,Meadowbrook Classic Butter,M-00378-F,6.03,2.19,1.15,Yes,No
+379,Greenleaf,Greenleaf Classic Milk,G-00379-F,4.98,2.97,1.11,No,No
+380,Heritage Foods,Heritage Foods Mini Bagels,HF-00380-Y,2.31,1.47,1.38,No,No
+381,Meadowbrook,Meadowbrook Mini Cheese,M-00381-J,3.22,1.89,1.69,No,Yes
+382,Premium Choice,Premium Choice Value Pack Ham,PC-00382-K,6.4,4.42,2.76,Yes,Yes
+383,Natures Best,Natures Best Lite Rolls,NB-00383-Q,5.31,2.65,0.92,Yes,No
+384,Prime Select,Prime Select Mini Lettuce,PS-00384-S,1.47,0.6,0.72,Yes,No
+385,Family Choice,Family Choice Reduced Fat Laundry Detergent,FC-00385-Y,2.98,1.46,1.88,No,No
+386,Coastal Fresh,Coastal Fresh Organic Aluminum Foil,cf-00386-k,8.9,4.76,3.97,No,No
+387,Prime Select,Prime Select Lite Sausage,PS-00387-Z,6.87,2.43,2.41,Yes,No
+388,Pure Origins,Pure Origins Lite Bar Soap,PO-00388-K,4.51,2.45,0.31,No,No
+389,Crystal Springs,Crystal Springs Reduced Fat Tomatoes,CS-00389-Z,0.98,0.66,1.13,No,No
+390,Pure Origins,Pure Origins Classic Lettuce,PO-00390-C,3.43,1.4,1.59,No,No
+391,Sunrise Organics,Sunrise Organics Low Sodium Popcorn,SO-00391-X,4.92,2.33,0.39,No,No
+392,Wholesome Co,Wholesome Co Jumbo Tv Dinner,WC-00392-F,6.42,4.29,0.84,No,Yes
+393,Golden Valley,Golden Valley Value Pack Soda,GV-00393-H,1.69,1.12,2.23,Yes,No
+394,Prime Select,Prime Select Extra Crunchy Ice Cream,PS-00394-L,5.79,6.94,1.38,No,No
+395,Bluepeak,Bluepeak Jumbo Bar Soap,B-00395-D,8.93,4.81,0.55,Yes,No
+396,Prime Select,Prime Select Lite Cod,PS-00396-U,10.05,6.74,0.95,No,No
+397,Silver Creek,Silver Creek Classic Sausage,SC-00397-K,8.13,4.92,0.92,Yes,No
+398,Ecoharvest,Ecoharvest Reduced Fat Bread,E-00398-Q,3.25,1.23,0.74,No,No
+399,Northern Mills,Northern Mills Extra Crunchy Lotion,NM-00399-L,6.66,3.9,0.46,Yes,No
+400,Heritage Foods,Heritage Foods Deluxe Aluminum Foil,HF-00400-T,4.97,2.38,1.46,Yes,No
+401,Value Plus,Value Plus Gourmet Sour Cream,VP-00401-N,2.82,1.86,2.49,Yes,No
+402,Crystal Springs,Crystal Springs Value Pack Paper Towels,CS-00402-T,9.44,4.05,1.58,Yes,No
+403,Truetaste,Truetaste Extra Crunchy Pretzels,T-00403-Z,3.7,1.37,0.29,No,Yes
+404,Silver Creek,Silver Creek Deluxe Bottled Water,SC-00404-D,5.67,3.92,2.12,Yes,No
+405,Premium Choice,Premium Choice Classic Bottled Water,PC-00405-D,6.64,4.19,2.65,No,No
+406,Coastal Fresh,Coastal Fresh Classic Tuna,CF-00406-G,6.73,4.5,2.3,No,No
+407,Sunrise Organics,Sunrise Organics Mini Vitamins,so-00407-k,10.42,4.25,0.24,No,No
+408,Golden Valley,Golden Valley Family Size Bar Soap,GV-00408-T,11.06,4.03,0.62,No,No
+409,Pure Origins,Pure Origins Organic Tilapia,PO-00409-W,6.53,3.55,0.52,Yes,No
+410,Everyday Basics,Everyday Basics Family Size Yogurt,EB-00410-G,4.72,3.24,1.79,No,No
+411,Hilltop Farms,Hilltop Farms Original Lotion,HF-00411-G,11.57,4.7,0.71,No,No
+412,Meadowbrook,Meadowbrook Classic Ham,M-00412-Y,8.65,2.42,1.34,No,Yes
+413,Heritage Foods,Heritage Foods Low Sodium Bacon,HF-00413-W,5.93,2.45,1.49,No,Yes
+414,Family Choice,Family Choice Traditional Trash Bags,FC-00414-J,8.96,4.96,3.4,No,No
+415,Ecoharvest,Ecoharvest Extra Crunchy Dish Soap,E-00415-Y,2.29,0.81,1.76,Yes,No
+416,American Classic,American Classic Jumbo Bananas,AC-00416-X,3.71,2.42,2.13,Yes,No
+417,Wholesome Co,Wholesome Co Mini Muffins,WC-00417-J,1.52,0.94,0.76,Yes,No
+418,Coastal Fresh,Coastal Fresh Classic Juice,CF-00418-V,5.13,2.35,2.02,Yes,No
+419,Truetaste,Truetaste Classic Bottled Water,T-00419-V,7.61,3.52,2.94,No,No
+420,Coastal Fresh,Coastal Fresh Reduced Fat Carrots,CF-00420-K,1.14,0.75,1.05,Yes,No
+421,Bluepeak,Bluepeak Original Muffins,B-00421-N,3.44,2.08,0.5,Yes,No
+422,Everyday Basics,Everyday Basics Traditional Cookies,EB-00422-C,4.09,1.91,0.82,No,Yes
+423,Greenleaf,Greenleaf Classic Sports Drink,G-00423-S,5.51,2.55,2.36,Yes,No
+424,Bluepeak,Bluepeak Reduced Fat Dish Soap,B-00424-J,7.63,3.65,3.33,No,No
+425,Pure Origins,Pure Origins Traditional Sausage,PO-00425-C,11.56,4.19,1.31,No,Yes
+426,Northern Mills,Northern Mills Classic Waffles,NM-00426-Q,6.75,4.51,1.76,Yes,No
+427,Wholesome Co,Wholesome Co Value Pack Milk,WC-00427-R,5.99,3.66,1.76,Yes,No
+428,Golden Valley,Golden Valley Traditional Frozen Fries,GV-00428-J,8.33,5.25,2.63,No,No
+429,Coastal Fresh,Coastal Fresh Value Pack Cod,CF-00429-L,12.8,8.82,0.55,Yes,No
+430,Wholesome Co,Wholesome Co Fresh Donuts,WC-00430-X,3.0,1.59,0.41,Yes,No
+431,Truetaste,Truetaste Value Pack Cod,T-00431-Q,14.36,5.94,1.04,No,No
+432,Prime Select,Prime Select Family Size Pork Chops,PS-00432-Y,11.62,14.07,1.34,Yes,No
+433,American Classic,American Classic Classic Paper Towels,AC-00433-O,4.36,1.63,2.86,No,No
+434,Greenleaf,Greenleaf Traditional Chicken Breast,G-00434-A,11.4,7.5,2.88,Yes,No
+435,Sunrise Organics,Sunrise Organics Deluxe Deodorant,SO-00435-J,7.37,4.38,0.89,Yes,No
+436,Golden Harvest,Golden Harvest Fresh Cod,GH-00436-K,7.15,4.78,1.94,Yes,No
+437,Meadowbrook,Meadowbrook Lite Paper Towels,M-00437-K,10.49,4.67,1.34,No,No
+438,Value Plus,Value Plus Deluxe Tortilla Chips,VP-00438-U,4.69,1.87,0.5,Yes,Yes
+439,Ecoharvest,Ecoharvest Gourmet Frozen Vegetables,E-00439-E,7.36,2.59,2.99,Yes,No
+440,Crystal Springs,Crystal Springs Traditional Chicken Breast,CS-00440-O,8.33,3.64,1.38,No,Yes
+441,Premium Choice,Premium Choice Extra Crunchy Donuts,PC-00441-Q,2.71,1.09,1.22,Yes,No
+442,Ecoharvest,Ecoharvest Original Sour Cream,E-00442-C,3.92,1.75,2.47,Yes,Yes
+443,Sunrise Organics,Sunrise Organics Original Sausage,SO-00443-I,3.16,2.06,1.91,No,No
+444,Hilltop Farms,Hilltop Farms Mini Vitamins,HF-00444-T,11.33,4.75,0.3,No,No
+445,Golden Harvest,Golden Harvest Jumbo Cheese,GH-00445-Z,1.75,1.19,2.32,Yes,No
+446,Meadowbrook,Meadowbrook Lite Butter,M-00446-C,5.74,2.61,2.0,Yes,No
+447,Sunrise Organics,Sunrise Organics Value Pack Chicken Breast,SO-00447-B,3.24,1.91,1.53,Yes,No
+448,Bluepeak,Bluepeak Classic Bread,B-00448-A,3.03,1.49,0.69,Yes,No
+449,Value Plus,Value Plus Original Cream,VP-00449-P,2.83,1.48,1.95,Yes,No
+450,Greenleaf,Greenleaf Value Pack Bread,G-00450-V,2.92,1.45,1.3,Yes,No
+451,Meadowbrook,Meadowbrook Extra Crunchy Tomatoes,M-00451-H,1.43,0.59,1.28,Yes,No
+452,Golden Harvest,Golden Harvest Low Sodium Juice,GH-00452-Y,7.17,3.99,2.94,No,No
+453,Wholesome Co,Wholesome Co Deluxe Aluminum Foil,WC-00453-A,8.27,4.92,1.61,No,No
+454,Golden Valley,Golden Valley Lite Bagels,GV-00454-P,2.12,2.42,0.77,Yes,No
+455,Urban Pantry,Urban Pantry Original Salmon Fillet,UP-00455-U,13.51,5.03,1.1,No,No
+456,Bluepeak,Bluepeak Mini Bacon,B-00456-W,6.52,2.97,3.07,Yes,No
+457,Heritage Foods,Heritage Foods Extra Crunchy Crackers,HF-00457-L,4.89,2.77,0.46,No,Yes
+458,Truetaste,Truetaste Extra Crunchy Shampoo,T-00458-V,10.95,5.31,1.18,No,No
+459,Natures Best,Natures Best Family Size Shrimp,NB-00459-N,13.64,8.82,1.27,No,No
+460,Greenleaf,Greenleaf Original Crab Legs,G-00460-U,14.58,8.97,0.86,No,No
+461,Crystal Springs,Crystal Springs Low Sodium Cookies,cs-00461-d,2.03,0.79,0.86,Yes,No
+462,Premium Choice,Premium Choice Lite Bagels,PC-00462-J,1.83,1.14,0.8,Yes,No
+463,Natures Best,Natures Best Value Pack Frozen Pizza,NB-00463-M,3.8,2.1,2.27,Yes,No
+464,Urban Pantry,Urban Pantry Lite Bar Soap,UP-00464-F,5.81,3.1,0.54,Yes,No
+465,Heritage Foods,Heritage Foods Deluxe Lotion,HF-00465-N,5.12,2.53,0.49,Yes,No
+466,Truetaste,Truetaste Mini Shrimp,T-00466-S,13.75,7.94,2.37,Yes,No
+467,Sunrise Organics,Sunrise Organics Fresh Crab Legs,SO-00467-J,8.76,5.65,2.45,Yes,No
+468,Crystal Springs,Crystal Springs Jumbo Laundry Detergent,CS-00468-T,2.74,1.48,1.56,Yes,No
+469,Farmhouse Select,Farmhouse Select Value Pack Cheese,FS-00469-A,2.57,1.29,1.53,Yes,Yes
+470,Wholesome Co,Wholesome Co Lite Sausage,WC-00470-J,11.53,5.39,2.59,Yes,Yes
+471,Natures Best,Natures Best Low Sodium Bar Soap,NB-00471-I,5.25,2.2,0.66,Yes,No
+472,Urban Pantry,Urban Pantry Jumbo Popcorn,UP-00472-R,1.65,1.15,0.94,Yes,Yes
+473,Ecoharvest,Ecoharvest Family Size Ice Cream,E-00473-S,4.88,3.15,0.99,Yes,No
+474,Northern Mills,Northern Mills Fresh Potato Chips,NM-00474-C,4.74,2.45,0.76,No,No
+475,Heritage Foods,Heritage Foods Lite Tuna,HF-00475-Y,6.27,2.64,1.65,No,No
+476,Hilltop Farms,Hilltop Farms Gourmet Bananas,HF-00476-E,3.99,1.42,1.16,Yes,No
+477,Northern Mills,Northern Mills Deluxe Muffins,NM-00477-N,3.25,1.95,0.5,No,No
+478,Hilltop Farms,Hilltop Farms Mini Juice,HF-00478-I,4.53,2.69,2.85,No,No
+479,Ecoharvest,Ecoharvest Classic Muffins,E-00479-V,4.34,1.78,0.6,No,No
+480,Value Plus,Value Plus Gourmet Cod,VP-00480-R,15.8,5.86,0.89,No,No
+481,Bluepeak,Bluepeak Gourmet Bacon,B-00481-U,4.82,2.66,2.86,No,No
+482,Truetaste,Truetaste Jumbo Tomatoes,T-00482-J,1.25,0.57,1.4,Yes,No
+483,Bluepeak,Bluepeak Deluxe Carrots,B-00483-L,3.54,1.92,1.32,Yes,No
+484,Bluepeak,Bluepeak Jumbo Coffee,B-00484-E,2.06,1.23,2.18,Yes,No
+485,Premium Choice,Premium Choice Organic Waffles,PC-00485-P,4.98,2.58,2.62,Yes,Yes
+486,Northern Mills,Northern Mills Fresh Sports Drink,nm-00486-w,4.96,2.36,2.57,Yes,No
+487,Wholesome Co,Wholesome Co Lite Tomatoes,WC-00487-C,1.87,0.75,1.03,Yes,No
+488,Northern Mills,Northern Mills Lite Popcorn,NM-00488-D,1.76,0.95,0.24,Yes,No
+489,Bluepeak,Bluepeak Original Trash Bags,B-00489-Y,7.93,3.78,1.63,Yes,No
+490,Everyday Basics,Everyday Basics Classic Bread,EB-00490-E,2.29,1.24,1.29,Yes,No
+491,Wholesome Co,Wholesome Co Jumbo Lettuce,wc-00491-v,3.49,1.94,1.65,No,No
+492,Coastal Fresh,Coastal Fresh Organic Donuts,CF-00492-O,2.1,1.36,1.09,No,No
+493,Greenleaf,Greenleaf Extra Crunchy Toothpaste,G-00493-E,5.63,2.48,0.22,Yes,No
+494,Urban Pantry,Urban Pantry Family Size Cod,UP-00494-C,13.65,7.31,1.67,No,No
+495,Truetaste,Truetaste Lite Cod,T-00495-W,7.76,4.12,1.64,No,No
+496,Value Plus,Value Plus Organic Tomatoes,VP-00496-B,3.26,2.22,0.56,Yes,No
+497,Natures Best,Natures Best Mini Sausage,NB-00497-F,8.05,2.42,3.15,Yes,No
+498,Crystal Springs,Crystal Springs Deluxe Juice,CS-00498-K,1.03,0.52,1.39,Yes,No
+499,Wholesome Co,Wholesome Co Reduced Fat Frozen Vegetables,WC-00499-P,8.89,2.42,2.15,No,Yes
+500,Crystal Springs,Crystal Springs Value Pack Milk,CS-00500-C,4.61,2.75,1.5,Yes,No
+501,Northern Mills,Northern Mills Fresh Shrimp,NM-00501-Z,15.31,2.42,1.2,No,No
+502,Greenleaf,Greenleaf Lite Rolls,G-00502-H,4.41,2.93,1.4,No,No
+503,Silver Creek,Silver Creek Jumbo Waffles,SC-00503-D,3.94,1.52,2.58,Yes,No
+504,Heritage Foods,Heritage Foods Fresh Croissants,HF-00504-O,5.28,3.19,0.75,No,No
+505,Coastal Fresh,Coastal Fresh Reduced Fat Sports Drink,CF-00505-M,2.32,1.04,0.89,Yes,No
+506,Everyday Basics,Everyday Basics Jumbo Cookies,eb-00506-x,4.84,2.42,0.74,Yes,Yes
+507,Coastal Fresh,Coastal Fresh Gourmet Ground Beef,CF-00507-E,5.92,3.76,2.26,No,No
+508,Greenleaf,Greenleaf Classic Ham,G-00508-I,9.23,4.81,1.21,No,Yes
+509,Prime Select,Prime Select Original Carrots,PS-00509-B,1.32,0.57,1.4,Yes,No
+510,Golden Harvest,Golden Harvest Fresh Cream,GH-00510-G,4.06,2.61,2.01,Yes,No
+511,Everyday Basics,Everyday Basics Value Pack Aluminum Foil,EB-00511-I,3.81,1.51,1.24,No,No
+512,Hilltop Farms,Hilltop Farms Organic Frozen Pizza,HF-00512-W,6.17,3.12,1.83,No,No
+513,Northern Mills,Northern Mills Deluxe Laundry Detergent,NM-00513-E,6.96,3.96,1.28,No,No
+514,Heritage Foods,Heritage Foods Organic Muffins,HF-00514-G,3.84,2.02,0.56,Yes,No
+515,Truetaste,Truetaste Original Paper Towels,T-00515-X,4.62,2.35,1.83,Yes,No
+516,Silver Creek,Silver Creek Original Cod,SC-00516-X,15.21,8.37,0.97,Yes,No
+517,Truetaste,Truetaste Mini Pretzels,T-00517-V,4.37,2.21,0.76,Yes,No
+518,Value Plus,Value Plus Classic Sports Drink,VP-00518-D,3.12,1.75,0.62,No,No
+519,Bluepeak,Bluepeak Family Size Vitamins,B-00519-M,6.67,2.49,0.57,No,No
+520,Golden Valley,Golden Valley Organic Tea,GV-00520-Q,6.14,3.05,1.12,Yes,No
+521,Ecoharvest,Ecoharvest Value Pack Ice Cream,E-00521-B,2.2,0.88,1.81,Yes,No
+522,Silver Creek,Silver Creek Fresh Pork Chops,SC-00522-D,5.66,3.47,3.37,Yes,Yes
+523,Truetaste,Truetaste Lite Butter,T-00523-R,5.26,1.93,2.08,Yes,No
+524,Sunrise Organics,Sunrise Organics Mini Muffins,SO-00524-N,4.0,2.39,1.09,No,No
+525,Value Plus,Value Plus Extra Crunchy Lettuce,VP-00525-Q,1.02,0.38,0.8,No,No
+526,Bluepeak,Bluepeak Low Sodium Cod,B-00526-J,9.57,4.22,0.53,Yes,No
+527,Silver Creek,Silver Creek Mini Cod,sc-00527-x,14.25,7.38,0.63,No,No
+528,Truetaste,Truetaste Classic Juice,T-00528-B,5.06,2.31,2.23,No,No
+529,American Classic,American Classic Jumbo Sports Drink,AC-00529-U,3.3,1.81,1.0,Yes,No
+530,American Classic,American Classic Value Pack Sports Drink,AC-00530-F,5.71,2.5,1.55,Yes,No
+531,Golden Harvest,Golden Harvest Deluxe Ham,GH-00531-R,8.01,3.3,3.14,Yes,No
+532,Bluepeak,Bluepeak Reduced Fat Popcorn,B-00532-A,4.45,2.09,0.53,Yes,No
+533,Everyday Basics,Everyday Basics Family Size Frozen Vegetables,EB-00533-B,7.56,2.72,1.85,Yes,Yes
+534,Greenleaf,Greenleaf Extra Crunchy Ground Beef,G-00534-T,5.02,2.53,1.85,No,No
+535,Meadowbrook,Meadowbrook Fresh Salmon Fillet,M-00535-O,4.4,1.66,1.07,No,No
+536,Everyday Basics,Everyday Basics Lite Paper Towels,EB-00536-K,2.14,1.22,1.14,No,No
+537,Pure Origins,Pure Origins Original Apples,po-00537-r,2.23,1.49,0.62,Yes,No
+538,Wholesome Co,Wholesome Co Mini Carrots,WC-00538-B,1.76,2.06,2.74,Yes,No
+539,Truetaste,Truetaste Deluxe Rolls,T-00539-B,2.34,1.61,0.82,No,No
+540,American Classic,American Classic Reduced Fat Cookies,AC-00540-F,2.49,0.93,0.59,No,No
+541,Value Plus,Value Plus Original Carrots,VP-00541-P,2.36,1.24,1.08,No,No
+542,Urban Pantry,Urban Pantry Family Size Pretzels,UP-00542-Z,2.32,1.03,0.51,No,No
+543,Value Plus,Value Plus Lite Pork Chops,VP-00543-E,10.28,4.71,1.15,No,No
+544,Northern Mills,Northern Mills Organic Laundry Detergent,NM-00544-S,4.04,2.05,1.35,Yes,No
+545,Silver Creek,Silver Creek Traditional Tortilla Chips,SC-00545-U,3.14,1.3,0.59,No,No
+546,Meadowbrook,Meadowbrook Extra Crunchy Lettuce,M-00546-I,2.2,1.29,2.21,Yes,No
+547,Prime Select,Prime Select Gourmet Soda,PS-00547-S,2.97,1.46,1.02,Yes,No
+548,Greenleaf,Greenleaf Reduced Fat Vitamins,G-00548-N,10.75,5.28,0.6,No,No
+549,Premium Choice,Premium Choice Value Pack Shampoo,PC-00549-E,3.35,2.04,0.86,No,No
+550,Truetaste,Truetaste Lite Sports Drink,T-00550-C,3.23,2.11,2.68,Yes,No
+551,Bluepeak,Bluepeak Jumbo Sausage,B-00551-Z,6.88,3.8,1.94,Yes,Yes
+552,Hilltop Farms,Hilltop Farms Fresh Potato Chips,HF-00552-A,4.95,3.29,0.83,Yes,Yes
+553,Silver Creek,Silver Creek Deluxe Dish Soap,SC-00553-C,2.54,1.7,3.25,No,No
+554,Farmhouse Select,Farmhouse Select Traditional Tea,FS-00554-I,1.89,0.75,2.58,Yes,No
+555,Farmhouse Select,Farmhouse Select Fresh Muffins,FS-00555-K,5.07,2.05,0.69,No,No
+556,Northern Mills,Northern Mills Traditional Shrimp,NM-00556-V,7.51,3.35,1.01,Yes,No
+557,Golden Valley,Golden Valley Organic Napkins,GV-00557-X,3.73,2.34,3.92,Yes,No
+558,Natures Best,Natures Best Traditional Crackers,nb-00558-h,4.21,1.5,0.68,No,No
+559,Greenleaf,Greenleaf Organic Cod,g-00559-t,5.57,2.07,1.6,Yes,No
+560,Family Choice,Family Choice Mini Sports Drink,FC-00560-K,2.88,1.94,0.62,Yes,No
+561,Farmhouse Select,Farmhouse Select Gourmet Ground Beef,FS-00561-C,3.26,2.42,1.14,Yes,Yes
+562,Hilltop Farms,Hilltop Farms Traditional Tilapia,HF-00562-H,12.3,8.4,1.62,Yes,No
+563,Premium Choice,Premium Choice Reduced Fat Bananas,PC-00563-F,0.8,0.46,1.56,Yes,No
+564,Natures Best,Natures Best Classic Deodorant,NB-00564-Y,8.42,4.63,0.84,Yes,No
+565,Coastal Fresh,Coastal Fresh Organic Sausage,CF-00565-G,3.73,2.45,3.39,Yes,No
+566,Family Choice,Family Choice Classic Potato Chips,FC-00566-I,2.14,0.95,0.89,No,No
+567,Silver Creek,Silver Creek Organic Milk,SC-00567-R,6.24,2.29,1.54,No,Yes
+568,Greenleaf,Greenleaf Low Sodium Sports Drink,G-00568-E,4.77,2.43,0.67,Yes,No
+569,Hilltop Farms,Hilltop Farms Deluxe Coffee,HF-00569-J,6.92,4.77,2.44,No,No
+570,Value Plus,Value Plus Value Pack Sports Drink,VP-00570-A,1.48,2.42,2.95,No,No
+571,Northern Mills,Northern Mills Lite Lettuce,NM-00571-S,1.96,2.42,1.58,Yes,No
+572,Everyday Basics,Everyday Basics Classic Juice,EB-00572-J,1.56,1.05,1.85,Yes,No
+573,Urban Pantry,Urban Pantry Low Sodium Sausage,UP-00573-N,3.72,2.57,1.51,No,No
+574,Sunrise Organics,Sunrise Organics Value Pack Ice Cream,SO-00574-I,6.85,4.46,1.43,Yes,No
+575,Golden Harvest,Golden Harvest Fresh Tv Dinner,GH-00575-A,7.87,4.72,1.49,Yes,No
+576,Family Choice,Family Choice Low Sodium Tortilla Chips,FC-00576-Y,2.89,1.97,0.21,No,Yes
+577,American Classic,American Classic Lite Carrots,AC-00577-C,2.37,1.4,1.97,Yes,No
+578,Urban Pantry,Urban Pantry Jumbo Tuna,UP-00578-V,15.15,7.16,2.18,Yes,No
+579,Family Choice,Family Choice Lite Rolls,FC-00579-J,2.97,1.92,1.16,Yes,No
+580,Crystal Springs,Crystal Springs Lite Napkins,CS-00580-K,5.41,3.11,3.06,Yes,No
+581,American Classic,American Classic Original Napkins,AC-00581-U,7.11,2.42,3.54,Yes,No
+582,Prime Select,Prime Select Low Sodium Donuts,PS-00582-I,4.99,2.43,0.6,No,No
+583,Prime Select,Prime Select Reduced Fat Deodorant,PS-00583-Q,6.03,3.13,0.54,No,No
+584,Truetaste,Truetaste Gourmet Apples,T-00584-I,2.89,1.97,2.62,No,No
+585,Bluepeak,Bluepeak Traditional Frozen Fries,B-00585-E,8.46,5.87,2.19,No,No
+586,Golden Valley,Golden Valley Fresh Bread,GV-00586-W,2.67,1.04,0.33,Yes,No
+587,Family Choice,Family Choice Lite Frozen Pizza,FC-00587-C,5.09,3.27,2.65,Yes,No
+588,Coastal Fresh,Coastal Fresh Deluxe Waffles,CF-00588-Q,6.08,3.78,1.47,No,Yes
+589,Value Plus,Value Plus Low Sodium Vitamins,vp-00589-v,2.63,0.94,0.47,Yes,No
+590,American Classic,American Classic Family Size Tea,AC-00590-J,1.65,0.7,2.62,No,No
+591,Natures Best,Natures Best Reduced Fat Carrots,NB-00591-X,1.44,0.84,1.93,No,No
+592,Hilltop Farms,Hilltop Farms Traditional Frozen Fries,HF-00592-C,4.08,1.48,2.15,Yes,No
+593,Silver Creek,Silver Creek Extra Crunchy Bar Soap,SC-00593-F,4.14,2.0,0.56,Yes,No
+594,Everyday Basics,Everyday Basics Mini Frozen Pizza,EB-00594-D,3.29,2.04,1.43,No,No
+595,Sunrise Organics,Sunrise Organics Value Pack Crackers,SO-00595-N,3.48,1.42,0.43,No,Yes
+596,Family Choice,Family Choice Value Pack Laundry Detergent,FC-00596-I,2.68,1.79,1.02,Yes,No
+597,Northern Mills,Northern Mills Family Size Carrots,NM-00597-Q,1.68,1.15,2.55,No,No
+598,Bluepeak,Bluepeak Mini Juice,B-00598-N,4.65,2.65,0.65,No,No
+599,Farmhouse Select,Farmhouse Select Reduced Fat Frozen Pizza,FS-00599-Z,3.68,2.12,1.69,Yes,No
+600,Premium Choice,Premium Choice Reduced Fat Pretzels,PC-00600-B,2.63,1.83,0.64,Yes,Yes
+601,Natures Best,Natures Best Mini Frozen Fries,NB-00601-Y,2.95,1.88,1.24,No,Yes
+602,Wholesome Co,Wholesome Co Classic Bar Soap,WC-00602-O,5.42,2.54,1.11,Yes,No
+603,Natures Best,Natures Best Deluxe Vitamins,NB-00603-X,5.29,1.98,0.93,No,No
+604,Northern Mills,Northern Mills Deluxe Tv Dinner,NM-00604-E,2.03,1.02,1.79,No,No
+605,Pure Origins,Pure Origins Reduced Fat Onions,PO-00605-D,2.57,1.11,1.54,Yes,No
+606,Hilltop Farms,Hilltop Farms Lite Waffles,HF-00606-E,7.54,4.99,2.7,No,No
+607,Farmhouse Select,Farmhouse Select Jumbo Shrimp,FS-00607-E,6.82,3.44,1.96,Yes,No
+608,Heritage Foods,Heritage Foods Deluxe Ice Cream,HF-00608-T,8.82,3.77,1.41,Yes,No
+609,Family Choice,Family Choice Organic Pork Chops,FC-00609-H,5.99,3.52,2.52,Yes,No
+610,Urban Pantry,Urban Pantry Traditional Onions,UP-00610-O,1.8,1.24,2.77,No,No
+611,Northern Mills,Northern Mills Value Pack Sports Drink,NM-00611-K,5.36,3.62,2.56,No,No
+612,Everyday Basics,Everyday Basics Mini Waffles,eb-00612-q,2.65,0.99,2.42,No,No
+613,Silver Creek,Silver Creek Fresh Apples,SC-00613-H,3.43,1.7,2.45,No,No
+614,American Classic,American Classic Classic Tea,ac-00614-w,4.36,2.95,2.81,Yes,No
+615,Northern Mills,Northern Mills Organic Laundry Detergent,NM-00615-Y,6.99,4.09,1.66,No,No
+616,Coastal Fresh,Coastal Fresh Low Sodium Muffins,CF-00616-O,3.48,2.35,1.39,Yes,No
+617,Meadowbrook,Meadowbrook Classic Vitamins,M-00617-L,3.7,2.42,0.26,No,No
+618,Heritage Foods,Heritage Foods Classic Lettuce,hf-00618-y,0.51,0.23,1.43,Yes,No
+619,Golden Harvest,Golden Harvest Fresh Milk,GH-00619-Y,2.44,1.43,1.94,Yes,No
+620,Prime Select,Prime Select Value Pack Lettuce,PS-00620-X,2.09,0.96,2.69,No,No
+621,American Classic,American Classic Extra Crunchy Cookies,AC-00621-H,2.34,1.42,0.73,Yes,No
+622,Pure Origins,Pure Origins Deluxe Crackers,PO-00622-R,4.79,2.25,0.3,No,No
+623,Farmhouse Select,Farmhouse Select Original Paper Towels,FS-00623-Z,3.52,2.41,1.02,No,No
+624,Greenleaf,Greenleaf Fresh Waffles,G-00624-C,4.86,2.59,2.46,Yes,Yes
+625,Everyday Basics,Everyday Basics Low Sodium Ham,EB-00625-Y,9.0,6.2,3.06,Yes,No
+626,Crystal Springs,Crystal Springs Family Size Bacon,CS-00626-Q,9.96,6.48,1.58,Yes,No
+627,Meadowbrook,Meadowbrook Organic Trash Bags,M-00627-L,8.82,4.44,3.5,No,No
+628,Golden Harvest,Golden Harvest Classic Napkins,GH-00628-K,7.25,4.87,2.14,Yes,No
+629,Value Plus,Value Plus Lite Soda,VP-00629-F,6.66,3.91,1.52,No,No
+630,Farmhouse Select,Farmhouse Select Jumbo Tea,FS-00630-B,5.39,3.76,2.99,Yes,No
+631,Crystal Springs,Crystal Springs Lite Toothpaste,CS-00631-J,12.69,5.26,0.81,No,No
+632,Farmhouse Select,Farmhouse Select Low Sodium Tortilla Chips,FS-00632-F,3.22,1.93,0.63,Yes,No
+633,Hilltop Farms,Hilltop Farms Lite Apples,HF-00633-V,2.67,1.34,2.93,Yes,No
+634,Everyday Basics,Everyday Basics Mini Yogurt,EB-00634-O,6.0,3.36,1.83,No,No
+635,Greenleaf,Greenleaf Value Pack Bread,G-00635-X,3.41,1.96,0.99,Yes,No
+636,Greenleaf,Greenleaf Fresh Frozen Vegetables,G-00636-Q,6.82,3.34,2.83,No,No
+637,Ecoharvest,Ecoharvest Lite Tuna,E-00637-R,14.46,7.84,2.13,Yes,No
+638,Natures Best,Natures Best Mini Sour Cream,NB-00638-N,4.59,2.51,2.1,Yes,Yes
+639,Pure Origins,Pure Origins Family Size Deodorant,PO-00639-X,2.17,1.24,0.7,Yes,No
+640,Everyday Basics,Everyday Basics Traditional Lotion,EB-00640-M,12.77,8.31,0.84,No,No
+641,Wholesome Co,Wholesome Co Deluxe Crackers,WC-00641-D,2.39,1.01,0.43,Yes,Yes
+642,Farmhouse Select,Farmhouse Select Jumbo Vitamins,FS-00642-R,12.67,7.16,0.33,No,No
+643,Prime Select,Prime Select Traditional Toothpaste,PS-00643-R,8.55,3.4,0.72,Yes,No
+644,Everyday Basics,Everyday Basics Gourmet Tomatoes,EB-00644-N,3.53,1.33,1.44,Yes,No
+645,American Classic,American Classic Mini Popcorn,AC-00645-W,4.73,1.93,0.29,Yes,No
+646,Farmhouse Select,Farmhouse Select Fresh Rolls,FS-00646-O,3.05,1.91,1.07,No,No
+647,Premium Choice,Premium Choice Traditional Onions,PC-00647-U,3.99,1.64,2.56,Yes,No
+648,Northern Mills,Northern Mills Jumbo Yogurt,NM-00648-C,3.33,1.58,1.71,Yes,No
+649,Sunrise Organics,Sunrise Organics Lite Tomatoes,SO-00649-U,0.59,0.39,0.73,Yes,No
+650,Coastal Fresh,Coastal Fresh Organic Soda,CF-00650-I,2.18,0.93,0.9,Yes,No
+651,Premium Choice,Premium Choice Lite Bananas,PC-00651-R,1.08,0.6,2.58,No,No
+652,Urban Pantry,Urban Pantry Fresh Lettuce,UP-00652-Q,3.31,1.6,1.81,No,No
+653,Golden Valley,Golden Valley Lite Cookies,GV-00653-I,4.42,1.6,0.67,No,Yes
+654,Pure Origins,Pure Origins Deluxe Dish Soap,PO-00654-B,4.99,2.87,3.51,Yes,No
+655,Farmhouse Select,Farmhouse Select Extra Crunchy Ground Beef,FS-00655-Q,3.58,2.41,3.24,Yes,No
+656,American Classic,American Classic Classic Sour Cream,AC-00656-R,1.47,0.52,1.21,Yes,No
+657,Heritage Foods,Heritage Foods Jumbo Ice Cream,HF-00657-V,3.2,1.21,1.68,Yes,No
+658,Prime Select,Prime Select Traditional Soda,PS-00658-S,2.71,1.66,1.82,Yes,No
+659,Sunrise Organics,Sunrise Organics Low Sodium Bananas,SO-00659-B,1.47,0.97,2.19,No,No
+660,Sunrise Organics,Sunrise Organics Family Size Trash Bags,SO-00660-I,10.3,3.77,2.78,No,No
+661,Pure Origins,Pure Origins Low Sodium Vitamins,PO-00661-S,9.72,4.67,0.84,No,No
+662,Greenleaf,Greenleaf Reduced Fat Muffins,G-00662-A,5.5,2.25,0.37,No,No
+663,Wholesome Co,Wholesome Co Organic Ice Cream,WC-00663-P,7.91,8.38,0.93,No,No
+664,Family Choice,Family Choice Low Sodium Ice Cream,FC-00664-P,3.41,1.46,2.9,No,No
+665,Value Plus,Value Plus Family Size Crab Legs,VP-00665-O,6.4,3.92,2.47,Yes,No
+666,Golden Valley,Golden Valley Classic Popcorn,GV-00666-B,4.96,2.27,0.4,Yes,No
+667,Greenleaf,Greenleaf Lite Aluminum Foil,G-00667-E,8.89,3.34,1.94,No,No
+668,American Classic,American Classic Extra Crunchy Dish Soap,AC-00668-P,2.44,1.65,2.77,No,No
+669,Northern Mills,Northern Mills Gourmet Crackers,NM-00669-K,3.89,2.39,1.34,Yes,No
+670,Greenleaf,Greenleaf Gourmet Bar Soap,G-00670-C,4.53,2.94,0.54,No,No
+671,Bluepeak,Bluepeak Extra Crunchy Popcorn,B-00671-E,2.31,1.46,0.26,Yes,No
+672,Greenleaf,Greenleaf Organic Sausage,G-00672-K,11.41,6.91,3.08,Yes,No
+673,Silver Creek,Silver Creek Jumbo Bagels,SC-00673-E,3.12,1.49,1.35,Yes,No
+674,Everyday Basics,Everyday Basics Lite Ice Cream,EB-00674-R,8.66,5.53,2.33,No,No
+675,Farmhouse Select,Farmhouse Select Lite Onions,FS-00675-Y,1.77,0.77,2.76,Yes,No
+676,Golden Harvest,Golden Harvest Reduced Fat Lettuce,GH-00676-Z,2.85,1.96,1.78,No,No
+677,Prime Select,Prime Select Reduced Fat Frozen Fries,PS-00677-T,4.42,2.33,1.91,No,No
+678,Golden Valley,Golden Valley Reduced Fat Dish Soap,GV-00678-A,2.82,1.42,3.87,No,No
+679,American Classic,American Classic Traditional Potato Chips,AC-00679-Z,3.28,2.11,0.82,Yes,No
+680,Wholesome Co,Wholesome Co Value Pack Donuts,WC-00680-H,3.18,1.66,1.18,No,No
+681,Urban Pantry,Urban Pantry Extra Crunchy Aluminum Foil,UP-00681-T,4.31,2.38,1.55,Yes,No
+682,Pure Origins,Pure Origins Original Pretzels,PO-00682-B,3.4,3.8,0.98,Yes,No
+683,Wholesome Co,Wholesome Co Reduced Fat Butter,WC-00683-W,1.74,0.85,1.59,Yes,Yes
+684,Premium Choice,Premium Choice Family Size Aluminum Foil,PC-00684-P,2.62,1.4,3.25,No,No
+685,Sunrise Organics,Sunrise Organics Original Ice Cream,SO-00685-D,3.7,1.96,1.1,Yes,No
+686,Sunrise Organics,Sunrise Organics Traditional Shampoo,SO-00686-B,5.73,4.0,0.67,No,No
+687,Prime Select,Prime Select Value Pack Pretzels,PS-00687-W,2.61,1.1,0.7,Yes,No
+688,Truetaste,Truetaste Traditional Sausage,T-00688-Y,9.72,3.79,1.04,No,No
+689,Heritage Foods,Heritage Foods Organic Ice Cream,HF-00689-L,2.31,1.36,2.54,No,Yes
+690,Value Plus,Value Plus Deluxe Tilapia,VP-00690-N,10.68,4.75,2.07,No,No
+691,Greenleaf,Greenleaf Value Pack Onions,G-00691-K,3.55,1.42,0.61,No,No
+692,Wholesome Co,Wholesome Co Deluxe Dish Soap,WC-00692-U,10.62,4.33,0.81,No,No
+693,Urban Pantry,Urban Pantry Gourmet Chicken Breast,UP-00693-C,3.24,1.59,1.63,Yes,No
+694,Farmhouse Select,Farmhouse Select Lite Bar Soap,FS-00694-E,8.53,5.8,1.34,Yes,No
+695,Premium Choice,Premium Choice Low Sodium Coffee,PC-00695-N,3.2,1.48,0.6,Yes,No
+696,Family Choice,Family Choice Original Frozen Fries,FC-00696-J,6.55,3.62,2.51,No,No
+697,Prime Select,Prime Select Extra Crunchy Lettuce,PS-00697-X,3.52,2.1,1.72,No,No
+698,Value Plus,Value Plus Low Sodium Donuts,VP-00698-V,1.84,0.73,1.18,Yes,No
+699,Farmhouse Select,Farmhouse Select Reduced Fat Potato Chips,FS-00699-N,2.69,0.99,0.36,Yes,Yes
+700,Natures Best,Natures Best Deluxe Donuts,NB-00700-T,4.15,2.33,0.52,Yes,No
+701,Meadowbrook,Meadowbrook Reduced Fat Juice,M-00701-A,6.7,3.68,2.36,Yes,No
+702,Urban Pantry,Urban Pantry Traditional Paper Towels,UP-00702-Q,4.5,2.03,2.55,No,No
+703,Silver Creek,Silver Creek Traditional Ham,SC-00703-X,4.08,1.83,1.18,No,No
+704,Golden Valley,Golden Valley Classic Ice Cream,GV-00704-Z,6.14,2.45,1.44,Yes,No
+705,Premium Choice,Premium Choice Fresh Laundry Detergent,PC-00705-G,4.89,1.98,1.46,Yes,No
+706,Wholesome Co,Wholesome Co Reduced Fat Sports Drink,WC-00706-F,3.85,2.42,1.42,No,No
+707,Value Plus,Value Plus Mini Napkins,VP-00707-B,4.16,2.37,3.46,Yes,No
+708,Golden Harvest,Golden Harvest Deluxe Muffins,GH-00708-F,4.97,2.12,1.32,No,No
+709,Natures Best,Natures Best Original Chicken Breast,NB-00709-U,3.76,1.74,2.54,No,Yes
+710,Pure Origins,Pure Origins Low Sodium Milk,PO-00710-A,4.23,1.76,0.7,Yes,No
+711,Golden Harvest,Golden Harvest Deluxe Butter,GH-00711-M,3.06,1.76,2.31,Yes,Yes
+712,Silver Creek,Silver Creek Classic Sports Drink,SC-00712-V,3.6,1.73,1.91,Yes,No
+713,Pure Origins,Pure Origins Organic Bread,PO-00713-F,1.96,1.27,0.61,No,No
+714,Pure Origins,Pure Origins Deluxe Chicken Breast,PO-00714-M,6.73,2.62,3.28,Yes,No
+715,Hilltop Farms,Hilltop Farms Classic Frozen Fries,HF-00715-R,7.03,2.52,1.71,Yes,No
+716,Premium Choice,Premium Choice Organic Onions,PC-00716-C,3.12,1.23,0.99,No,No
+717,Natures Best,Natures Best Classic Pretzels,NB-00717-I,3.8,1.83,1.0,No,No
+718,Bluepeak,Bluepeak Jumbo Tuna,B-00718-L,14.21,9.74,1.23,Yes,No
+719,Golden Harvest,Golden Harvest Value Pack Chicken Breast,GH-00719-B,9.99,5.21,2.61,Yes,No
+720,Truetaste,Truetaste Extra Crunchy Chicken Breast,T-00720-M,6.17,3.81,3.44,No,No
+721,Heritage Foods,Heritage Foods Classic Carrots,HF-00721-I,1.91,0.98,2.5,Yes,No
+722,Urban Pantry,Urban Pantry Traditional Dish Soap,UP-00722-H,9.74,6.73,3.88,No,No
+723,Heritage Foods,Heritage Foods Organic Tomatoes,HF-00723-Z,0.71,0.28,0.95,Yes,No
+724,Value Plus,Value Plus Fresh Cod,VP-00724-Y,11.42,4.15,1.45,No,No
+725,Premium Choice,Premium Choice Mini Paper Towels,PC-00725-C,10.27,6.6,2.47,No,No
+726,Coastal Fresh,Coastal Fresh Low Sodium Crab Legs,CF-00726-C,5.86,2.06,0.55,Yes,No
+727,Prime Select,Prime Select Low Sodium Cod,PS-00727-Q,8.9,3.62,2.33,Yes,No
+728,Value Plus,Value Plus Original Vitamins,VP-00728-Q,7.88,3.28,0.74,Yes,No
+729,Pure Origins,Pure Origins Original Yogurt,PO-00729-H,2.12,1.32,1.37,No,Yes
+730,Truetaste,Truetaste Deluxe Coffee,T-00730-T,7.24,8.55,1.09,No,No
+731,Pure Origins,Pure Origins Original Apples,PO-00731-B,0.59,0.26,2.63,No,No
+732,Farmhouse Select,Farmhouse Select Reduced Fat Sausage,FS-00732-I,11.03,6.23,2.15,No,Yes
+733,Silver Creek,Silver Creek Mini Dish Soap,SC-00733-S,7.84,2.98,3.08,Yes,No
+734,Truetaste,Truetaste Jumbo Pretzels,t-00734-b,1.78,1.95,0.49,Yes,No
+735,Pure Origins,Pure Origins Original Dish Soap,PO-00735-I,9.15,5.33,1.61,No,No
+736,Truetaste,Truetaste Family Size Aluminum Foil,T-00736-R,7.65,4.2,3.25,No,No
+737,Golden Valley,Golden Valley Reduced Fat Popcorn,GV-00737-T,2.31,1.6,0.71,No,No
+738,Everyday Basics,Everyday Basics Fresh Cheese,EB-00738-Z,3.51,1.61,1.17,Yes,No
+739,Urban Pantry,Urban Pantry Original Lotion,UP-00739-V,10.07,3.57,0.74,Yes,No
+740,Ecoharvest,Ecoharvest Fresh Donuts,E-00740-R,2.05,0.8,0.87,Yes,No
+741,Urban Pantry,Urban Pantry Value Pack Cream,UP-00741-P,6.47,2.5,1.42,Yes,No
+742,Golden Harvest,Golden Harvest Reduced Fat Sports Drink,GH-00742-C,5.85,3.5,1.27,No,No
+743,Farmhouse Select,Farmhouse Select Mini Yogurt,FS-00743-C,6.2,3.35,1.72,No,No
+744,Ecoharvest,Ecoharvest Low Sodium Bread,E-00744-X,2.74,1.42,0.52,Yes,No
+745,Silver Creek,Silver Creek Extra Crunchy Dish Soap,SC-00745-Y,5.95,2.94,3.29,No,No
+746,Prime Select,Prime Select Jumbo Pork Chops,PS-00746-I,7.53,4.3,1.34,No,Yes
+747,Northern Mills,Northern Mills Organic Salmon Fillet,NM-00747-L,14.19,8.44,1.35,No,No
+748,Sunrise Organics,Sunrise Organics Extra Crunchy Yogurt,SO-00748-T,2.96,1.66,1.34,Yes,No
+749,Wholesome Co,Wholesome Co Lite Lotion,WC-00749-F,4.54,5.57,0.21,No,No
+750,Sunrise Organics,Sunrise Organics Organic Cookies,SO-00750-S,3.01,1.46,0.48,No,No
+751,Natures Best,Natures Best Classic Pretzels,NB-00751-W,3.26,2.28,0.25,Yes,No
+752,Silver Creek,Silver Creek Reduced Fat Cookies,SC-00752-E,3.37,2.03,0.74,Yes,No
+753,Farmhouse Select,Farmhouse Select Classic Crackers,FS-00753-G,2.4,1.17,0.47,No,No
+754,Prime Select,Prime Select Low Sodium Muffins,PS-00754-H,3.3,2.21,1.14,No,No
+755,Urban Pantry,Urban Pantry Gourmet Tilapia,UP-00755-L,5.3,2.79,0.76,Yes,No
+756,Natures Best,Natures Best Reduced Fat Rolls,NB-00756-E,4.58,2.56,0.97,Yes,No
+757,Silver Creek,Silver Creek Traditional Ham,SC-00757-C,6.24,3.09,2.85,Yes,No
+758,Prime Select,Prime Select Original Sausage,PS-00758-V,6.95,4.26,2.18,Yes,No
+759,Silver Creek,Silver Creek Organic Toothpaste,SC-00759-T,7.89,4.61,0.41,Yes,No
+760,Hilltop Farms,Hilltop Farms Low Sodium Potato Chips,HF-00760-K,2.46,1.05,0.59,Yes,No
+761,Wholesome Co,Wholesome Co Low Sodium Bananas,WC-00761-C,3.69,1.5,1.97,No,No
+762,Value Plus,Value Plus Mini Vitamins,VP-00762-Y,3.98,2.01,0.45,Yes,No
+763,Bluepeak,Bluepeak Low Sodium Tea,B-00763-I,4.37,2.33,2.11,No,No
+764,Heritage Foods,Heritage Foods Original Tea,HF-00764-T,7.54,2.42,1.16,Yes,No
+765,Family Choice,Family Choice Gourmet Crab Legs,FC-00765-Z,13.53,8.68,2.29,No,No
+766,American Classic,American Classic Traditional Cod,AC-00766-Q,13.21,2.42,2.0,Yes,No
+767,Prime Select,Prime Select Jumbo Carrots,PS-00767-G,3.91,2.67,2.62,No,No
+768,Farmhouse Select,Farmhouse Select Value Pack Dish Soap,FS-00768-A,8.85,5.45,2.66,No,No
+769,Everyday Basics,Everyday Basics Extra Crunchy Cream,EB-00769-T,4.62,1.98,1.76,Yes,No
+770,Family Choice,Family Choice Low Sodium Ham,FC-00770-C,10.15,4.2,1.76,Yes,No
+771,Urban Pantry,Urban Pantry Lite Bread,UP-00771-M,4.59,2.17,1.09,Yes,No
+772,Bluepeak,Bluepeak Original Soda,B-00772-H,2.02,1.35,2.97,No,No
+773,Prime Select,Prime Select Reduced Fat Bottled Water,PS-00773-E,1.45,0.79,1.25,Yes,No
+774,Premium Choice,Premium Choice Traditional Paper Towels,PC-00774-C,8.1,3.64,3.76,No,No
+775,Premium Choice,Premium Choice Gourmet Soda,PC-00775-B,4.42,5.6,2.6,Yes,No
+776,Everyday Basics,Everyday Basics Value Pack Vitamins,EB-00776-V,7.66,3.34,0.42,Yes,No
+777,Farmhouse Select,Farmhouse Select Lite Cookies,FS-00777-D,4.71,2.49,0.52,No,No
+778,Golden Harvest,Golden Harvest Mini Apples,GH-00778-G,2.02,2.42,0.76,Yes,No
+779,Hilltop Farms,Hilltop Farms Traditional Bacon,HF-00779-C,11.65,7.81,2.29,Yes,Yes
+780,Pure Origins,Pure Origins Organic Popcorn,PO-00780-R,2.78,1.65,0.66,Yes,No
+781,Urban Pantry,Urban Pantry Low Sodium Croissants,UP-00781-S,4.62,1.84,1.35,Yes,No
+782,Crystal Springs,Crystal Springs Extra Crunchy Tuna,CS-00782-B,11.59,6.31,0.69,No,No
+783,Crystal Springs,Crystal Springs Family Size Aluminum Foil,CS-00783-P,8.89,4.08,2.77,No,No
+784,Meadowbrook,Meadowbrook Value Pack Frozen Pizza,M-00784-W,6.53,2.79,1.12,No,No
+785,Coastal Fresh,Coastal Fresh Fresh Bacon,CF-00785-B,10.23,3.88,2.81,No,No
+786,Silver Creek,Silver Creek Original Butter,SC-00786-C,2.14,1.15,1.81,No,No
+787,Northern Mills,Northern Mills Value Pack Dish Soap,NM-00787-N,2.09,1.03,1.34,No,No
+788,Farmhouse Select,Farmhouse Select Family Size Tuna,FS-00788-W,6.93,4.76,1.72,No,No
+789,Truetaste,Truetaste Gourmet Cream,T-00789-A,2.07,1.17,0.63,Yes,No
+790,Family Choice,Family Choice Family Size Cookies,FC-00790-Q,3.09,2.07,0.22,Yes,Yes
+791,Farmhouse Select,Farmhouse Select Value Pack Rolls,FS-00791-N,2.9,2.01,1.05,No,No
+792,Sunrise Organics,Sunrise Organics Family Size Shampoo,so-00792-m,4.77,2.84,0.38,Yes,No
+793,Wholesome Co,Wholesome Co Organic Chicken Breast,WC-00793-R,5.52,2.7,1.83,No,No
+794,Crystal Springs,Crystal Springs Family Size Popcorn,CS-00794-R,2.72,2.42,0.92,Yes,Yes
+795,Golden Valley,Golden Valley Reduced Fat Sour Cream,GV-00795-D,2.16,0.96,0.73,No,Yes
+796,Meadowbrook,Meadowbrook Fresh Shampoo,M-00796-O,7.58,3.81,1.19,Yes,No
+797,Greenleaf,Greenleaf Extra Crunchy Popcorn,G-00797-W,4.87,2.12,0.92,No,No
+798,Wholesome Co,Wholesome Co Fresh Pork Chops,WC-00798-V,9.31,3.27,0.91,Yes,No
+799,Northern Mills,Northern Mills Value Pack Tea,NM-00799-G,1.18,2.42,0.8,No,No
+800,Coastal Fresh,Coastal Fresh Mini Trash Bags,CF-00800-Y,3.83,1.58,1.31,No,No
+801,American Classic,American Classic Family Size Dish Soap,AC-00801-X,5.67,3.21,2.06,No,No
+802,Hilltop Farms,Hilltop Farms Family Size Ground Beef,HF-00802-X,10.41,4.4,1.87,Yes,No
+803,Family Choice,Family Choice Extra Crunchy Cheese,FC-00803-Q,2.08,2.42,0.7,No,No
+804,Value Plus,Value Plus Classic Ground Beef,VP-00804-L,11.42,4.52,1.79,No,No
+805,Value Plus,Value Plus Low Sodium Yogurt,VP-00805-P,2.14,1.27,0.98,No,No
+806,Truetaste,Truetaste Deluxe Tomatoes,T-00806-Q,3.7,1.6,1.71,No,No
+807,Wholesome Co,Wholesome Co Family Size Ground Beef,wc-00807-n,9.51,5.3,2.07,No,No
+808,Crystal Springs,Crystal Springs Low Sodium Rolls,CS-00808-P,1.66,0.75,1.08,No,No
+809,American Classic,American Classic Deluxe Cod,AC-00809-D,7.99,2.88,0.84,Yes,No
+810,Natures Best,Natures Best Family Size Potato Chips,NB-00810-R,3.59,2.29,0.39,No,No
+811,Crystal Springs,Crystal Springs Lite Waffles,CS-00811-H,5.59,2.01,1.49,No,No
+812,Everyday Basics,Everyday Basics Organic Salmon Fillet,EB-00812-G,10.66,6.17,0.94,Yes,No
+813,Wholesome Co,Wholesome Co Traditional Tea,WC-00813-C,2.73,1.86,1.09,No,No
+814,Meadowbrook,Meadowbrook Original Bananas,M-00814-R,3.83,1.83,1.52,No,No
+815,Hilltop Farms,Hilltop Farms Reduced Fat Ice Cream,HF-00815-Q,7.08,4.93,1.63,No,No
+816,Meadowbrook,Meadowbrook Deluxe Onions,M-00816-Y,2.95,1.18,0.51,Yes,No
+817,Family Choice,Family Choice Jumbo Waffles,FC-00817-W,4.31,2.49,1.95,No,No
+818,Value Plus,Value Plus Mini Salmon Fillet,VP-00818-X,5.36,3.5,0.52,No,No
+819,Truetaste,Truetaste Gourmet Pretzels,T-00819-V,3.31,2.01,0.71,No,Yes
+820,Wholesome Co,Wholesome Co Lite Soda,WC-00820-C,7.37,3.57,1.17,Yes,No
+821,Family Choice,Family Choice Organic Bottled Water,FC-00821-A,2.94,1.37,0.76,No,No
+822,Sunrise Organics,Sunrise Organics Lite Deodorant,SO-00822-E,9.8,4.12,0.64,Yes,No
+823,Heritage Foods,Heritage Foods Classic Lettuce,HF-00823-U,1.18,0.69,1.23,No,No
+824,Truetaste,Truetaste Extra Crunchy Frozen Fries,t-00824-x,7.97,3.4,1.94,Yes,No
+825,Everyday Basics,Everyday Basics Original Laundry Detergent,EB-00825-A,2.3,1.38,3.01,No,No
+826,Heritage Foods,Heritage Foods Reduced Fat Ice Cream,HF-00826-O,4.48,2.69,1.91,Yes,No
+827,Crystal Springs,Crystal Springs Classic Tomatoes,CS-00827-O,3.65,2.31,2.83,Yes,No
+828,Bluepeak,Bluepeak Original Bacon,B-00828-W,9.1,5.84,3.42,Yes,No
+829,Silver Creek,Silver Creek Lite Onions,SC-00829-T,1.78,0.73,2.79,Yes,No
+830,Natures Best,Natures Best Fresh Bar Soap,NB-00830-O,4.43,2.94,0.24,Yes,No
+831,Prime Select,Prime Select Lite Donuts,PS-00831-N,2.3,1.28,1.39,No,No
+832,Greenleaf,Greenleaf Original Croissants,G-00832-T,4.18,2.2,0.55,Yes,No
+833,Value Plus,Value Plus Lite Soda,VP-00833-W,5.58,3.03,1.82,No,No
+834,Ecoharvest,Ecoharvest Value Pack Bar Soap,E-00834-O,12.66,2.42,0.85,No,No
+835,Pure Origins,Pure Origins Lite Coffee,PO-00835-L,3.63,2.46,1.35,No,No
+836,Wholesome Co,Wholesome Co Gourmet Shrimp,WC-00836-Q,10.27,4.86,1.07,No,No
+837,Greenleaf,Greenleaf Fresh Sour Cream,G-00837-T,2.12,0.77,1.09,No,No
+838,Heritage Foods,Heritage Foods Original Cod,HF-00838-X,8.83,6.0,0.66,No,No
+839,Crystal Springs,Crystal Springs Low Sodium Potato Chips,CS-00839-N,1.67,1.03,0.63,Yes,No
+840,Sunrise Organics,Sunrise Organics Extra Crunchy Crackers,SO-00840-Y,1.72,1.03,1.34,Yes,No
+841,Sunrise Organics,Sunrise Organics Extra Crunchy Sour Cream,SO-00841-T,2.7,1.86,0.92,No,No
+842,Coastal Fresh,Coastal Fresh Mini Potato Chips,CF-00842-M,3.59,4.48,0.98,Yes,No
+843,Sunrise Organics,Sunrise Organics Mini Sour Cream,SO-00843-K,3.07,2.0,1.79,Yes,No
+844,Farmhouse Select,Farmhouse Select Fresh Coffee,FS-00844-M,7.44,4.03,1.6,No,No
+845,Greenleaf,Greenleaf Traditional Cheese,G-00845-H,4.65,1.94,2.34,No,No
+846,Crystal Springs,Crystal Springs Mini Tea,CS-00846-A,4.68,2.4,2.16,No,No
+847,Ecoharvest,Ecoharvest Low Sodium Pretzels,e-00847-m,4.4,1.68,0.92,Yes,No
+848,Sunrise Organics,Sunrise Organics Original Tilapia,SO-00848-N,7.54,4.7,1.8,No,No
+849,Bluepeak,Bluepeak Fresh Vitamins,B-00849-T,2.61,1.66,1.34,Yes,No
+850,American Classic,American Classic Family Size Sour Cream,AC-00850-Y,2.23,1.52,1.61,No,No
+851,Truetaste,Truetaste Original Bagels,T-00851-F,1.77,0.65,1.32,Yes,No
+852,Golden Valley,Golden Valley Low Sodium Waffles,GV-00852-S,5.01,2.42,0.82,Yes,No
+853,Everyday Basics,Everyday Basics Jumbo Yogurt,EB-00853-C,3.31,2.17,2.02,Yes,No
+854,Ecoharvest,Ecoharvest Traditional Ice Cream,E-00854-D,6.16,3.52,1.25,No,No
+855,Everyday Basics,Everyday Basics Traditional Bar Soap,EB-00855-C,9.79,5.42,0.84,No,No
+856,Northern Mills,Northern Mills Original Frozen Vegetables,NM-00856-R,3.37,1.37,1.29,No,No
+857,Urban Pantry,Urban Pantry Family Size Potato Chips,UP-00857-Q,2.37,1.35,0.86,Yes,No
+858,Value Plus,Value Plus Family Size Frozen Fries,VP-00858-D,7.24,2.67,1.21,Yes,No
+859,Pure Origins,Pure Origins Family Size Cod,PO-00859-C,7.55,4.82,1.66,Yes,No
+860,Premium Choice,Premium Choice Lite Sausage,PC-00860-K,5.17,2.82,3.3,Yes,No
+861,Everyday Basics,Everyday Basics Fresh Cookies,EB-00861-X,4.38,2.81,0.98,No,No
+862,Ecoharvest,Ecoharvest Value Pack Tuna,E-00862-Q,13.21,6.58,1.2,No,No
+863,Hilltop Farms,Hilltop Farms Extra Crunchy Bananas,HF-00863-K,3.58,2.47,2.5,No,No
+864,Ecoharvest,Ecoharvest Low Sodium Ice Cream,E-00864-T,4.3,1.81,2.13,Yes,No
+865,Natures Best,Natures Best Gourmet Bottled Water,NB-00865-H,1.1,0.44,2.91,Yes,No
+866,Family Choice,Family Choice Extra Crunchy Milk,FC-00866-H,1.25,0.83,1.37,No,No
+867,Greenleaf,Greenleaf Fresh Rolls,G-00867-W,2.09,0.79,0.94,Yes,No
+868,Meadowbrook,Meadowbrook Deluxe Tea,M-00868-H,3.48,1.65,1.65,No,No
+869,Premium Choice,Premium Choice Original Lettuce,PC-00869-A,3.73,2.16,1.08,No,No
+870,Meadowbrook,Meadowbrook Deluxe Toothpaste,M-00870-G,3.09,1.12,0.51,Yes,No
+871,Golden Valley,Golden Valley Deluxe Pretzels,GV-00871-K,2.01,0.72,0.44,No,Yes
+872,Value Plus,Value Plus Lite Tuna,VP-00872-P,4.58,1.89,2.37,No,No
+873,Ecoharvest,Ecoharvest Organic Vitamins,E-00873-C,3.07,1.62,0.42,No,No
+874,Coastal Fresh,Coastal Fresh Lite Sausage,CF-00874-B,5.69,2.33,1.66,No,No
+875,Truetaste,Truetaste Classic Bagels,T-00875-M,2.16,0.92,0.98,Yes,No
+876,Truetaste,Truetaste Jumbo Potato Chips,T-00876-A,4.52,1.66,1.34,Yes,Yes
+877,Northern Mills,Northern Mills Organic Tuna,NM-00877-O,8.59,3.67,1.68,No,No
+878,Golden Harvest,Golden Harvest Traditional Crackers,GH-00878-N,2.86,1.62,0.28,Yes,No
+879,Sunrise Organics,Sunrise Organics Gourmet Cream,SO-00879-A,5.31,2.83,1.44,No,No
+880,Coastal Fresh,Coastal Fresh Jumbo Juice,CF-00880-Y,5.95,4.02,2.86,Yes,No
+881,Farmhouse Select,Farmhouse Select Mini Sour Cream,FS-00881-T,4.06,2.69,1.08,No,No
+882,Meadowbrook,Meadowbrook Organic Tea,M-00882-G,4.9,2.04,2.17,Yes,No
+883,Ecoharvest,Ecoharvest Extra Crunchy Toothpaste,E-00883-Y,2.45,0.95,0.88,No,No
+884,Meadowbrook,Meadowbrook Value Pack Carrots,M-00884-A,3.34,1.91,1.95,Yes,No
+885,Greenleaf,Greenleaf Gourmet Crackers,G-00885-H,4.46,2.06,0.27,No,No
+886,Heritage Foods,Heritage Foods Extra Crunchy Cookies,HF-00886-W,3.89,2.27,0.73,No,No
+887,Urban Pantry,Urban Pantry Family Size Toothpaste,UP-00887-T,3.37,1.42,0.6,Yes,No
+888,Heritage Foods,Heritage Foods Jumbo Sausage,HF-00888-A,8.23,5.63,2.6,Yes,No
+889,Coastal Fresh,Coastal Fresh Lite Crab Legs,CF-00889-V,8.04,4.35,1.97,Yes,No
+890,Value Plus,Value Plus Traditional Tilapia,VP-00890-K,11.54,6.3,0.56,Yes,No
+891,Golden Harvest,Golden Harvest Jumbo Cheese,GH-00891-W,4.75,1.86,1.56,Yes,No
+892,Prime Select,Prime Select Classic Rolls,PS-00892-P,5.4,2.43,0.74,No,No
+893,Natures Best,Natures Best Low Sodium Sports Drink,NB-00893-S,1.21,0.55,2.37,No,No
+894,Silver Creek,Silver Creek Deluxe Shrimp,SC-00894-L,15.3,2.42,0.53,No,No
+895,Wholesome Co,Wholesome Co Value Pack Lotion,WC-00895-W,9.19,5.83,0.53,Yes,No
+896,Heritage Foods,Heritage Foods Family Size Yogurt,HF-00896-Y,5.2,2.34,1.44,No,No
+897,Northern Mills,Northern Mills Low Sodium Toothpaste,NM-00897-F,7.55,5.16,0.85,Yes,No
+898,Meadowbrook,Meadowbrook Lite Bagels,M-00898-S,1.63,1.13,1.0,No,No
+899,Golden Harvest,Golden Harvest Low Sodium Lotion,GH-00899-L,6.72,4.11,0.37,Yes,No
+900,Wholesome Co,Wholesome Co Reduced Fat Potato Chips,WC-00900-D,3.28,1.52,0.79,No,No
+901,Northern Mills,Northern Mills Mini Soda,NM-00901-D,2.84,1.49,1.96,No,No
+902,Everyday Basics,Everyday Basics Low Sodium Chicken Breast,EB-00902-J,10.15,4.13,2.36,No,No
+903,Hilltop Farms,Hilltop Farms Classic Salmon Fillet,HF-00903-R,7.26,3.82,1.13,No,No
+904,Meadowbrook,Meadowbrook Lite Chicken Breast,M-00904-S,5.72,2.96,3.2,Yes,No
+905,Farmhouse Select,Farmhouse Select Original Pretzels,FS-00905-F,4.25,2.91,0.55,No,No
+906,Urban Pantry,Urban Pantry Family Size Tilapia,UP-00906-C,8.87,3.94,2.43,No,No
+907,Crystal Springs,Crystal Springs Family Size Carrots,CS-00907-Z,0.87,0.41,2.92,Yes,No
+908,Value Plus,Value Plus Original Ice Cream,VP-00908-B,2.44,2.62,1.03,No,No
+909,Sunrise Organics,Sunrise Organics Original Cheese,so-00909-w,6.23,2.64,1.79,Yes,No
+910,American Classic,American Classic Organic Milk,AC-00910-R,5.13,2.36,2.45,Yes,Yes
+911,Golden Harvest,Golden Harvest Traditional Yogurt,GH-00911-M,2.35,1.58,2.17,Yes,Yes
+912,Northern Mills,Northern Mills Low Sodium Ham,NM-00912-O,5.18,2.42,2.79,Yes,No
+913,Farmhouse Select,Farmhouse Select Fresh Cheese,FS-00913-Z,5.61,2.83,2.12,No,No
+914,Coastal Fresh,Coastal Fresh Mini Lotion,CF-00914-S,4.48,1.97,0.88,No,No
+915,Value Plus,Value Plus Family Size Ham,VP-00915-K,8.94,4.23,2.11,Yes,No
+916,Natures Best,Natures Best Deluxe Soda,NB-00916-I,4.21,2.44,2.54,No,No
+917,Silver Creek,Silver Creek Organic Pretzels,SC-00917-Q,3.57,1.33,0.71,No,No
+918,Wholesome Co,Wholesome Co Jumbo Yogurt,WC-00918-Y,1.73,0.79,2.43,No,Yes
+919,Natures Best,Natures Best Extra Crunchy Frozen Fries,NB-00919-F,6.93,4.1,1.98,Yes,No
+920,Prime Select,Prime Select Original Shampoo,PS-00920-A,10.9,4.01,1.17,No,No
+921,Northern Mills,Northern Mills Organic Deodorant,NM-00921-B,5.36,3.01,0.34,Yes,No
+922,Coastal Fresh,Coastal Fresh Jumbo Frozen Pizza,CF-00922-G,3.98,2.61,0.94,No,No
+923,Wholesome Co,Wholesome Co Organic Donuts,WC-00923-H,2.56,1.52,1.41,Yes,No
+924,Farmhouse Select,Farmhouse Select Gourmet Frozen Vegetables,FS-00924-U,3.41,2.42,2.49,Yes,Yes
+925,Premium Choice,Premium Choice Organic Cream,PC-00925-L,2.57,0.96,1.64,Yes,No
+926,Heritage Foods,Heritage Foods Classic Sour Cream,HF-00926-E,5.95,3.65,0.61,No,Yes
+927,Northern Mills,Northern Mills Fresh Vitamins,NM-00927-J,7.38,3.78,0.31,No,No
+928,Golden Harvest,Golden Harvest Extra Crunchy Tv Dinner,GH-00928-G,3.5,2.43,2.45,Yes,No
+929,Wholesome Co,Wholesome Co Extra Crunchy Tilapia,WC-00929-D,9.25,5.44,1.29,Yes,No
+930,Natures Best,Natures Best Original Laundry Detergent,NB-00930-O,10.49,4.41,2.24,Yes,No
+931,Northern Mills,Northern Mills Gourmet Paper Towels,NM-00931-D,3.65,2.02,2.1,Yes,No
+932,Wholesome Co,Wholesome Co Original Aluminum Foil,WC-00932-K,3.36,1.64,1.43,No,No
+933,Truetaste,Truetaste Original Toothpaste,T-00933-E,8.06,3.02,0.58,Yes,No
+934,Golden Harvest,Golden Harvest Lite Bottled Water,GH-00934-Y,4.28,1.9,0.63,No,No
+935,Golden Valley,Golden Valley Fresh Milk,GV-00935-J,2.84,3.18,2.47,No,Yes
+936,Ecoharvest,Ecoharvest Mini Frozen Fries,E-00936-Z,4.25,1.95,1.87,Yes,No
+937,Premium Choice,Premium Choice Lite Sausage,PC-00937-W,10.42,6.38,2.58,Yes,No
+938,Northern Mills,Northern Mills Family Size Bottled Water,NM-00938-N,2.21,0.87,2.94,Yes,No
+939,Bluepeak,Bluepeak Family Size Muffins,B-00939-X,3.65,2.01,0.35,Yes,No
+940,Natures Best,Natures Best Original Ice Cream,NB-00940-R,8.34,4.19,1.19,Yes,No
+941,Ecoharvest,Ecoharvest Original Bar Soap,E-00941-Y,12.73,6.56,0.52,Yes,No
+942,Ecoharvest,Ecoharvest Family Size Toothpaste,E-00942-V,7.61,3.8,0.95,Yes,No
+943,Heritage Foods,Heritage Foods Low Sodium Tilapia,HF-00943-O,6.16,4.12,1.87,Yes,No
+944,Golden Harvest,Golden Harvest Lite Ice Cream,GH-00944-O,2.4,1.29,2.95,Yes,No
+945,Family Choice,Family Choice Low Sodium Cookies,fc-00945-j,3.95,1.71,0.88,Yes,No
+946,Ecoharvest,Ecoharvest Mini Laundry Detergent,E-00946-H,10.44,5.6,2.74,Yes,No
+947,Natures Best,Natures Best Original Potato Chips,NB-00947-N,3.24,1.85,0.92,Yes,No
+948,Sunrise Organics,Sunrise Organics Extra Crunchy Frozen Pizza,SO-00948-I,7.36,4.45,2.57,Yes,Yes
+949,Urban Pantry,Urban Pantry Extra Crunchy Pork Chops,UP-00949-K,10.71,7.22,2.95,Yes,Yes
+950,Northern Mills,Northern Mills Reduced Fat Crackers,NM-00950-Q,3.75,2.42,0.81,Yes,No
+951,Coastal Fresh,Coastal Fresh Mini Croissants,CF-00951-U,5.49,2.53,1.36,Yes,No
+952,Bluepeak,Bluepeak Deluxe Dish Soap,B-00952-N,2.6,1.25,1.34,Yes,No
+953,Value Plus,Value Plus Organic Ground Beef,VP-00953-F,9.16,3.63,1.11,No,No
+954,Everyday Basics,Everyday Basics Low Sodium Ground Beef,EB-00954-W,7.78,3.32,2.44,No,No
+955,Coastal Fresh,Coastal Fresh Gourmet Cod,CF-00955-X,10.18,11.52,1.65,Yes,No
+956,Golden Valley,Golden Valley Fresh Frozen Fries,GV-00956-N,4.59,2.0,2.83,Yes,No
+957,Truetaste,Truetaste Fresh Crab Legs,T-00957-K,15.1,5.32,1.43,No,No
+958,Family Choice,Family Choice Organic Dish Soap,FC-00958-R,6.8,2.95,2.07,No,No
+959,Hilltop Farms,Hilltop Farms Extra Crunchy Bottled Water,HF-00959-C,2.04,1.2,2.36,Yes,No
+960,Wholesome Co,Wholesome Co Fresh Lettuce,WC-00960-F,0.71,2.42,1.02,No,No
+961,Natures Best,Natures Best Low Sodium Bananas,NB-00961-Q,2.82,1.13,1.53,No,No
+962,Truetaste,Truetaste Family Size Soda,T-00962-Q,1.81,1.0,2.47,No,No
+963,Natures Best,Natures Best Original Trash Bags,NB-00963-B,5.33,3.31,2.93,No,No
+964,Golden Harvest,Golden Harvest Deluxe Cookies,GH-00964-I,2.45,1.32,0.63,Yes,No
+965,Greenleaf,Greenleaf Value Pack Milk,G-00965-X,4.27,2.39,1.03,Yes,Yes
+966,Bluepeak,Bluepeak Classic Potato Chips,B-00966-N,4.69,2.79,0.77,Yes,No
+967,Wholesome Co,Wholesome Co Mini Cream,WC-00967-R,4.6,2.98,2.16,No,No
+968,Premium Choice,Premium Choice Original Bagels,PC-00968-P,2.58,1.18,1.34,No,No
+969,Greenleaf,Greenleaf Value Pack Juice,G-00969-J,5.2,2.42,1.46,Yes,No
+970,Silver Creek,Silver Creek Original Onions,SC-00970-R,3.62,2.33,2.94,No,No
+971,Everyday Basics,Everyday Basics Low Sodium Dish Soap,EB-00971-V,2.75,1.51,2.52,Yes,No
+972,Family Choice,Family Choice Gourmet Tv Dinner,FC-00972-A,5.43,2.32,1.86,Yes,No
+973,Value Plus,Value Plus Reduced Fat Tv Dinner,VP-00973-L,8.57,4.83,0.93,No,Yes
+974,Farmhouse Select,Farmhouse Select Jumbo Aluminum Foil,FS-00974-L,2.73,1.36,3.24,No,No
+975,Truetaste,Truetaste Mini Potato Chips,T-00975-S,2.12,1.27,0.34,No,No
+976,Farmhouse Select,Farmhouse Select Mini Coffee,FS-00976-U,3.53,1.47,0.59,No,No
+977,Bluepeak,Bluepeak Gourmet Onions,B-00977-F,3.51,2.19,1.61,Yes,No
+978,Golden Valley,Golden Valley Deluxe Sports Drink,GV-00978-K,1.07,0.48,2.12,No,No
+979,Northern Mills,Northern Mills Mini Donuts,NM-00979-A,5.08,2.77,0.35,No,No
+980,Northern Mills,Northern Mills Family Size Tv Dinner,NM-00980-N,8.61,4.84,2.57,Yes,No
+981,Crystal Springs,Crystal Springs Classic Ice Cream,CS-00981-C,2.66,1.66,1.73,Yes,No
+982,Prime Select,Prime Select Mini Bottled Water,PS-00982-T,4.67,1.85,2.68,Yes,No
+983,Hilltop Farms,Hilltop Farms Value Pack Bar Soap,HF-00983-A,2.78,1.34,1.17,Yes,No
+984,Premium Choice,Premium Choice Original Tuna,PC-00984-E,15.01,7.88,0.86,Yes,No
+985,Coastal Fresh,Coastal Fresh Low Sodium Cream,CF-00985-S,1.36,0.7,1.42,No,No
+986,Urban Pantry,Urban Pantry Organic Bar Soap,UP-00986-Q,7.61,3.62,0.29,Yes,No
+987,Crystal Springs,Crystal Springs Value Pack Dish Soap,CS-00987-N,9.03,3.79,0.88,No,No
+988,Prime Select,Prime Select Gourmet Cream,PS-00988-U,3.2,1.66,2.12,Yes,Yes
+989,Natures Best,Natures Best Organic Croissants,NB-00989-V,5.25,1.92,0.56,Yes,No
+990,Crystal Springs,Crystal Springs Low Sodium Sour Cream,CS-00990-Z,3.62,2.4,2.47,Yes,No
+991,Coastal Fresh,Coastal Fresh Jumbo Bread,CF-00991-W,2.91,1.15,0.64,Yes,No
+992,Greenleaf,Greenleaf Organic Milk,G-00992-T,3.93,2.1,2.43,Yes,No
+993,Meadowbrook,Meadowbrook Value Pack Cookies,M-00993-I,4.5,2.96,0.96,No,No
+994,Urban Pantry,Urban Pantry Lite Dish Soap,UP-00994-T,8.65,5.57,3.3,Yes,No
+995,Natures Best,Natures Best Mini Ground Beef,NB-00995-K,7.19,2.68,3.3,No,Yes
+996,Prime Select,Prime Select Family Size Shampoo,PS-00996-W,2.34,0.9,0.21,No,No
+997,Wholesome Co,Wholesome Co Lite Bagels,WC-00997-P,5.3,2.73,1.5,No,No
+998,Farmhouse Select,Farmhouse Select Extra Crunchy Crackers,FS-00998-A,2.54,1.53,0.89,No,No
+999,Greenleaf,Greenleaf Fresh Donuts,g-00999-e,4.73,2.43,1.14,Yes,No
+1000,Urban Pantry,Urban Pantry Value Pack Carrots,UP-01000-L,1.84,1.13,2.5,No,No
+1001,Coastal Fresh,Coastal Fresh Organic Bar Soap,CF-01001-E,11.22,4.63,0.72,No,No
+1002,Meadowbrook,Meadowbrook Extra Crunchy Salmon Fillet,M-01002-G,4.28,2.92,1.51,No,No
+1003,Heritage Foods,Heritage Foods Mini Apples,HF-01003-C,2.56,2.42,0.73,No,No
+1004,Natures Best,Natures Best Family Size Toothpaste,NB-01004-V,10.94,4.52,0.58,Yes,No
+1005,Greenleaf,Greenleaf Low Sodium Milk,G-01005-K,4.37,2.31,2.09,No,No
+1006,Sunrise Organics,Sunrise Organics Family Size Popcorn,SO-01006-X,3.77,2.36,0.54,Yes,No
+1007,Family Choice,Family Choice Value Pack Laundry Detergent,FC-01007-P,6.53,4.19,1.73,No,No
+1008,Silver Creek,Silver Creek Organic Donuts,SC-01008-O,4.19,1.77,1.48,Yes,No
+1009,Urban Pantry,Urban Pantry Classic Paper Towels,UP-01009-K,6.63,3.72,3.86,Yes,No
+1010,Farmhouse Select,Farmhouse Select Fresh Frozen Vegetables,FS-01010-L,8.83,4.57,2.82,No,No
+1011,Pure Origins,Pure Origins Family Size Popcorn,PO-01011-B,4.09,2.73,0.72,Yes,No
+1012,Meadowbrook,Meadowbrook Deluxe Potato Chips,M-01012-L,2.98,1.34,0.45,No,Yes
+1013,Value Plus,Value Plus Lite Apples,VP-01013-R,1.1,0.66,0.75,Yes,No
+1014,Truetaste,Truetaste Traditional Trash Bags,T-01014-I,5.12,2.79,3.93,Yes,No
+1015,Urban Pantry,Urban Pantry Traditional Rolls,UP-01015-A,4.56,1.93,0.94,Yes,No
+1016,Sunrise Organics,Sunrise Organics Family Size Lettuce,SO-01016-W,3.89,1.93,2.25,Yes,No
+1017,Everyday Basics,Everyday Basics Low Sodium Muffins,EB-01017-B,2.89,1.77,0.91,No,No
+1018,Family Choice,Family Choice Reduced Fat Sour Cream,FC-01018-S,4.63,2.18,0.57,Yes,No
+1019,Greenleaf,Greenleaf Extra Crunchy Waffles,G-01019-E,6.98,4.55,2.03,Yes,No
+1020,Northern Mills,Northern Mills Deluxe Onions,NM-01020-A,1.59,0.8,1.45,No,No
+1021,Prime Select,Prime Select Organic Bottled Water,PS-01021-P,3.53,1.77,2.76,No,No
+1022,Premium Choice,Premium Choice Organic Tilapia,PC-01022-Y,6.34,4.21,2.21,No,No
+1023,Coastal Fresh,Coastal Fresh Original Crab Legs,CF-01023-W,8.66,3.51,1.75,Yes,No
+1024,American Classic,American Classic Family Size Pretzels,AC-01024-E,2.18,1.11,0.67,Yes,No
+1025,Prime Select,Prime Select Organic Cream,PS-01025-B,6.47,3.88,2.42,No,No
+1026,Northern Mills,Northern Mills Extra Crunchy Milk,NM-01026-J,1.44,0.58,1.12,Yes,No
+1027,Heritage Foods,Heritage Foods Extra Crunchy Cookies,HF-01027-A,2.53,1.11,0.49,No,Yes
+1028,Everyday Basics,Everyday Basics Mini Sports Drink,EB-01028-Q,5.92,2.76,1.23,Yes,No
+1029,Value Plus,Value Plus Low Sodium Milk,VP-01029-O,1.34,0.76,0.55,No,No
+1030,Natures Best,Natures Best Lite Shampoo,NB-01030-N,3.94,2.45,0.26,Yes,No
+1031,Ecoharvest,Ecoharvest Extra Crunchy Bagels,E-01031-F,1.88,1.19,1.07,No,No
+1032,Everyday Basics,Everyday Basics Organic Crab Legs,EB-01032-M,5.51,2.17,0.8,No,No
+1033,Value Plus,Value Plus Gourmet Sausage,VP-01033-E,7.37,2.72,2.49,No,No
+1034,American Classic,American Classic Lite Shrimp,AC-01034-V,9.59,5.9,1.34,Yes,No
+1035,Hilltop Farms,Hilltop Farms Jumbo Tilapia,HF-01035-C,13.55,7.12,1.54,No,No
+1036,Ecoharvest,Ecoharvest Low Sodium Laundry Detergent,E-01036-Y,3.06,2.06,3.06,No,No
+1037,Everyday Basics,Everyday Basics Lite Tuna,EB-01037-M,15.67,8.16,0.52,No,No
+1038,Ecoharvest,Ecoharvest Deluxe Sausage,E-01038-C,10.13,6.22,1.06,No,No
+1039,American Classic,American Classic Extra Crunchy Rolls,AC-01039-P,2.55,1.45,0.77,No,No
+1040,Northern Mills,Northern Mills Lite Apples,NM-01040-M,1.78,1.01,1.52,No,No
+1041,Pure Origins,Pure Origins Lite Coffee,po-01041-g,2.17,1.26,2.7,No,No
+1042,Wholesome Co,Wholesome Co Traditional Tilapia,WC-01042-F,4.93,2.42,2.4,No,No
+1043,Urban Pantry,Urban Pantry Organic Bar Soap,UP-01043-A,3.45,1.98,0.2,Yes,No
+1044,Bluepeak,Bluepeak Deluxe Deodorant,B-01044-Y,10.76,5.22,0.23,No,No
+1045,Ecoharvest,Ecoharvest Reduced Fat Sausage,E-01045-V,3.17,1.47,1.0,No,No
+1046,Value Plus,Value Plus Family Size Salmon Fillet,VP-01046-N,15.82,5.93,1.07,No,No
+1047,Ecoharvest,Ecoharvest Classic Trash Bags,E-01047-S,2.45,1.38,1.15,No,No
+1048,Silver Creek,Silver Creek Original Carrots,SC-01048-P,1.48,0.78,2.78,No,No
+1049,Truetaste,Truetaste Mini Carrots,T-01049-S,1.52,0.83,2.91,Yes,No
+1050,Sunrise Organics,Sunrise Organics Classic Onions,SO-01050-Y,1.59,0.77,2.46,Yes,No
+1051,Coastal Fresh,Coastal Fresh Gourmet Shampoo,CF-01051-E,6.1,4.05,1.12,No,No
+1052,American Classic,American Classic Mini Bar Soap,AC-01052-K,8.02,4.71,1.02,Yes,No
+1053,Coastal Fresh,Coastal Fresh Value Pack Tv Dinner,CF-01053-Y,7.44,2.64,2.34,Yes,No
+1054,Crystal Springs,Crystal Springs Jumbo Butter,cs-01054-x,6.34,3.56,1.34,Yes,No
+1055,Urban Pantry,Urban Pantry Low Sodium Sausage,UP-01055-Z,8.95,10.09,1.71,Yes,Yes
+1056,Farmhouse Select,Farmhouse Select Family Size Cod,FS-01056-B,9.68,4.08,0.91,No,No
+1057,Family Choice,Family Choice Original Milk,FC-01057-A,4.62,1.87,1.26,Yes,No
+1058,Hilltop Farms,Hilltop Farms Family Size Onions,HF-01058-S,0.83,0.54,0.59,No,No
+1059,Crystal Springs,Crystal Springs Lite Crackers,CS-01059-U,4.73,3.12,0.26,Yes,No
+1060,Truetaste,Truetaste Mini Rolls,T-01060-P,4.64,2.9,1.11,No,No
+1061,Hilltop Farms,Hilltop Farms Family Size Chicken Breast,HF-01061-B,7.06,4.65,1.1,No,Yes
+1062,Meadowbrook,Meadowbrook Deluxe Yogurt,M-01062-W,6.18,3.84,1.01,Yes,Yes
+1063,Meadowbrook,Meadowbrook Classic Soda,M-01063-Y,2.44,1.39,1.85,No,No
+1064,Everyday Basics,Everyday Basics Value Pack Bananas,EB-01064-H,0.98,0.45,2.91,Yes,No
+1065,Pure Origins,Pure Origins Reduced Fat Tortilla Chips,PO-01065-P,1.78,0.72,0.36,No,No
+1066,Meadowbrook,Meadowbrook Jumbo Vitamins,M-01066-D,8.67,4.39,1.02,No,No
+1067,Urban Pantry,Urban Pantry Classic Tilapia,UP-01067-W,11.0,4.6,1.97,No,No
+1068,Ecoharvest,Ecoharvest Traditional Salmon Fillet,E-01068-I,5.34,3.72,1.04,Yes,No
+1069,Premium Choice,Premium Choice Family Size Bread,PC-01069-D,4.98,2.83,1.34,Yes,No
+1070,Farmhouse Select,Farmhouse Select Deluxe Bananas,FS-01070-K,1.99,0.92,1.66,No,No
+1071,Natures Best,Natures Best Jumbo Laundry Detergent,NB-01071-P,5.2,3.41,3.43,Yes,No
+1072,Heritage Foods,Heritage Foods Family Size Salmon Fillet,hf-01072-c,9.39,5.57,2.41,Yes,No
+1073,Silver Creek,Silver Creek Deluxe Vitamins,SC-01073-H,12.98,4.99,0.6,Yes,No
+1074,Truetaste,Truetaste Value Pack Coffee,T-01074-J,7.55,5.2,1.9,Yes,No
+1075,Northern Mills,Northern Mills Reduced Fat Paper Towels,NM-01075-A,6.74,4.48,1.31,No,No
+1076,Value Plus,Value Plus Fresh Salmon Fillet,vp-01076-o,10.15,5.58,1.63,No,No
+1077,Heritage Foods,Heritage Foods Traditional Bar Soap,HF-01077-J,6.82,4.46,0.64,Yes,No
+1078,Silver Creek,Silver Creek Traditional Waffles,SC-01078-N,2.69,1.29,1.77,Yes,No
+1079,Ecoharvest,Ecoharvest Deluxe Donuts,E-01079-I,4.52,2.79,1.4,No,No
+1080,Ecoharvest,Ecoharvest Family Size Milk,E-01080-H,5.35,2.14,2.36,No,Yes
+1081,Everyday Basics,Everyday Basics Classic Frozen Fries,EB-01081-M,5.76,3.2,1.34,Yes,No
+1082,Northern Mills,Northern Mills Value Pack Tilapia,NM-01082-A,4.8,2.02,1.13,No,No
+1083,Crystal Springs,Crystal Springs Fresh Dish Soap,CS-01083-D,3.73,1.82,1.48,Yes,No
+1084,Greenleaf,Greenleaf Value Pack Croissants,G-01084-A,5.04,2.37,1.04,Yes,No
+1085,Coastal Fresh,Coastal Fresh Gourmet Donuts,CF-01085-R,2.06,1.18,1.35,Yes,No
+1086,Northern Mills,Northern Mills Family Size Tortilla Chips,NM-01086-G,2.33,1.24,1.34,No,Yes
+1087,Truetaste,Truetaste Family Size Yogurt,T-01087-C,6.28,2.42,1.58,No,No
+1088,Natures Best,Natures Best Organic Tortilla Chips,NB-01088-C,4.81,2.9,0.35,Yes,No
+1089,Farmhouse Select,Farmhouse Select Gourmet Milk,FS-01089-C,2.93,1.09,2.24,No,No
+1090,Silver Creek,Silver Creek Deluxe Milk,SC-01090-N,2.34,1.2,2.15,Yes,Yes
+1091,Silver Creek,Silver Creek Gourmet Pork Chops,sc-01091-p,7.94,4.75,1.34,Yes,Yes
+1092,Coastal Fresh,Coastal Fresh Gourmet Tortilla Chips,CF-01092-F,4.64,2.37,0.27,No,No
+1093,Natures Best,Natures Best Extra Crunchy Tv Dinner,NB-01093-D,8.98,5.66,2.94,Yes,Yes
+1094,Wholesome Co,Wholesome Co Original Rolls,WC-01094-K,1.84,0.96,0.41,No,No
+1095,Truetaste,Truetaste Deluxe Shrimp,T-01095-V,8.11,3.62,1.66,No,No
+1096,Prime Select,Prime Select Family Size Tomatoes,PS-01096-Z,0.57,0.24,0.83,Yes,No
+1097,Pure Origins,Pure Origins Organic Coffee,PO-01097-T,7.05,3.25,0.56,No,No
+1098,Silver Creek,Silver Creek Gourmet Dish Soap,SC-01098-F,6.47,3.95,3.49,No,No
+1099,Silver Creek,Silver Creek Low Sodium Cookies,SC-01099-R,4.22,2.31,0.31,Yes,No
+1100,Hilltop Farms,Hilltop Farms Deluxe Aluminum Foil,HF-01100-R,3.23,1.31,3.66,No,No
+1101,Premium Choice,Premium Choice Mini Rolls,PC-01101-T,2.92,2.42,0.62,Yes,No
+1102,Heritage Foods,Heritage Foods Mini Frozen Vegetables,HF-01102-M,8.97,4.17,1.52,Yes,No
+1103,Everyday Basics,Everyday Basics Lite Ice Cream,EB-01103-B,4.36,2.42,0.8,No,No
+1104,Truetaste,Truetaste Original Frozen Fries,T-01104-J,5.21,2.69,1.57,Yes,Yes
+1105,Greenleaf,Greenleaf Low Sodium Bacon,G-01105-U,8.24,4.98,1.03,Yes,No
+1106,Golden Valley,Golden Valley Original Crackers,GV-01106-U,1.65,0.88,0.82,Yes,No
+1107,Value Plus,Value Plus Fresh Coffee,VP-01107-C,2.45,1.43,2.82,No,No
+1108,American Classic,American Classic Mini Lotion,AC-01108-X,2.79,1.73,1.07,Yes,No
+1109,Golden Valley,Golden Valley Traditional Croissants,GV-01109-M,2.68,1.47,1.13,Yes,No
+1110,Farmhouse Select,Farmhouse Select Original Bacon,FS-01110-L,3.3,1.97,3.26,Yes,No
+1111,Northern Mills,Northern Mills Extra Crunchy Cod,NM-01111-R,4.63,2.79,1.35,Yes,No
+1112,Value Plus,Value Plus Classic Shrimp,VP-01112-W,5.13,2.88,2.35,No,No
+1113,Ecoharvest,Ecoharvest Classic Cookies,E-01113-R,4.18,2.42,0.93,Yes,No
+1114,Premium Choice,Premium Choice Mini Bottled Water,pc-01114-i,5.44,3.12,2.6,Yes,No
+1115,Golden Valley,Golden Valley Organic Cheese,GV-01115-E,4.91,2.31,0.93,No,No
+1116,American Classic,American Classic Low Sodium Vitamins,AC-01116-X,4.58,3.0,0.81,No,No
+1117,Truetaste,Truetaste Family Size Frozen Pizza,T-01117-P,6.11,2.81,2.89,Yes,No
+1118,Northern Mills,Northern Mills Original Trash Bags,NM-01118-Y,7.03,4.24,1.12,No,No
+1119,American Classic,American Classic Family Size Rolls,AC-01119-M,5.19,2.11,0.63,No,No
+1120,Wholesome Co,Wholesome Co Deluxe Laundry Detergent,WC-01120-P,6.23,4.23,1.05,Yes,No
+1121,Natures Best,Natures Best Lite Milk,NB-01121-T,3.7,1.89,1.18,Yes,No
+1122,Truetaste,Truetaste Organic Juice,T-01122-A,2.65,1.59,2.39,Yes,No
+1123,American Classic,American Classic Original Napkins,AC-01123-V,9.6,2.42,2.38,Yes,No
+1124,Premium Choice,Premium Choice Original Carrots,PC-01124-G,3.83,2.23,0.58,No,No
+1125,Heritage Foods,Heritage Foods Organic Donuts,HF-01125-H,2.51,1.31,0.82,No,No
+1126,Ecoharvest,Ecoharvest Gourmet Pretzels,E-01126-G,4.59,1.69,0.48,Yes,No
+1127,Silver Creek,Silver Creek Mini Milk,SC-01127-X,6.43,3.19,1.34,No,No
+1128,Bluepeak,Bluepeak Jumbo Trash Bags,B-01128-G,3.58,1.34,2.98,Yes,No
+1129,Silver Creek,Silver Creek Reduced Fat Onions,SC-01129-P,3.77,1.57,1.35,Yes,No
+1130,Crystal Springs,Crystal Springs Traditional Juice,CS-01130-B,2.71,1.0,0.8,Yes,No
+1131,Premium Choice,Premium Choice Reduced Fat Frozen Fries,PC-01131-R,2.81,1.25,1.01,Yes,Yes
+1132,Truetaste,Truetaste Fresh Trash Bags,t-01132-q,4.89,2.91,3.62,No,No
+1133,Greenleaf,Greenleaf Traditional Tortilla Chips,G-01133-U,3.5,2.28,0.27,No,No
+1134,Ecoharvest,Ecoharvest Lite Cod,E-01134-P,14.01,6.64,0.59,Yes,No
+1135,Value Plus,Value Plus Gourmet Dish Soap,VP-01135-L,4.89,2.83,3.26,No,No
+1136,Heritage Foods,Heritage Foods Extra Crunchy Frozen Vegetables,HF-01136-L,4.89,1.85,2.69,No,Yes
+1137,Golden Valley,Golden Valley Traditional Muffins,GV-01137-L,4.82,2.89,0.95,Yes,No
+1138,Family Choice,Family Choice Value Pack Shampoo,FC-01138-K,9.26,6.12,1.13,Yes,No
+1139,Everyday Basics,Everyday Basics Value Pack Frozen Vegetables,EB-01139-O,8.53,4.08,1.34,No,No
+1140,Crystal Springs,Crystal Springs Extra Crunchy Salmon Fillet,CS-01140-V,13.75,8.7,2.39,No,No
+1141,Natures Best,Natures Best Fresh Milk,NB-01141-M,6.46,3.77,2.32,Yes,No
+1142,Everyday Basics,Everyday Basics Classic Muffins,EB-01142-G,1.85,0.89,1.05,Yes,No
+1143,Meadowbrook,Meadowbrook Low Sodium Tea,M-01143-A,7.21,4.39,0.73,No,No
+1144,Value Plus,Value Plus Original Shampoo,VP-01144-R,4.06,2.09,1.12,Yes,No
+1145,Crystal Springs,Crystal Springs Value Pack Apples,CS-01145-N,2.53,1.55,2.24,Yes,No
+1146,Northern Mills,Northern Mills Organic Lettuce,NM-01146-Q,0.89,0.43,2.76,No,No
+1147,Meadowbrook,Meadowbrook Jumbo Ground Beef,M-01147-W,4.26,2.86,3.42,Yes,No
+1148,Ecoharvest,Ecoharvest Gourmet Vitamins,E-01148-I,5.66,3.11,0.66,Yes,No
+1149,Ecoharvest,Ecoharvest Extra Crunchy Bottled Water,E-01149-Y,7.44,5.1,2.37,No,No
+1150,Value Plus,Value Plus Family Size Tomatoes,VP-01150-E,0.91,0.45,2.26,Yes,No
+1151,Greenleaf,Greenleaf Gourmet Tv Dinner,G-01151-K,6.84,4.08,1.85,Yes,No
+1152,Silver Creek,Silver Creek Reduced Fat Sausage,SC-01152-Y,11.36,4.27,1.87,Yes,No
+1153,Northern Mills,Northern Mills Deluxe Muffins,NM-01153-P,3.1,1.53,1.01,No,No
+1154,Coastal Fresh,Coastal Fresh Jumbo Bagels,CF-01154-J,4.14,2.73,0.78,No,No
+1155,Coastal Fresh,Coastal Fresh Fresh Tortilla Chips,CF-01155-V,2.77,1.76,0.29,No,No
+1156,Crystal Springs,Crystal Springs Fresh Pork Chops,CS-01156-W,6.6,3.06,1.46,No,No
+1157,Northern Mills,Northern Mills Gourmet Sour Cream,NM-01157-Z,1.58,0.95,0.87,Yes,No
+1158,Value Plus,Value Plus Family Size Yogurt,VP-01158-V,6.23,4.35,1.63,Yes,Yes
+1159,Greenleaf,Greenleaf Jumbo Cream,G-01159-U,4.12,2.53,1.92,No,No
+1160,Farmhouse Select,Farmhouse Select Traditional Bagels,FS-01160-Y,3.58,1.91,0.92,No,No
+1161,Ecoharvest,Ecoharvest Family Size Tortilla Chips,E-01161-S,1.72,0.69,0.82,No,No
+1162,Northern Mills,Northern Mills Gourmet Butter,NM-01162-I,3.21,1.19,2.05,Yes,No
+1163,Family Choice,Family Choice Classic Frozen Fries,FC-01163-B,4.2,2.86,1.46,Yes,No
+1164,Northern Mills,Northern Mills Original Soda,NM-01164-D,6.36,4.14,1.34,No,No
+1165,Natures Best,Natures Best Extra Crunchy Sports Drink,NB-01165-G,4.78,2.4,1.8,Yes,No
+1166,Everyday Basics,Everyday Basics Classic Tuna,EB-01166-W,11.89,2.42,1.27,No,No
+1167,Golden Harvest,Golden Harvest Jumbo Crab Legs,GH-01167-X,11.27,3.97,2.38,Yes,No
+1168,Hilltop Farms,Hilltop Farms Classic Tea,HF-01168-E,5.78,6.39,2.15,No,No
+1169,Everyday Basics,Everyday Basics Lite Potato Chips,EB-01169-U,3.74,2.14,0.82,Yes,No
+1170,Crystal Springs,Crystal Springs Organic Popcorn,CS-01170-Q,2.7,1.55,0.6,No,No
+1171,Urban Pantry,Urban Pantry Fresh Dish Soap,UP-01171-V,4.1,2.57,1.03,No,No
+1172,Bluepeak,Bluepeak Classic Bread,B-01172-O,2.74,1.38,1.41,Yes,No
+1173,Truetaste,Truetaste Original Tortilla Chips,T-01173-S,4.09,2.76,0.51,No,No
+1174,Golden Valley,Golden Valley Traditional Paper Towels,GV-01174-Z,7.95,2.97,1.39,Yes,No
+1175,Golden Harvest,Golden Harvest Classic Muffins,GH-01175-J,2.06,1.18,0.62,No,No
+1176,Northern Mills,Northern Mills Classic Crackers,NM-01176-M,4.69,1.83,0.37,Yes,No
+1177,Sunrise Organics,Sunrise Organics Gourmet Napkins,SO-01177-Z,10.38,4.95,1.14,Yes,No
+1178,Northern Mills,Northern Mills Gourmet Bottled Water,NM-01178-P,6.67,4.33,1.29,No,No
+1179,Greenleaf,Greenleaf Family Size Napkins,G-01179-L,5.63,2.95,1.21,Yes,No
+1180,Greenleaf,Greenleaf Value Pack Popcorn,G-01180-U,4.19,2.54,0.94,No,Yes
+1181,Meadowbrook,Meadowbrook Value Pack Laundry Detergent,M-01181-B,5.09,2.21,3.39,No,No
+1182,Family Choice,Family Choice Family Size Waffles,FC-01182-P,5.76,3.85,1.34,Yes,No
+1183,Wholesome Co,Wholesome Co Mini Sour Cream,WC-01183-M,4.96,2.55,2.36,No,Yes
+1184,Heritage Foods,Heritage Foods Value Pack Bananas,HF-01184-K,2.64,3.2,0.84,No,No
+1185,Truetaste,Truetaste Lite Butter,T-01185-E,3.34,1.8,1.2,Yes,Yes
+1186,Wholesome Co,Wholesome Co Organic Lettuce,WC-01186-X,1.71,1.16,2.15,No,No
+1187,Family Choice,Family Choice Family Size Popcorn,FC-01187-C,1.76,1.07,0.44,No,No
+1188,Bluepeak,Bluepeak Traditional Aluminum Foil,B-01188-L,4.53,1.91,3.09,No,No
+1189,Truetaste,Truetaste Value Pack Soda,t-01189-e,6.82,3.91,2.87,Yes,No
+1190,Crystal Springs,Crystal Springs Jumbo Tomatoes,CS-01190-J,1.87,0.98,2.01,No,No
+1191,Value Plus,Value Plus Traditional Tomatoes,VP-01191-H,0.64,0.38,1.99,Yes,No
+1192,Greenleaf,Greenleaf Value Pack Bottled Water,G-01192-M,5.53,2.39,1.66,No,No
+1193,Golden Valley,Golden Valley Fresh Pretzels,GV-01193-M,3.32,1.69,0.66,Yes,No
+1194,Premium Choice,Premium Choice Deluxe Bagels,PC-01194-A,3.9,1.6,0.53,No,No
+1195,Truetaste,Truetaste Jumbo Deodorant,T-01195-N,7.11,3.46,0.39,Yes,No
+1196,Prime Select,Prime Select Mini Cookies,PS-01196-E,4.72,2.4,0.42,Yes,Yes
+1197,Wholesome Co,Wholesome Co Reduced Fat Soda,WC-01197-C,1.73,1.12,2.79,Yes,No
+1198,Meadowbrook,Meadowbrook Original Sour Cream,M-01198-Y,2.61,1.47,0.88,No,No
+1199,Prime Select,Prime Select Low Sodium Cookies,PS-01199-Q,1.59,0.98,0.81,Yes,No
+1200,Sunrise Organics,Sunrise Organics Extra Crunchy Cream,SO-01200-Q,5.48,1.93,1.97,No,Yes
+1201,Urban Pantry,Urban Pantry Extra Crunchy Bananas,UP-01201-X,0.69,0.46,1.53,Yes,No
+1202,Premium Choice,Premium Choice Original Tortilla Chips,PC-01202-N,4.28,2.95,0.78,Yes,Yes
+1203,Bluepeak,Bluepeak Organic Shampoo,B-01203-E,10.61,3.92,0.58,Yes,No
+1204,Meadowbrook,Meadowbrook Value Pack Butter,M-01204-K,1.98,0.71,1.99,Yes,No
+1205,American Classic,American Classic Jumbo Tilapia,AC-01205-S,8.9,4.02,0.54,No,No
+1206,Northern Mills,Northern Mills Gourmet Bacon,NM-01206-Y,6.86,2.44,1.53,No,No
+1207,Premium Choice,Premium Choice Extra Crunchy Onions,PC-01207-R,1.77,0.67,1.75,Yes,No
+1208,Heritage Foods,Heritage Foods Jumbo Sports Drink,HF-01208-V,2.61,1.38,0.75,Yes,No
+1209,Sunrise Organics,Sunrise Organics Classic Toothpaste,SO-01209-Y,8.11,4.95,1.34,Yes,No
+1210,Urban Pantry,Urban Pantry Fresh Vitamins,UP-01210-I,10.03,5.92,1.07,Yes,No
+1211,Golden Harvest,Golden Harvest Extra Crunchy Pretzels,GH-01211-C,3.57,1.48,0.82,Yes,No
+1212,Golden Harvest,Golden Harvest Extra Crunchy Pork Chops,GH-01212-L,11.24,4.31,0.84,Yes,No
+1213,Bluepeak,Bluepeak Classic Vitamins,B-01213-J,10.58,4.53,1.34,No,No
+1214,Greenleaf,Greenleaf Fresh Sausage,G-01214-C,3.87,2.32,1.34,Yes,No
+1215,Northern Mills,Northern Mills Reduced Fat Tv Dinner,NM-01215-K,4.7,2.27,1.85,Yes,Yes
+1216,Hilltop Farms,Hilltop Farms Jumbo Ground Beef,HF-01216-E,3.88,1.7,3.14,No,No
+1217,Urban Pantry,Urban Pantry Original Salmon Fillet,UP-01217-O,15.45,2.42,1.34,No,No
+1218,Prime Select,Prime Select Value Pack Onions,PS-01218-N,3.05,1.43,0.59,No,No
+1219,Value Plus,Value Plus Deluxe Shrimp,VP-01219-P,6.7,4.03,2.49,No,No
+1220,Wholesome Co,Wholesome Co Extra Crunchy Frozen Pizza,WC-01220-F,4.27,2.04,1.83,Yes,No
+1221,Pure Origins,Pure Origins Extra Crunchy Paper Towels,PO-01221-C,10.69,2.42,3.14,No,No
+1222,Pure Origins,Pure Origins Low Sodium Chicken Breast,PO-01222-W,3.13,1.81,2.9,No,Yes
+1223,Pure Origins,Pure Origins Reduced Fat Bagels,PO-01223-T,1.82,0.74,1.19,Yes,No
+1224,Value Plus,Value Plus Mini Sports Drink,VP-01224-G,1.98,1.37,2.37,No,No
+1225,Premium Choice,Premium Choice Classic Donuts,PC-01225-E,2.39,1.35,0.77,Yes,No
+1226,Meadowbrook,Meadowbrook Family Size Juice,M-01226-J,6.15,2.67,2.11,Yes,No
+1227,Crystal Springs,Crystal Springs Value Pack Potato Chips,CS-01227-C,4.54,2.99,0.6,Yes,Yes
+1228,Pure Origins,Pure Origins Jumbo Milk,PO-01228-L,1.95,0.75,0.78,Yes,Yes
+1229,Urban Pantry,Urban Pantry Extra Crunchy Ham,UP-01229-S,7.65,3.28,0.83,Yes,No
+1230,Ecoharvest,Ecoharvest Original Cookies,E-01230-L,1.69,0.68,0.92,No,Yes
+1231,Coastal Fresh,Coastal Fresh Organic Bagels,CF-01231-G,5.19,2.96,0.84,No,No
+1232,Sunrise Organics,Sunrise Organics Mini Shampoo,so-01232-n,7.04,2.83,0.43,Yes,No
+1233,Meadowbrook,Meadowbrook Deluxe Soda,M-01233-A,7.4,4.24,1.95,No,No
+1234,Golden Harvest,Golden Harvest Original Potato Chips,GH-01234-W,3.93,2.31,0.82,No,No
+1235,Value Plus,Value Plus Fresh Frozen Pizza,VP-01235-P,3.37,2.19,0.8,No,No
+1236,Sunrise Organics,Sunrise Organics Lite Bacon,SO-01236-W,4.59,2.43,2.54,Yes,No
+1237,Family Choice,Family Choice Jumbo Deodorant,FC-01237-Y,11.53,5.59,1.04,No,No
+1238,Crystal Springs,Crystal Springs Organic Tuna,CS-01238-C,13.23,8.72,2.24,Yes,No
+1239,Farmhouse Select,Farmhouse Select Value Pack Butter,FS-01239-Z,3.94,1.65,1.34,No,Yes
+1240,Hilltop Farms,Hilltop Farms Value Pack Pork Chops,HF-01240-Z,5.17,2.01,2.33,No,No
+1241,Sunrise Organics,Sunrise Organics Extra Crunchy Milk,SO-01241-I,4.06,2.81,1.64,No,No
+1242,Value Plus,Value Plus Original Cookies,VP-01242-M,4.02,2.06,0.43,No,No
+1243,Meadowbrook,Meadowbrook Deluxe Sausage,M-01243-R,3.55,2.39,2.82,Yes,Yes
+1244,Hilltop Farms,Hilltop Farms Jumbo Pork Chops,hf-01244-o,7.39,2.66,1.75,No,No
+1245,Silver Creek,Silver Creek Gourmet Pork Chops,SC-01245-O,11.03,5.84,1.46,No,No
+1246,Wholesome Co,Wholesome Co Mini Sour Cream,WC-01246-Y,4.88,1.74,0.72,No,Yes
+1247,Natures Best,Natures Best Original Onions,NB-01247-X,1.54,0.56,1.58,Yes,No
+1248,Sunrise Organics,Sunrise Organics Organic Ground Beef,SO-01248-L,7.0,4.74,2.51,No,No
+1249,Crystal Springs,Crystal Springs Reduced Fat Lettuce,CS-01249-I,2.73,1.28,2.64,No,No
+1250,Hilltop Farms,Hilltop Farms Mini Cookies,HF-01250-Y,2.03,1.27,0.38,Yes,No
+1251,Prime Select,Prime Select Fresh Cheese,PS-01251-M,3.88,1.82,0.82,Yes,No
+1252,Northern Mills,Northern Mills Value Pack Sports Drink,NM-01252-L,7.18,4.69,1.06,Yes,No
+1253,Wholesome Co,Wholesome Co Value Pack Rolls,WC-01253-E,2.49,1.25,1.28,Yes,No
+1254,Coastal Fresh,Coastal Fresh Family Size Deodorant,CF-01254-O,3.25,1.27,0.45,Yes,No
+1255,Wholesome Co,Wholesome Co Extra Crunchy Toothpaste,WC-01255-V,9.4,3.37,1.02,Yes,No
+1256,Sunrise Organics,Sunrise Organics Extra Crunchy Deodorant,so-01256-o,9.77,6.51,1.04,No,No
+1257,Sunrise Organics,Sunrise Organics Mini Lettuce,SO-01257-Y,2.39,0.95,1.88,No,No
+1258,Prime Select,Prime Select Reduced Fat Ground Beef,PS-01258-B,4.07,1.54,1.16,No,No
+1259,Ecoharvest,Ecoharvest Organic Bagels,E-01259-Z,5.16,2.51,1.24,No,No
+1260,Premium Choice,Premium Choice Mini Deodorant,PC-01260-B,9.06,5.26,0.55,No,No
+1261,Coastal Fresh,Coastal Fresh Lite Coffee,CF-01261-Q,2.7,0.97,1.29,Yes,No
+1262,Meadowbrook,Meadowbrook Classic Napkins,M-01262-U,5.42,3.77,3.8,Yes,No
+1263,Hilltop Farms,Hilltop Farms Traditional Ice Cream,HF-01263-U,8.13,4.2,1.96,Yes,No
+1264,Meadowbrook,Meadowbrook Family Size Lotion,M-01264-J,6.3,3.0,1.04,No,No
+1265,Silver Creek,Silver Creek Extra Crunchy Bananas,SC-01265-T,2.85,1.73,2.76,Yes,No
+1266,Greenleaf,Greenleaf Deluxe Cookies,G-01266-I,1.89,1.11,0.7,No,No
+1267,American Classic,American Classic Jumbo Sour Cream,AC-01267-K,3.9,2.21,1.28,Yes,No
+1268,Sunrise Organics,Sunrise Organics Low Sodium Frozen Fries,SO-01268-N,2.78,1.7,2.84,Yes,No
+1269,Wholesome Co,Wholesome Co Mini Toothpaste,WC-01269-A,4.2,2.68,1.15,No,No
+1270,Value Plus,Value Plus Low Sodium Cookies,VP-01270-R,4.82,2.28,0.84,No,Yes
+1271,Prime Select,Prime Select Low Sodium Pork Chops,PS-01271-Z,9.22,3.27,2.02,Yes,No
+1272,Crystal Springs,Crystal Springs Organic Coffee,CS-01272-O,3.67,1.66,0.7,Yes,No
+1273,American Classic,American Classic Deluxe Cookies,AC-01273-P,3.98,2.12,0.52,Yes,No
+1274,Golden Valley,Golden Valley Gourmet Ice Cream,GV-01274-O,7.93,5.29,1.12,Yes,No
+1275,Sunrise Organics,Sunrise Organics Traditional Tuna,SO-01275-M,14.18,5.03,1.42,Yes,No
+1276,Meadowbrook,Meadowbrook Gourmet Bread,M-01276-B,2.5,1.41,1.21,Yes,No
+1277,Coastal Fresh,Coastal Fresh Mini Apples,CF-01277-Z,3.41,1.71,2.45,Yes,No
+1278,Family Choice,Family Choice Deluxe Chicken Breast,FC-01278-X,3.26,2.01,2.82,No,Yes
+1279,Golden Valley,Golden Valley Gourmet Onions,GV-01279-A,3.85,1.49,2.56,Yes,No
+1280,Truetaste,Truetaste Low Sodium Sausage,T-01280-N,11.95,8.27,2.21,No,No
+1281,Pure Origins,Pure Origins Fresh Juice,po-01281-w,3.07,1.53,0.84,No,No
+1282,Truetaste,Truetaste Fresh Bacon,T-01282-E,7.88,3.6,1.34,No,No
+1283,Premium Choice,Premium Choice Organic Bread,PC-01283-S,4.49,2.35,1.26,No,No
+1284,Coastal Fresh,Coastal Fresh Classic Muffins,CF-01284-W,4.84,3.11,1.08,Yes,No
+1285,Northern Mills,Northern Mills Gourmet Bottled Water,NM-01285-X,2.91,1.71,2.17,Yes,No
+1286,Premium Choice,Premium Choice Low Sodium Paper Towels,PC-01286-B,9.18,5.83,3.01,No,No
+1287,Family Choice,Family Choice Value Pack Dish Soap,FC-01287-Q,3.18,1.76,3.19,No,No
+1288,Coastal Fresh,Coastal Fresh Family Size Sausage,CF-01288-K,8.94,4.51,1.03,Yes,No
+1289,Coastal Fresh,Coastal Fresh Low Sodium Cream,CF-01289-F,5.11,3.14,1.74,Yes,No
+1290,Northern Mills,Northern Mills Reduced Fat Laundry Detergent,NM-01290-L,8.75,3.4,3.08,Yes,No
+1291,Sunrise Organics,Sunrise Organics Reduced Fat Tea,SO-01291-I,2.23,1.3,2.05,Yes,No
+1292,Hilltop Farms,Hilltop Farms Organic Juice,HF-01292-E,3.52,1.65,1.34,Yes,No
+1293,Golden Harvest,Golden Harvest Value Pack Potato Chips,GH-01293-D,3.05,1.73,0.32,No,No
+1294,Farmhouse Select,Farmhouse Select Fresh Bread,FS-01294-W,5.16,2.21,0.8,Yes,No
+1295,Greenleaf,Greenleaf Organic Ham,G-01295-V,8.6,3.82,2.57,No,No
+1296,Wholesome Co,Wholesome Co Family Size Salmon Fillet,WC-01296-G,15.67,9.18,1.16,No,No
+1297,American Classic,American Classic Organic Bacon,AC-01297-J,11.2,5.95,2.14,No,Yes
+1298,Prime Select,Prime Select Low Sodium Yogurt,PS-01298-C,4.24,1.85,1.22,No,Yes
+1299,Pure Origins,Pure Origins Deluxe Tortilla Chips,PO-01299-C,4.86,1.87,0.82,Yes,Yes
+1300,Ecoharvest,Ecoharvest Classic Carrots,E-01300-S,3.2,1.94,1.34,No,No
+1301,Value Plus,Value Plus Lite Crackers,VP-01301-A,4.94,2.42,0.83,No,No
+1302,Heritage Foods,Heritage Foods Value Pack Crab Legs,HF-01302-C,8.07,5.11,0.59,Yes,No
+1303,Ecoharvest,Ecoharvest Value Pack Tomatoes,E-01303-A,1.46,1.0,2.22,Yes,No
+1304,Silver Creek,Silver Creek Traditional Crab Legs,SC-01304-X,9.66,4.4,1.9,Yes,No
+1305,Coastal Fresh,Coastal Fresh Original Milk,CF-01305-S,3.44,2.18,1.52,No,No
+1306,Natures Best,Natures Best Organic Lotion,NB-01306-C,11.46,6.96,0.32,Yes,No
+1307,Ecoharvest,Ecoharvest Low Sodium Crackers,E-01307-C,2.17,0.95,0.35,No,No
+1308,Family Choice,Family Choice Lite Coffee,FC-01308-B,3.31,1.87,2.35,Yes,No
+1309,Silver Creek,Silver Creek Value Pack Coffee,SC-01309-R,2.05,1.29,1.92,No,No
+1310,Coastal Fresh,Coastal Fresh Lite Tortilla Chips,CF-01310-J,1.67,0.74,0.44,Yes,No
+1311,Coastal Fresh,Coastal Fresh Value Pack Trash Bags,CF-01311-J,6.8,3.27,1.34,Yes,No
+1312,Truetaste,Truetaste Organic Ice Cream,T-01312-V,2.75,1.33,2.95,Yes,No
+1313,Golden Valley,Golden Valley Original Tortilla Chips,GV-01313-K,1.63,0.99,0.71,Yes,No
+1314,Golden Valley,Golden Valley Low Sodium Paper Towels,GV-01314-T,6.45,3.86,1.13,No,No
+1315,Golden Harvest,Golden Harvest Original Juice,GH-01315-X,1.91,0.9,1.0,Yes,No
+1316,Northern Mills,Northern Mills Organic Sour Cream,NM-01316-M,1.59,0.63,2.19,No,No
+1317,Truetaste,Truetaste Organic Ham,T-01317-M,6.54,3.63,3.47,No,No
+1318,Everyday Basics,Everyday Basics Lite Cookies,eb-01318-q,3.65,2.55,0.82,Yes,Yes
+1319,Pure Origins,Pure Origins Deluxe Butter,PO-01319-E,1.98,1.26,0.77,No,No
+1320,Ecoharvest,Ecoharvest Lite Bread,E-01320-T,2.4,1.59,0.78,No,No
+1321,Farmhouse Select,Farmhouse Select Classic Frozen Vegetables,FS-01321-B,5.03,3.35,0.99,Yes,No
+1322,Crystal Springs,Crystal Springs Lite Pretzels,CS-01322-N,4.27,2.62,0.54,Yes,No
+1323,Bluepeak,Bluepeak Low Sodium Potato Chips,B-01323-G,1.96,0.74,0.32,Yes,No
+1324,Golden Valley,Golden Valley Low Sodium Shampoo,GV-01324-S,12.43,5.41,0.95,No,No
+1325,Meadowbrook,Meadowbrook Organic Croissants,M-01325-W,5.49,1.94,1.43,Yes,No
+1326,Premium Choice,Premium Choice Fresh Bagels,pc-01326-b,3.85,2.59,0.31,Yes,No
+1327,Hilltop Farms,Hilltop Farms Original Muffins,HF-01327-Q,4.14,1.84,1.24,No,No
+1328,Wholesome Co,Wholesome Co Family Size Frozen Fries,WC-01328-I,6.45,3.39,1.71,Yes,No
+1329,Family Choice,Family Choice Gourmet Waffles,FC-01329-Z,8.92,4.3,2.13,No,No
+1330,American Classic,American Classic Reduced Fat Shrimp,AC-01330-Z,10.8,5.98,1.85,Yes,No
+1331,Pure Origins,Pure Origins Value Pack Sports Drink,PO-01331-M,2.18,1.36,1.24,No,No
+1332,Golden Harvest,Golden Harvest Jumbo Tilapia,GH-01332-S,13.49,8.93,0.72,No,No
+1333,Truetaste,Truetaste Low Sodium Tortilla Chips,T-01333-A,4.67,2.0,0.56,Yes,Yes
+1334,Family Choice,Family Choice Lite Milk,FC-01334-N,6.43,3.4,0.54,No,Yes
+1335,Greenleaf,Greenleaf Family Size Vitamins,G-01335-G,11.8,6.82,1.07,Yes,No
+1336,Northern Mills,Northern Mills Traditional Frozen Fries,NM-01336-J,7.92,5.06,1.05,Yes,No
+1337,Bluepeak,Bluepeak Family Size Pork Chops,B-01337-G,10.89,7.52,2.28,Yes,No
+1338,Coastal Fresh,Coastal Fresh Traditional Crab Legs,CF-01338-J,8.87,5.81,0.79,No,No
+1339,Golden Harvest,Golden Harvest Low Sodium Crab Legs,GH-01339-X,12.32,5.85,1.02,Yes,No
+1340,Coastal Fresh,Coastal Fresh Mini Milk,CF-01340-K,6.0,2.91,2.39,No,No
+1341,Northern Mills,Northern Mills Low Sodium Bacon,NM-01341-A,5.96,2.42,3.31,No,No
+1342,Hilltop Farms,Hilltop Farms Fresh Potato Chips,HF-01342-F,5.0,2.62,0.75,No,Yes
+1343,Golden Harvest,Golden Harvest Reduced Fat Vitamins,GH-01343-Z,3.27,1.3,0.95,Yes,No
+1344,Natures Best,Natures Best Reduced Fat Shampoo,NB-01344-Q,11.2,6.77,0.47,No,No
+1345,Golden Harvest,Golden Harvest Fresh Tortilla Chips,GH-01345-A,3.99,2.47,0.5,Yes,Yes
+1346,Hilltop Farms,Hilltop Farms Fresh Pretzels,HF-01346-H,4.69,2.16,0.49,Yes,No
+1347,Golden Harvest,Golden Harvest Jumbo Frozen Pizza,GH-01347-A,4.0,1.57,2.83,No,Yes
+1348,Greenleaf,Greenleaf Fresh Ice Cream,G-01348-V,6.42,2.71,1.66,Yes,Yes
+1349,Coastal Fresh,Coastal Fresh Organic Tilapia,CF-01349-L,11.3,4.38,1.34,Yes,No
+1350,Crystal Springs,Crystal Springs Fresh Bread,CS-01350-B,1.59,0.62,1.23,No,No
+1351,Premium Choice,Premium Choice Value Pack Trash Bags,PC-01351-I,9.05,5.18,1.4,No,No
+1352,Crystal Springs,Crystal Springs Deluxe Tilapia,CS-01352-N,6.92,3.84,2.47,No,No
+1353,Crystal Springs,Crystal Springs Extra Crunchy Carrots,CS-01353-C,2.87,1.59,2.25,No,No
+1354,Silver Creek,Silver Creek Value Pack Deodorant,SC-01354-B,12.12,7.37,0.69,No,No
+1355,Natures Best,Natures Best Jumbo Ice Cream,NB-01355-Y,4.22,2.95,2.12,Yes,Yes
+1356,American Classic,American Classic Family Size Cookies,AC-01356-E,3.29,1.57,0.94,Yes,No
+1357,Hilltop Farms,Hilltop Farms Reduced Fat Bananas,HF-01357-D,2.82,1.37,1.29,Yes,No
+1358,American Classic,American Classic Low Sodium Napkins,AC-01358-J,9.28,3.98,0.97,Yes,No
+1359,Heritage Foods,Heritage Foods Fresh Crab Legs,HF-01359-T,14.12,7.84,1.5,No,No
+1360,Hilltop Farms,Hilltop Farms Family Size Rolls,HF-01360-C,1.91,0.78,0.64,Yes,No
+1361,Meadowbrook,Meadowbrook Deluxe Laundry Detergent,M-01361-N,4.32,1.97,1.81,No,No
+1362,American Classic,American Classic Lite Sports Drink,AC-01362-K,7.07,2.74,2.56,Yes,No
+1363,Coastal Fresh,Coastal Fresh Jumbo Deodorant,CF-01363-Z,7.49,5.1,0.41,No,No
+1364,Hilltop Farms,Hilltop Farms Mini Apples,HF-01364-Y,1.2,0.83,2.03,No,No
+1365,Heritage Foods,Heritage Foods Mini Shrimp,HF-01365-V,6.62,4.18,0.79,Yes,No
+1366,Crystal Springs,Crystal Springs Lite Laundry Detergent,CS-01366-L,7.86,4.91,3.82,No,No
+1367,Everyday Basics,Everyday Basics Original Aluminum Foil,EB-01367-Q,3.17,1.3,1.34,No,No
+1368,Everyday Basics,Everyday Basics Mini Vitamins,EB-01368-C,6.13,2.54,0.66,No,No
+1369,Ecoharvest,Ecoharvest Deluxe Pretzels,E-01369-Y,1.65,0.78,0.56,No,No
+1370,Premium Choice,Premium Choice Lite Bread,PC-01370-G,1.86,1.14,0.72,Yes,No
+1371,Urban Pantry,Urban Pantry Original Juice,UP-01371-X,7.06,3.21,1.55,Yes,No
+1372,Wholesome Co,Wholesome Co Reduced Fat Onions,WC-01372-F,1.38,0.69,2.61,Yes,No
+1373,Value Plus,Value Plus Low Sodium Tea,VP-01373-I,4.35,1.64,1.38,No,No
+1374,Ecoharvest,Ecoharvest Jumbo Shrimp,E-01374-G,13.89,7.16,0.7,Yes,No
+1375,Value Plus,Value Plus Reduced Fat Popcorn,VP-01375-I,2.32,1.49,0.31,No,Yes
+1376,Greenleaf,Greenleaf Traditional Trash Bags,G-01376-D,10.92,7.26,2.89,Yes,No
+1377,Golden Harvest,Golden Harvest Extra Crunchy Shampoo,GH-01377-Q,4.27,2.5,1.17,Yes,No
+1378,Heritage Foods,Heritage Foods Deluxe Popcorn,HF-01378-J,3.54,2.21,0.29,No,No
+1379,Prime Select,Prime Select Original Tea,PS-01379-T,3.53,1.8,1.8,Yes,No
+1380,Prime Select,Prime Select Low Sodium Potato Chips,PS-01380-E,1.76,1.06,0.99,Yes,No
+1381,Crystal Springs,Crystal Springs Organic Chicken Breast,CS-01381-V,9.62,3.92,1.33,No,No
+1382,Pure Origins,Pure Origins Low Sodium Frozen Fries,PO-01382-K,8.38,4.06,1.28,No,No
+1383,Prime Select,Prime Select Mini Shrimp,PS-01383-Z,10.2,6.88,1.65,Yes,No
+1384,Truetaste,Truetaste Deluxe Chicken Breast,T-01384-X,9.1,5.64,1.35,Yes,No
+1385,Golden Valley,Golden Valley Low Sodium Tv Dinner,GV-01385-E,4.46,2.42,1.34,Yes,No
+1386,Pure Origins,Pure Origins Organic Bar Soap,PO-01386-Y,9.43,5.69,0.29,Yes,No
+1387,Value Plus,Value Plus Jumbo Waffles,VP-01387-V,8.72,5.41,1.45,No,No
+1388,Golden Valley,Golden Valley Family Size Bar Soap,GV-01388-W,9.24,4.54,0.44,No,No
+1389,Value Plus,Value Plus Reduced Fat Shampoo,VP-01389-Y,9.9,4.91,1.03,Yes,No
+1390,Heritage Foods,Heritage Foods Mini Cod,hf-01390-i,7.74,2.74,1.89,Yes,No
+1391,Farmhouse Select,Farmhouse Select Extra Crunchy Toothpaste,FS-01391-L,3.98,1.5,0.82,No,No
+1392,Coastal Fresh,Coastal Fresh Deluxe Bar Soap,CF-01392-O,3.47,1.31,0.77,No,No
+1393,Meadowbrook,Meadowbrook Extra Crunchy Apples,M-01393-I,0.99,0.52,0.58,Yes,No
+1394,Value Plus,Value Plus Extra Crunchy Sports Drink,VP-01394-R,5.63,2.11,2.65,Yes,No
+1395,Prime Select,Prime Select Extra Crunchy Bottled Water,PS-01395-B,1.31,0.85,1.47,Yes,No
+1396,Golden Harvest,Golden Harvest Traditional Soda,GH-01396-F,2.73,1.43,1.54,Yes,No
+1397,Everyday Basics,Everyday Basics Extra Crunchy Sour Cream,EB-01397-H,5.33,3.12,1.37,Yes,No
+1398,Heritage Foods,Heritage Foods Classic Shrimp,HF-01398-F,13.72,6.36,1.53,No,No
+1399,Silver Creek,Silver Creek Lite Salmon Fillet,SC-01399-C,14.42,7.35,2.39,Yes,No
+1400,Farmhouse Select,Farmhouse Select Gourmet Sour Cream,FS-01400-V,3.96,1.75,0.82,Yes,No
+1401,Hilltop Farms,Hilltop Farms Mini Frozen Vegetables,HF-01401-R,5.21,2.65,1.63,Yes,No
+1402,American Classic,American Classic Value Pack Sausage,AC-01402-Z,4.15,2.39,3.34,Yes,No
+1403,Truetaste,Truetaste Lite Frozen Fries,T-01403-S,5.69,3.77,2.38,Yes,No
+1404,Heritage Foods,Heritage Foods Gourmet Frozen Fries,HF-01404-G,4.27,2.74,1.38,No,No
+1405,Golden Harvest,Golden Harvest Mini Cod,GH-01405-Y,8.46,4.83,1.12,No,No
+1406,Coastal Fresh,Coastal Fresh Classic Cheese,CF-01406-G,2.59,1.12,1.27,No,Yes
+1407,Farmhouse Select,Farmhouse Select Low Sodium Paper Towels,FS-01407-Y,10.54,5.38,1.53,Yes,No
+1408,Coastal Fresh,Coastal Fresh Lite Frozen Fries,CF-01408-Z,6.84,2.88,2.57,No,No
+1409,Family Choice,Family Choice Organic Dish Soap,FC-01409-G,4.03,2.12,1.48,No,No
+1410,Premium Choice,Premium Choice Organic Tea,pc-01410-m,4.38,1.7,1.59,Yes,No
+1411,Value Plus,Value Plus Traditional Ground Beef,VP-01411-W,5.06,2.9,1.63,Yes,No
+1412,Truetaste,Truetaste Reduced Fat Cookies,T-01412-Q,2.74,0.96,0.9,No,Yes
+1413,American Classic,American Classic Gourmet Cod,AC-01413-T,10.73,6.42,0.84,No,No
+1414,Farmhouse Select,Farmhouse Select Jumbo Butter,FS-01414-N,2.98,2.07,1.72,Yes,Yes
+1415,Crystal Springs,Crystal Springs Jumbo Dish Soap,CS-01415-G,3.24,1.71,2.79,Yes,No
+1416,Northern Mills,Northern Mills Family Size Tv Dinner,NM-01416-F,5.85,3.11,2.82,Yes,No
+1417,Greenleaf,Greenleaf Low Sodium Sausage,G-01417-V,10.06,11.78,1.3,No,No
+1418,Golden Harvest,Golden Harvest Gourmet Bottled Water,GH-01418-G,3.98,2.59,0.64,Yes,No
+1419,Silver Creek,Silver Creek Extra Crunchy Trash Bags,SC-01419-X,2.18,0.93,3.09,No,No
+1420,Family Choice,Family Choice Original Ice Cream,FC-01420-N,7.56,4.37,2.79,Yes,Yes
+1421,Heritage Foods,Heritage Foods Organic Lotion,HF-01421-L,11.99,5.49,0.9,Yes,No
+1422,Ecoharvest,Ecoharvest Mini Juice,E-01422-F,2.33,1.19,1.9,No,No
+1423,Greenleaf,Greenleaf Value Pack Muffins,G-01423-J,2.29,1.26,1.32,Yes,No
+1424,Urban Pantry,Urban Pantry Extra Crunchy Cheese,UP-01424-P,3.13,2.01,1.63,No,Yes
+1425,Farmhouse Select,Farmhouse Select Extra Crunchy Laundry Detergent,FS-01425-E,3.14,2.13,1.03,No,No
+1426,Prime Select,Prime Select Reduced Fat Sour Cream,PS-01426-R,4.13,2.42,1.17,No,No
+1427,Everyday Basics,Everyday Basics Fresh Butter,EB-01427-X,4.36,1.81,1.93,No,Yes
+1428,American Classic,American Classic Mini Pork Chops,AC-01428-G,4.35,2.93,1.64,No,Yes
+1429,Everyday Basics,Everyday Basics Organic Bread,EB-01429-B,4.17,2.83,0.43,No,No
+1430,Greenleaf,Greenleaf Classic Ground Beef,G-01430-C,3.53,2.27,2.05,Yes,No
+1431,Sunrise Organics,Sunrise Organics Reduced Fat Crackers,SO-01431-Q,3.15,1.69,0.98,No,No
+1432,Crystal Springs,Crystal Springs Organic Tilapia,CS-01432-P,8.43,4.84,0.64,Yes,No
+1433,Everyday Basics,Everyday Basics Traditional Yogurt,EB-01433-N,5.56,3.37,0.89,Yes,No
+1434,Silver Creek,Silver Creek Gourmet Ground Beef,SC-01434-V,8.52,3.72,1.67,Yes,No
+1435,Everyday Basics,Everyday Basics Classic Lettuce,EB-01435-X,3.74,2.06,1.06,Yes,No
+1436,Coastal Fresh,Coastal Fresh Lite Bacon,CF-01436-Y,5.21,2.96,2.28,Yes,No
+1437,Truetaste,Truetaste Extra Crunchy Tea,T-01437-N,7.95,3.92,1.99,No,No
+1438,Meadowbrook,Meadowbrook Low Sodium Tv Dinner,M-01438-J,6.17,3.87,2.19,Yes,No
+1439,Urban Pantry,Urban Pantry Mini Salmon Fillet,UP-01439-I,8.75,5.14,1.34,No,No
+1440,Ecoharvest,Ecoharvest Classic Sports Drink,E-01440-Q,1.71,1.18,1.76,No,No
+1441,Urban Pantry,Urban Pantry Deluxe Bagels,UP-01441-J,3.13,2.15,0.53,No,No
+1442,Bluepeak,Bluepeak Original Ham,B-01442-E,7.41,2.76,1.69,Yes,No
+1443,Hilltop Farms,Hilltop Farms Low Sodium Shampoo,HF-01443-O,5.62,2.48,0.98,Yes,No
+1444,Golden Valley,Golden Valley Reduced Fat Crackers,GV-01444-D,4.1,1.52,0.52,No,No
+1445,Pure Origins,Pure Origins Original Apples,PO-01445-Z,3.57,1.39,2.52,No,No
+1446,Heritage Foods,Heritage Foods Organic Tuna,HF-01446-F,14.87,9.7,1.59,Yes,No
+1447,Family Choice,Family Choice Value Pack Juice,FC-01447-P,5.73,2.14,0.53,Yes,No
+1448,Ecoharvest,Ecoharvest Organic Muffins,E-01448-N,4.23,1.86,0.39,Yes,No
+1449,Hilltop Farms,Hilltop Farms Mini Bottled Water,HF-01449-E,6.31,7.89,1.92,No,No
+1450,Prime Select,Prime Select Gourmet Bar Soap,PS-01450-W,11.38,7.0,0.29,No,No
+1451,Coastal Fresh,Coastal Fresh Original Cream,CF-01451-Y,3.41,1.33,1.93,Yes,No
+1452,Natures Best,Natures Best Value Pack Pork Chops,nb-01452-t,11.61,5.56,0.95,No,Yes
+1453,Truetaste,Truetaste Lite Rolls,T-01453-Z,4.92,2.09,1.4,No,No
+1454,Coastal Fresh,Coastal Fresh Fresh Crackers,CF-01454-D,2.41,1.34,0.33,No,Yes
+1455,Everyday Basics,Everyday Basics Family Size Frozen Vegetables,EB-01455-Y,6.45,2.99,1.79,Yes,No
+1456,Silver Creek,Silver Creek Extra Crunchy Bread,SC-01456-Y,1.69,0.96,0.88,Yes,No
+1457,Everyday Basics,Everyday Basics Original Tea,EB-01457-I,3.91,2.27,0.72,No,No
+1458,Pure Origins,Pure Origins Family Size Pretzels,PO-01458-N,3.73,1.46,0.46,Yes,No
+1459,Wholesome Co,Wholesome Co Value Pack Tea,WC-01459-P,6.62,2.88,2.65,No,No
+1460,Family Choice,Family Choice Mini Carrots,FC-01460-T,2.7,1.66,2.45,No,No
+1461,Truetaste,Truetaste Reduced Fat Bananas,T-01461-T,3.81,2.65,2.18,Yes,No
+1462,Heritage Foods,Heritage Foods Deluxe Rolls,HF-01462-C,4.1,2.15,1.32,Yes,No
+1463,Premium Choice,Premium Choice Family Size Ground Beef,PC-01463-A,3.2,1.93,1.92,Yes,No
+1464,Crystal Springs,Crystal Springs Organic Laundry Detergent,CS-01464-E,6.04,2.81,0.97,Yes,No
+1465,Sunrise Organics,Sunrise Organics Deluxe Tv Dinner,SO-01465-P,7.5,4.85,1.34,No,Yes
+1466,Greenleaf,Greenleaf Deluxe Frozen Pizza,G-01466-G,5.28,2.42,2.61,Yes,Yes
+1467,Golden Valley,Golden Valley Original Laundry Detergent,gv-01467-f,6.03,3.07,1.92,No,No
+1468,Meadowbrook,Meadowbrook Organic Coffee,M-01468-B,6.21,2.59,1.12,No,No
+1469,Urban Pantry,Urban Pantry Value Pack Crackers,UP-01469-M,3.74,1.84,0.8,Yes,Yes
+1470,Ecoharvest,Ecoharvest Extra Crunchy Sour Cream,E-01470-E,3.49,1.33,1.99,No,No
+1471,Silver Creek,Silver Creek Deluxe Muffins,SC-01471-U,1.57,0.77,0.33,Yes,No
+1472,Everyday Basics,Everyday Basics Reduced Fat Cheese,eb-01472-h,5.13,2.18,1.06,No,Yes
+1473,Greenleaf,Greenleaf Lite Tortilla Chips,G-01473-V,2.39,1.04,0.78,Yes,Yes
+1474,Heritage Foods,Heritage Foods Deluxe Aluminum Foil,HF-01474-L,9.32,3.55,1.17,No,No
+1475,American Classic,American Classic Lite Tv Dinner,AC-01475-A,4.22,2.25,1.34,Yes,No
+1476,Everyday Basics,Everyday Basics Fresh Napkins,EB-01476-T,3.62,2.49,1.62,No,No
+1477,Truetaste,Truetaste Reduced Fat Lettuce,T-01477-O,3.21,2.15,0.8,Yes,No
+1478,Urban Pantry,Urban Pantry Original Aluminum Foil,UP-01478-M,9.9,5.43,3.26,Yes,No
+1479,Northern Mills,Northern Mills Reduced Fat Lotion,NM-01479-R,3.14,1.28,0.61,Yes,No
+1480,Prime Select,Prime Select Gourmet Frozen Fries,PS-01480-B,4.41,1.9,1.17,Yes,No
+1481,Sunrise Organics,Sunrise Organics Traditional Cheese,SO-01481-S,1.72,0.97,1.38,No,No
+1482,Greenleaf,Greenleaf Fresh Tv Dinner,G-01482-L,3.09,1.65,1.13,Yes,No
+1483,Silver Creek,Silver Creek Deluxe Tv Dinner,SC-01483-T,3.63,1.39,1.34,Yes,Yes
+1484,Urban Pantry,Urban Pantry Fresh Potato Chips,UP-01484-X,2.08,1.4,0.23,Yes,Yes
+1485,Family Choice,Family Choice Fresh Crackers,FC-01485-Y,3.18,1.99,1.34,No,No
+1486,Crystal Springs,Crystal Springs Extra Crunchy Butter,CS-01486-S,4.55,2.18,1.36,No,No
+1487,American Classic,American Classic Classic Deodorant,AC-01487-P,11.23,4.3,0.58,No,No
+1488,Greenleaf,Greenleaf Original Lotion,G-01488-V,8.97,2.42,1.07,No,No
+1489,Crystal Springs,Crystal Springs Lite Bread,CS-01489-D,3.58,1.62,1.43,Yes,No
+1490,Meadowbrook,Meadowbrook Low Sodium Aluminum Foil,M-01490-B,9.13,3.44,1.81,Yes,No
+1491,Crystal Springs,Crystal Springs Reduced Fat Milk,CS-01491-W,2.22,1.14,1.48,No,Yes
+1492,Value Plus,Value Plus Deluxe Laundry Detergent,VP-01492-D,9.31,4.38,3.85,No,No
+1493,Northern Mills,Northern Mills Organic Cheese,NM-01493-S,5.12,2.18,0.95,Yes,No
+1494,Coastal Fresh,Coastal Fresh Family Size Croissants,CF-01494-M,2.59,1.64,0.93,Yes,No
+1495,Value Plus,Value Plus Traditional Sour Cream,VP-01495-W,4.21,2.62,1.14,Yes,No
+1496,Bluepeak,Bluepeak Value Pack Tuna,B-01496-E,4.27,2.42,1.34,No,No
+1497,Ecoharvest,Ecoharvest Jumbo Bottled Water,E-01497-O,1.66,0.77,2.77,No,No
+1498,Meadowbrook,Meadowbrook Classic Napkins,M-01498-Z,7.16,4.56,3.8,No,No
+1499,Natures Best,Natures Best Lite Tea,NB-01499-R,3.9,1.5,1.92,Yes,No
+1500,Meadowbrook,Meadowbrook Mini Coffee,M-01500-T,3.66,2.28,1.87,Yes,No
+1501,Family Choice,Family Choice Jumbo Ice Cream,FC-01501-Y,5.59,3.51,2.51,Yes,No
+1502,Golden Harvest,Golden Harvest Jumbo Pretzels,GH-01502-P,4.52,3.16,0.65,No,No
+1503,Prime Select,Prime Select Reduced Fat Frozen Pizza,PS-01503-H,3.59,1.77,1.28,Yes,Yes
+1504,Everyday Basics,Everyday Basics Organic Frozen Fries,EB-01504-X,8.29,3.99,1.3,No,No
+1505,Ecoharvest,Ecoharvest Lite Shrimp,E-01505-O,15.65,6.15,1.35,No,No
+1506,Sunrise Organics,Sunrise Organics Organic Bar Soap,SO-01506-Y,9.11,4.69,1.06,Yes,No
+1507,Bluepeak,Bluepeak Original Muffins,B-01507-V,3.09,1.95,0.47,No,No
+1508,Pure Origins,Pure Origins Family Size Sports Drink,PO-01508-B,7.07,2.53,2.0,Yes,No
+1509,Coastal Fresh,Coastal Fresh Family Size Frozen Pizza,CF-01509-R,8.28,4.58,2.04,Yes,No
+1510,Truetaste,Truetaste Jumbo Potato Chips,T-01510-A,2.42,1.45,0.94,Yes,Yes
+1511,Wholesome Co,Wholesome Co Value Pack Apples,WC-01511-B,0.87,0.59,1.85,Yes,No
+1512,Prime Select,Prime Select Gourmet Tortilla Chips,PS-01512-T,2.86,1.82,0.26,Yes,Yes
+1513,Silver Creek,Silver Creek Lite Tuna,SC-01513-U,12.45,5.4,1.55,No,No
+1514,Greenleaf,Greenleaf Extra Crunchy Salmon Fillet,G-01514-P,12.19,6.47,2.13,Yes,No
+1515,Sunrise Organics,Sunrise Organics Family Size Shampoo,SO-01515-T,12.14,4.86,1.2,Yes,No
+1516,Heritage Foods,Heritage Foods Family Size Frozen Fries,HF-01516-A,4.31,1.8,1.94,No,No
+1517,Golden Harvest,Golden Harvest Family Size Tuna,GH-01517-C,12.8,7.79,1.48,No,No
+1518,American Classic,American Classic Organic Milk,AC-01518-E,4.89,3.19,1.69,Yes,No
+1519,Urban Pantry,Urban Pantry Extra Crunchy Tomatoes,UP-01519-Q,0.91,0.56,0.97,Yes,No
+1520,Premium Choice,Premium Choice Low Sodium Cod,PC-01520-D,14.78,6.69,0.97,Yes,No
+1521,Value Plus,Value Plus Low Sodium Deodorant,VP-01521-S,12.5,8.14,0.76,No,No
+1522,Family Choice,Family Choice Extra Crunchy Croissants,FC-01522-P,4.75,2.45,1.19,Yes,No
+1523,Natures Best,Natures Best Organic Butter,NB-01523-V,2.11,0.87,2.49,No,No
+1524,Truetaste,Truetaste Reduced Fat Toothpaste,T-01524-I,12.33,5.6,0.63,No,No
+1525,Hilltop Farms,Hilltop Farms Deluxe Frozen Fries,HF-01525-L,6.46,4.16,2.82,Yes,No
+1526,Family Choice,Family Choice Original Crab Legs,FC-01526-O,9.31,4.72,0.8,No,No
+1527,Golden Harvest,Golden Harvest Jumbo Crab Legs,GH-01527-O,8.19,5.28,2.2,No,No
+1528,Coastal Fresh,Coastal Fresh Deluxe Cookies,CF-01528-Z,2.85,1.42,0.83,No,Yes
+1529,Prime Select,Prime Select Traditional Bottled Water,PS-01529-C,5.35,3.65,1.07,No,No
+1530,Everyday Basics,Everyday Basics Traditional Deodorant,EB-01530-P,4.89,1.74,0.86,Yes,No
+1531,Family Choice,Family Choice Family Size Popcorn,FC-01531-N,2.31,0.83,0.99,Yes,No
+1532,Urban Pantry,Urban Pantry Extra Crunchy Tea,UP-01532-N,4.46,1.56,2.04,No,No
+1533,American Classic,American Classic Gourmet Crab Legs,AC-01533-P,4.71,3.09,2.24,Yes,No
+1534,Heritage Foods,Heritage Foods Mini Shampoo,HF-01534-N,8.62,5.85,1.34,Yes,No
+1535,Wholesome Co,Wholesome Co Fresh Soda,WC-01535-D,6.1,2.38,1.72,No,No
+1536,Crystal Springs,Crystal Springs Low Sodium Vitamins,CS-01536-K,12.46,6.43,0.8,Yes,No
+1537,Truetaste,Truetaste Classic Rolls,T-01537-U,4.45,2.88,1.25,Yes,No
+1538,Ecoharvest,Ecoharvest Organic Tv Dinner,E-01538-G,6.55,3.02,1.49,Yes,No
+1539,American Classic,American Classic Jumbo Muffins,AC-01539-T,5.14,1.93,1.34,No,No
+1540,Silver Creek,Silver Creek Organic Muffins,SC-01540-R,5.45,2.07,0.43,No,No
+1541,Everyday Basics,Everyday Basics Original Bar Soap,EB-01541-Q,10.34,4.32,0.32,Yes,No
+1542,Wholesome Co,Wholesome Co Organic Onions,WC-01542-T,2.96,1.07,2.19,Yes,No
+1543,Golden Harvest,Golden Harvest Jumbo Ground Beef,GH-01543-W,8.42,3.34,1.9,Yes,No
+1544,Sunrise Organics,Sunrise Organics Classic Ham,SO-01544-M,5.93,3.49,3.27,Yes,No
+1545,Farmhouse Select,Farmhouse Select Deluxe Bar Soap,FS-01545-K,5.79,2.43,1.0,No,No
+1546,Urban Pantry,Urban Pantry Fresh Soda,UP-01546-Q,7.21,4.04,2.89,No,No
+1547,Premium Choice,Premium Choice Mini Lotion,PC-01547-S,8.65,5.21,0.6,Yes,No
+1548,American Classic,American Classic Reduced Fat Tv Dinner,AC-01548-Y,8.43,4.2,1.34,Yes,No
+1549,Natures Best,Natures Best Reduced Fat Lettuce,NB-01549-I,0.98,0.54,2.95,No,No
+1550,Premium Choice,Premium Choice Low Sodium Cod,PC-01550-H,8.44,4.8,1.1,Yes,No
+1551,Heritage Foods,Heritage Foods Jumbo Chicken Breast,hf-01551-z,6.36,3.47,1.0,Yes,Yes
+1552,Wholesome Co,Wholesome Co Organic Laundry Detergent,WC-01552-U,5.32,3.62,2.11,No,No
+1553,Ecoharvest,Ecoharvest Original Frozen Fries,E-01553-B,4.63,2.72,2.06,No,No
+1554,Everyday Basics,Everyday Basics Classic Shrimp,EB-01554-T,4.86,2.59,1.76,No,No
+1555,Family Choice,Family Choice Family Size Deodorant,FC-01555-N,10.85,6.59,0.99,No,No
+1556,Pure Origins,Pure Origins Organic Ice Cream,PO-01556-A,5.25,3.16,1.34,No,Yes
+1557,Northern Mills,Northern Mills Lite Sports Drink,NM-01557-P,2.72,1.56,1.34,No,No
+1558,Natures Best,Natures Best Organic Bread,NB-01558-V,1.53,0.95,0.72,Yes,No
+1559,Golden Harvest,Golden Harvest Reduced Fat Dish Soap,GH-01559-A,8.43,5.63,1.68,No,No
+1560,Sunrise Organics,Sunrise Organics Gourmet Shampoo,SO-01560-K,10.45,6.26,0.68,Yes,No
